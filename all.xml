@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 13:31:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 13:39:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -111,6 +111,76 @@
             <guid>https://the-hit.co/services/MFMif8MRV15aIufdNS7A</guid>
             <pubDate>Wed, 12 Jan 2022 20:39:22 GMT</pubDate>
             <content:encoded><![CDATA[가치소비 큐레이션 커머스 비보트]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[센드샵 (Disquiet ─ 프로덕트)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Fri, 14 Jan 2022 13:38:42 GMT</pubDate>
+            <content:encoded><![CDATA[중고폰 대신 판매 서비스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[무나 (Disquiet ─ 프로덕트)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Fri, 14 Jan 2022 13:38:42 GMT</pubDate>
+            <content:encoded><![CDATA[안전하고 빠르게 분템 및 득템 가능한 여성전용 무료나눔 앱]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[페이로드 (Disquiet ─ 프로덕트)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Fri, 14 Jan 2022 13:38:42 GMT</pubDate>
+            <content:encoded><![CDATA[결제 수수료 없이, 자체 간편 결제(like 쿠팡페이)를 쉽게 개발할 수 있게 해주는 핀테크 서비스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[렌트리 (Disquiet ─ 프로덕트)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Fri, 14 Jan 2022 13:38:42 GMT</pubDate>
+            <content:encoded><![CDATA[정수기 등 렌탈 제품 비교 &amp; 역경매식 판매원별 가격비교 플랫폼]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MUTTA 묻따 (Disquiet ─ 프로덕트)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Fri, 14 Jan 2022 13:38:42 GMT</pubDate>
+            <content:encoded><![CDATA[고등영어/토익 질문 답변 모바일 서비스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Objet (Disquiet ─ 프로덕트)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Fri, 14 Jan 2022 13:38:42 GMT</pubDate>
+            <content:encoded><![CDATA[사진 크롭 앱]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SaaS 리스트 by Relate 2.0 (Disquiet ─ 프로덕트)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Fri, 14 Jan 2022 13:38:42 GMT</pubDate>
+            <content:encoded><![CDATA[진짜로 쓸 만한 SaaS 툴들을 큐레이션 합니다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[씨링 See.ring (Disquiet ─ 프로덕트)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Fri, 14 Jan 2022 13:38:42 GMT</pubDate>
+            <content:encoded><![CDATA[AR 이모티콘으로 기록하는 커플 SNS]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[탈리 (Disquiet ─ 프로덕트)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Fri, 14 Jan 2022 13:38:42 GMT</pubDate>
+            <content:encoded><![CDATA[파워풀한 설문 양식 서비스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[프로덕테스트 (Disquiet ─ 프로덕트)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Fri, 14 Jan 2022 13:38:42 GMT</pubDate>
+            <content:encoded><![CDATA[스타트업을 위한 가설 검증 사례 공유 서비스]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카카오웹툰 (WWIT)]]></title>
