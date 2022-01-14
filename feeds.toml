@@ -1,11 +1,11 @@
 [thehit]
 title = "THE HIT"
 url = "https://the-hit.co/"
-entrySelector = "ul li.ServiceItemList_item__1PzdI"
+entrySelector = "div[class^='ServiceItemList_wrapper'] ul li[class^='ServiceItemList_item']"
 titleSelector = "h2[class^='euiTitle euiTitle']"
 linkSelector = "a"
 contentSelector = "p[class^='ServiceItem_ServiceItem__summary']"
-waitForSelector = ".ServiceItemList_item__1PzdI"
+waitForSelector = "li[class^='ServiceItemList_item']"
 
 [disquiet]
 title = "Disquiet ─ 전체"
