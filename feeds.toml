@@ -5,7 +5,8 @@ entrySelector = "div[class^='ServiceItemList_wrapper'] ul li[class^='ServiceItem
 titleSelector = "h2[class^='euiTitle euiTitle']"
 linkSelector = "a"
 contentSelector = "p[class^='ServiceItem_ServiceItem__summary']"
-waitForSelector = "li[class^='ServiceItemList_item']"
+waitForSelector = "div[class^='ServiceItemList_wrapper'] ul li[class^='ServiceItemList_item']"
+onFail = "stale"
 
 [disquiet]
 title = "Disquiet ─ 전체"
