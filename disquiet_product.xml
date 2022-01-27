@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=product</id>
     <title>Disquiet ─ 프로덕트</title>
-    <updated>2022-01-27T19:17:02.819Z</updated>
+    <updated>2022-01-27T20:20:58.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[스타트립]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-01-27T19:16:43.321Z</updated>
+        <updated>2022-01-27T20:20:38.650Z</updated>
         <content type="html"><![CDATA[한류 팬들에게 덕질투어 정보를 제공하는 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브루넬 Brunel]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-01-27T19:16:43.325Z</updated>
+        <updated>2022-01-27T20:20:38.650Z</updated>
         <content type="html"><![CDATA[Tech Trendsetters를 위한 기술 인사이트 커뮤니티]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[HOLIX]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-01-27T19:16:43.326Z</updated>
+        <updated>2022-01-27T20:20:38.651Z</updated>
         <content type="html"><![CDATA[멘토와 함께 성장하는 지식 커뮤니티]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[리틀리]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-01-27T19:16:43.327Z</updated>
+        <updated>2022-01-27T20:20:38.651Z</updated>
         <content type="html"><![CDATA[모두를 위한 페이지 빌더]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bixbar]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-01-27T19:16:43.328Z</updated>
+        <updated>2022-01-27T20:20:38.652Z</updated>
         <content type="html"><![CDATA[칵테일 추천을 빅스비와 함께]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[운동한컷]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-01-27T19:16:43.329Z</updated>
+        <updated>2022-01-27T20:20:38.653Z</updated>
         <content type="html"><![CDATA[운동기록을 사진 위에 그려 인증샷을 만들어주는 앱]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[tribe.so]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-01-27T19:16:43.330Z</updated>
+        <updated>2022-01-27T20:20:38.653Z</updated>
         <content type="html"><![CDATA[서비스 사용자들을 한데 모아주는 커뮤니티 빌더]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스코어러]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-01-27T19:16:43.332Z</updated>
+        <updated>2022-01-27T20:20:38.656Z</updated>
         <content type="html"><![CDATA[설계 경기 기록원]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나도선배]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-01-27T19:16:43.336Z</updated>
+        <updated>2022-01-27T20:20:38.656Z</updated>
         <content type="html"><![CDATA[제2전공생을 위한 학과 후기, 전공 정보 공유 플랫폼 "나도선배"]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[닷집]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-01-27T19:16:43.337Z</updated>
+        <updated>2022-01-27T20:20:38.657Z</updated>
         <content type="html"><![CDATA[여기저기 흩어져 있는 청약 정보를 한눈에 보기 쉽게 모아놓은 dotzip입니다.]]></content>
     </entry>
 </feed>
