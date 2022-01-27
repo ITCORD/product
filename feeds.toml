@@ -20,19 +20,19 @@ waitUntil = "networkidle"
 [disquiet_product]
 title = "Disquiet ─ 프로덕트"
 url = "https://disquiet.io/?sort=recent&type=product"
-entrySelector = "div.sc-bOdqNl.gvlESN"
+entrySelector = "//html/body/div[3]/div[2]/div[2]/div[6]/div/div[2]/div/div/div[2]"
 titleSelector = "div.card-title"
 linkSelector = "*"
-contentSelector = "div.sc-jHMygC.kCPxJF"
+contentSelector = "//html/body/div[3]/div[2]/div[2]/div[6]/div/div[2]/div/div/div[2]/div[2]"
 waitUntil = "networkidle"
 
 [disquiet_makerlog]
 title = "Disquiet ─ 메이커로그"
 url = "https://disquiet.io/?sort=recent&type=maker_log"
-entrySelector = "div.sc-kMOkjD.doEEbC"
+entrySelector = "//html/body/div[3]/div[2]/div[2]/div[6]/div/div[2]/div/div/div[2]"
 titleSelector = "div.title"
 linkSelector = "*"
-contentSelector = "div.sc-erkbxa.duRzJU.ql-editor"
+contentSelector = "div[class*='ql-editor']"
 waitUntil = "networkidle"
 
 [wwit]
