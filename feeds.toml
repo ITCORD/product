@@ -12,9 +12,9 @@ onFail = "stale"
 title = "Disquiet ─ 전체"
 url = "https://disquiet.io/?sort=recent&type=all"
 entrySelector = "div[class*='clickable']"
-titleSelector = "div.sc-bOdqNl.jzLQXV"
+titleSelector = "div.card-header div.card-title"
 linkSelector = "*"
-contentSelector = "div.sc-jHMygC.kCPxJF"
+contentSelector = "div[class*='sc-bOdqNl jzLQXV']"
 waitUntil = "networkidle"
 
 [disquiet_product]
