@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-01-28T18:26:00.189Z</updated>
+    <updated>2022-01-28T19:16:45.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[쇼빌리티]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-01-28T18:25:34.159Z</updated>
+        <updated>2022-01-28T19:16:15.311Z</updated>
         <content type="html"><![CDATA[세상의 모든 재능을 공유합니다!]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소셜 라운지]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-01-28T18:25:34.160Z</updated>
+        <updated>2022-01-28T19:16:15.312Z</updated>
         <content type="html"><![CDATA[우리 팀 사람들과 췰할 수 있는 소셜 라운지]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스타트립]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-01-28T18:25:34.161Z</updated>
+        <updated>2022-01-28T19:16:15.312Z</updated>
         <content type="html"><![CDATA[한류 팬들에게 덕질투어 정보를 제공하는 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브루넬 Brunel]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-01-28T18:25:34.162Z</updated>
+        <updated>2022-01-28T19:16:15.314Z</updated>
         <content type="html"><![CDATA[Tech Trendsetters를 위한 기술 인사이트 커뮤니티]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[HOLIX]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-01-28T18:25:34.163Z</updated>
+        <updated>2022-01-28T19:16:15.315Z</updated>
         <content type="html"><![CDATA[멘토와 함께 성장하는 지식 커뮤니티]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[리틀리]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-01-28T18:25:34.166Z</updated>
+        <updated>2022-01-28T19:16:15.317Z</updated>
         <content type="html"><![CDATA[모두를 위한 페이지 빌더]]></content>
     </entry>
 </feed>
