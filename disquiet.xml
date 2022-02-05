@@ -2,42 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-02-05T15:18:33.456Z</updated>
+    <updated>2022-02-05T16:24:51.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Keepin]]></title>
-        <id>https://disquiet.io/?sort=recent&amp;type=all</id>
-        <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-05T15:18:04.883Z</updated>
-        <content type="html"><![CDATA[선물 기록 / 리마인더 서비스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나다 NADA]]></title>
-        <id>https://disquiet.io/?sort=recent&amp;type=all</id>
-        <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-05T15:18:04.883Z</updated>
-        <content type="html"><![CDATA[나를 다 담은 명함 서비스, 가장 간편한 자기소개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버스스로]]></title>
-        <id>https://disquiet.io/?sort=recent&amp;type=all</id>
-        <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-05T15:18:04.885Z</updated>
-        <content type="html"><![CDATA[시각장애인의 원활한 버스 탑승을 위한 원스톱 솔루션 앱]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모홈]]></title>
-        <id>https://disquiet.io/?sort=recent&amp;type=all</id>
-        <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-05T15:18:04.885Z</updated>
-        <content type="html"><![CDATA[설계사를 위한 인슈어테크 플랫폼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ogle]]></title>
-        <id>https://disquiet.io/?sort=recent&amp;type=all</id>
-        <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-05T15:18:04.887Z</updated>
-        <content type="html"><![CDATA[리뷰 기반 공연 티켓북 어플리케이션]]></content>
-    </entry>
 </feed>
