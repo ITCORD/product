@@ -2,77 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=product</id>
     <title>Disquiet ─ 프로덕트</title>
-    <updated>2022-02-08T22:20:25.748Z</updated>
+    <updated>2022-02-08T23:22:23.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[메타브 스튜디오]]></title>
-        <id>https://disquiet.io/?sort=recent&amp;type=product</id>
-        <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-02-08T22:20:08.461Z</updated>
-        <content type="html"><![CDATA[템플릿을 통해 누구나 쉽게 메타 콘텐츠(심리테스트, MBTI, 퀴즈...)를 제작할 수 있는 노코드툴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메타브 metavv]]></title>
-        <id>https://disquiet.io/?sort=recent&amp;type=product</id>
-        <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-02-08T22:20:08.461Z</updated>
-        <content type="html"><![CDATA[메타 콘텐츠(재밌는,유용한 사이트)를 즐기고, 공유하고, 만들 수 있는 오픈 플랫폼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Liner]]></title>
-        <id>https://disquiet.io/?sort=recent&amp;type=product</id>
-        <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-02-08T22:20:08.462Z</updated>
-        <content type="html"><![CDATA[마우스만 올려도 확인하는 세줄요약]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keepin]]></title>
-        <id>https://disquiet.io/?sort=recent&amp;type=product</id>
-        <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-02-08T22:20:08.463Z</updated>
-        <content type="html"><![CDATA[선물 기록 / 리마인더 서비스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나다 NADA]]></title>
-        <id>https://disquiet.io/?sort=recent&amp;type=product</id>
-        <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-02-08T22:20:08.463Z</updated>
-        <content type="html"><![CDATA[나를 다 담은 명함 서비스, 가장 간편한 자기소개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버스스로]]></title>
-        <id>https://disquiet.io/?sort=recent&amp;type=product</id>
-        <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-02-08T22:20:08.464Z</updated>
-        <content type="html"><![CDATA[시각장애인의 원활한 버스 탑승을 위한 원스톱 솔루션 앱]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모홈]]></title>
-        <id>https://disquiet.io/?sort=recent&amp;type=product</id>
-        <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-02-08T22:20:08.465Z</updated>
-        <content type="html"><![CDATA[설계사를 위한 인슈어테크 플랫폼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ogle]]></title>
-        <id>https://disquiet.io/?sort=recent&amp;type=product</id>
-        <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-02-08T22:20:08.466Z</updated>
-        <content type="html"><![CDATA[리뷰 기반 공연 티켓북 어플리케이션]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[힙서치]]></title>
-        <id>https://disquiet.io/?sort=recent&amp;type=product</id>
-        <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-02-08T22:20:08.470Z</updated>
-        <content type="html"><![CDATA[검색을 대신해주고 새로운 결과를 푸시로 알림해주는 서비스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서플]]></title>
-        <id>https://disquiet.io/?sort=recent&amp;type=product</id>
-        <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-02-08T22:20:08.470Z</updated>
-        <content type="html"><![CDATA[지하철 환경 기반  모바일 광고 콘텐츠 플랫폼]]></content>
-    </entry>
 </feed>
