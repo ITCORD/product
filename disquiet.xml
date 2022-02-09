@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-02-09T17:23:14.775Z</updated>
+    <updated>2022-02-09T18:24:46.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[PEEP]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-09T17:22:48.643Z</updated>
+        <updated>2022-02-09T18:24:17.999Z</updated>
         <content type="html"><![CDATA[멀티태스킹, 화면공유+드로잉을 강점으로 내세우는 온라인 미팅 툴]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사수캠프]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-09T17:22:48.643Z</updated>
+        <updated>2022-02-09T18:24:17.999Z</updated>
         <content type="html"><![CDATA[랜선 사수를 만나는, 실무자 커뮤니티]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스위치콜]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-09T17:22:48.644Z</updated>
+        <updated>2022-02-09T18:24:18.000Z</updated>
         <content type="html"><![CDATA[통화를 녹음하고, 녹음된 내용을 텍스트로 변환하여 보여주는 앱 서비스]]></content>
     </entry>
 </feed>
