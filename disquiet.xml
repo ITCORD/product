@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-02-10T17:21:27.744Z</updated>
+    <updated>2022-02-10T18:24:55.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[피이브 fiive]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-10T17:20:55.857Z</updated>
+        <updated>2022-02-10T18:24:28.073Z</updated>
         <content type="html"><![CDATA[입시 학원과 강사를 위한 인터랙티브 라이브스트리밍 기반의 온라인 학원 플랫폼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PEEP]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-10T17:20:55.858Z</updated>
+        <updated>2022-02-10T18:24:28.073Z</updated>
         <content type="html"><![CDATA[멀티태스킹, 화면공유+드로잉을 강점으로 내세우는 온라인 미팅 툴]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사수캠프]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-10T17:20:55.861Z</updated>
+        <updated>2022-02-10T18:24:28.074Z</updated>
         <content type="html"><![CDATA[랜선 사수를 만나는, 실무자 커뮤니티]]></content>
     </entry>
 </feed>
