@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=product</id>
     <title>Disquiet ─ 프로덕트</title>
-    <updated>2022-02-12T21:17:25.257Z</updated>
+    <updated>2022-02-12T22:19:32.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[바다]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-02-12T21:17:05.647Z</updated>
+        <updated>2022-02-12T22:19:14.158Z</updated>
         <content type="html"><![CDATA[재미있고 편리한 문화를 만드는 소셜 미디어 플랫폼입니다]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[heyholder]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-02-12T21:17:05.647Z</updated>
+        <updated>2022-02-12T22:19:14.162Z</updated>
         <content type="html"><![CDATA[실소유 주식 기반 일반 주주 의견안건 플랫폼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[패커티브]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-02-12T21:17:05.647Z</updated>
+        <updated>2022-02-12T22:19:14.163Z</updated>
         <content type="html"><![CDATA[3D 에디터 기반 커스텀 패키지 디자인 및 제작 플랫폼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sixscents]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-02-12T21:17:05.653Z</updated>
+        <updated>2022-02-12T22:19:14.164Z</updated>
         <content type="html"><![CDATA[Web3를 지향하는 향수 리뷰 및 콘텐츠 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[피이브 fiive]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-02-12T21:17:05.653Z</updated>
+        <updated>2022-02-12T22:19:14.166Z</updated>
         <content type="html"><![CDATA[입시 학원과 강사를 위한 인터랙티브 라이브스트리밍 기반의 온라인 학원 플랫폼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PEEP]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-02-12T21:17:05.653Z</updated>
+        <updated>2022-02-12T22:19:14.167Z</updated>
         <content type="html"><![CDATA[멀티태스킹, 화면공유+드로잉을 강점으로 내세우는 온라인 미팅 툴]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사수캠프]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-02-12T21:17:05.653Z</updated>
+        <updated>2022-02-12T22:19:14.167Z</updated>
         <content type="html"><![CDATA[랜선 사수를 만나는, 실무자 커뮤니티]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스위치콜]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-02-12T21:17:05.653Z</updated>
+        <updated>2022-02-12T22:19:14.168Z</updated>
         <content type="html"><![CDATA[통화를 녹음하고, 녹음된 내용을 텍스트로 변환하여 보여주는 앱 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[메타브 스튜디오]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-02-12T21:17:05.653Z</updated>
+        <updated>2022-02-12T22:19:14.169Z</updated>
         <content type="html"><![CDATA[템플릿을 통해 누구나 쉽게 메타 콘텐츠(심리테스트, MBTI, 퀴즈...)를 제작할 수 있는 노코드툴]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[메타브 metavv]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-02-12T21:17:05.654Z</updated>
+        <updated>2022-02-12T22:19:14.170Z</updated>
         <content type="html"><![CDATA[메타 콘텐츠(재밌는,유용한 사이트)를 즐기고, 공유하고, 만들 수 있는 오픈 플랫폼]]></content>
     </entry>
 </feed>
