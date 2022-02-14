@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-02-14T12:47:16.063Z</updated>
+    <updated>2022-02-14T13:23:30.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[동플갱어]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-14T12:46:40.666Z</updated>
+        <updated>2022-02-14T13:22:56.533Z</updated>
         <content type="html"><![CDATA[테스트를 통해 나와 비슷한 동물을 찾고 그 동물을 보호하는 데 기부하기]]></content>
     </entry>
 </feed>
