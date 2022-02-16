@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-02-16T22:20:00.078Z</updated>
+    <updated>2022-02-16T23:21:15.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[되는시간]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-16T22:19:30.105Z</updated>
+        <updated>2022-02-16T23:20:47.953Z</updated>
         <content type="html"><![CDATA[되는시간 - 내가 되는 시간을 상대방이 예약할 수 있어요.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[varsql]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-16T22:19:30.107Z</updated>
+        <updated>2022-02-16T23:20:47.953Z</updated>
         <content type="html"><![CDATA[Db client  tool  서버에 한번 설치후 브라우저로 sql 를 실행할수 있는 프로젝트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Being]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-16T22:19:30.109Z</updated>
+        <updated>2022-02-16T23:20:47.954Z</updated>
         <content type="html"><![CDATA[Notion과 연동하여 '시간자산'을 관리하는 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[띵로그]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-16T22:19:30.111Z</updated>
+        <updated>2022-02-16T23:20:47.955Z</updated>
         <content type="html"><![CDATA[물건 기록 앱 (IOS)]]></content>
     </entry>
 </feed>
