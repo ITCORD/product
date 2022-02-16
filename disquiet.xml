@@ -2,42 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-02-16T12:33:00.956Z</updated>
+    <updated>2022-02-16T13:23:50.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[되는시간]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-16T12:32:34.488Z</updated>
+        <updated>2022-02-16T13:23:24.017Z</updated>
         <content type="html"><![CDATA[되는시간 - 내가 되는 시간을 상대방이 예약할 수 있어요.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[varsql]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-16T12:32:34.491Z</updated>
+        <updated>2022-02-16T13:23:24.018Z</updated>
         <content type="html"><![CDATA[Db client  tool  서버에 한번 설치후 브라우저로 sql 를 실행할수 있는 프로젝트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Being]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-16T12:32:34.491Z</updated>
+        <updated>2022-02-16T13:23:24.019Z</updated>
         <content type="html"><![CDATA[Notion과 연동하여 '시간자산'을 관리하는 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[띵로그]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-16T12:32:34.493Z</updated>
+        <updated>2022-02-16T13:23:24.021Z</updated>
         <content type="html"><![CDATA[물건 기록 앱 (IOS)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Predev]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-16T12:32:34.493Z</updated>
+        <updated>2022-02-16T13:23:24.023Z</updated>
         <content type="html"><![CDATA[주니어 개발자를 위한 웹 학교를 만들어 줄 수 있지 않을까?]]></content>
     </entry>
 </feed>
