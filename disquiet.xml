@@ -2,28 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-02-17T07:21:28.463Z</updated>
+    <updated>2022-02-17T08:24:19.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[킷 kit]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-17T07:20:58.071Z</updated>
+        <updated>2022-02-17T08:23:49.827Z</updated>
         <content type="html"><![CDATA[내가 만드는 나의 첫인상, 디지털 명함 킷(kit)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[되는시간]]></title>
-        <id>https://disquiet.io/?sort=recent&amp;type=all</id>
-        <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-17T07:20:58.073Z</updated>
-        <content type="html"><![CDATA[되는시간 - 내가 되는 시간을 상대방이 예약할 수 있어요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[varsql]]></title>
-        <id>https://disquiet.io/?sort=recent&amp;type=all</id>
-        <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-17T07:20:58.075Z</updated>
-        <content type="html"><![CDATA[Db client  tool  서버에 한번 설치후 브라우저로 sql 를 실행할수 있는 프로젝트]]></content>
     </entry>
 </feed>
