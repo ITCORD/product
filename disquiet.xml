@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-02-21T16:31:12.284Z</updated>
+    <updated>2022-02-21T17:20:48.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Tide]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-21T16:30:47.019Z</updated>
+        <updated>2022-02-21T17:20:15.493Z</updated>
         <content type="html"><![CDATA[의미없이 시간만 가는 회의 이제 그만! 짧고 굵은 회의를 시작하세요.]]></content>
     </entry>
 </feed>
