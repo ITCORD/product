@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-02-23T07:20:28.579Z</updated>
+    <updated>2022-02-23T08:25:26.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Surfee]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=all</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
+        <updated>2022-02-23T08:24:56.552Z</updated>
+        <content type="html"><![CDATA[노코드 랜딩페이지 제작 툴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스타트업 사업공고 알림]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-23T07:20:02.046Z</updated>
+        <updated>2022-02-23T08:24:56.552Z</updated>
         <content type="html"><![CDATA[K-Startup 사업공고를 슬랙으로 알려드려요]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자습시간]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-23T07:20:02.046Z</updated>
+        <updated>2022-02-23T08:24:56.554Z</updated>
         <content type="html"><![CDATA[쉽고 재밌고 만만한 IT 큐레이션]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[돈리멤버]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-23T07:20:02.047Z</updated>
+        <updated>2022-02-23T08:24:56.556Z</updated>
         <content type="html"><![CDATA[지인 간 대출 내역을 기록해두고 관리할 수 있는 채권관리 서비스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MODUBA]]></title>
-        <id>https://disquiet.io/?sort=recent&amp;type=all</id>
-        <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-23T07:20:02.051Z</updated>
-        <content type="html"><![CDATA[배달음식 가격비교 서비스]]></content>
     </entry>
 </feed>
