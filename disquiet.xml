@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-02-23T02:37:52.788Z</updated>
+    <updated>2022-02-23T03:23:36.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[돈리멤버]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-23T02:37:22.494Z</updated>
+        <updated>2022-02-23T03:23:07.124Z</updated>
         <content type="html"><![CDATA[지인 간 대출 내역을 기록해두고 관리할 수 있는 채권관리 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MODUBA]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-02-23T02:37:22.496Z</updated>
+        <updated>2022-02-23T03:23:07.124Z</updated>
         <content type="html"><![CDATA[배달음식 가격비교 서비스]]></content>
     </entry>
 </feed>
