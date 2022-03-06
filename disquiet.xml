@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-03-06T10:23:50.280Z</updated>
+    <updated>2022-03-06T11:17:50.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[3 Liner 뉴스레터]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-06T10:23:13.411Z</updated>
+        <updated>2022-03-06T11:17:21.507Z</updated>
         <content type="html"><![CDATA[원하는 사이트의 새로운 글들을 요약과 함께 받아보세요]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[런모아]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-06T10:23:13.412Z</updated>
+        <updated>2022-03-06T11:17:21.509Z</updated>
         <content type="html"><![CDATA[모든 강의를 한 눈에 런모아]]></content>
     </entry>
 </feed>
