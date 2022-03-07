@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 21:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 22:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -116,21 +116,21 @@
             <title><![CDATA[국가법전 (Disquiet ─ 전체)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Mon, 07 Mar 2022 21:19:24 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 22:21:25 GMT</pubDate>
             <content:encoded><![CDATA[법률정보, 스마트 법전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[하이드 HYDE (Disquiet ─ 전체)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Mon, 07 Mar 2022 21:19:24 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 22:21:25 GMT</pubDate>
             <content:encoded><![CDATA[B면을 위한 공간]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나만의 뉴스레터 (Disquiet ─ 전체)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Mon, 07 Mar 2022 21:19:24 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 22:21:25 GMT</pubDate>
             <content:encoded><![CDATA[원하는 사이트의 새로운 글들을 매일 요약과 함께 받아보세요]]></content:encoded>
         </item>
         <item>
