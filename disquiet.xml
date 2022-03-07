@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-03-07T22:22:00.092Z</updated>
+    <updated>2022-03-07T23:21:59.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[국가법전]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-07T22:21:25.172Z</updated>
+        <updated>2022-03-07T23:21:31.866Z</updated>
         <content type="html"><![CDATA[법률정보, 스마트 법전]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하이드 HYDE]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-07T22:21:25.173Z</updated>
+        <updated>2022-03-07T23:21:31.867Z</updated>
         <content type="html"><![CDATA[B면을 위한 공간]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나만의 뉴스레터]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-07T22:21:25.176Z</updated>
+        <updated>2022-03-07T23:21:31.869Z</updated>
         <content type="html"><![CDATA[원하는 사이트의 새로운 글들을 매일 요약과 함께 받아보세요]]></content>
     </entry>
 </feed>
