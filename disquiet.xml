@@ -2,42 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-03-08T11:19:06.042Z</updated>
+    <updated>2022-03-08T12:37:10.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[unicorny 유니코니]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-08T11:18:31.450Z</updated>
+        <updated>2022-03-08T12:36:37.857Z</updated>
         <content type="html"><![CDATA[crunchbase for jobs (v.0)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[게임코치온라인]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-08T11:18:31.450Z</updated>
+        <updated>2022-03-08T12:36:37.857Z</updated>
         <content type="html"><![CDATA[1:1 맞춤 온라인 게임강의]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국가법전]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-08T11:18:31.457Z</updated>
+        <updated>2022-03-08T12:36:37.860Z</updated>
         <content type="html"><![CDATA[법률정보, 스마트 법전]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하이드 HYDE]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-08T11:18:31.458Z</updated>
+        <updated>2022-03-08T12:36:37.860Z</updated>
         <content type="html"><![CDATA[B면을 위한 공간]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나만의 뉴스레터]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-08T11:18:31.458Z</updated>
+        <updated>2022-03-08T12:36:37.861Z</updated>
         <content type="html"><![CDATA[원하는 사이트의 새로운 글들을 매일 요약과 함께 받아보세요]]></content>
     </entry>
 </feed>
