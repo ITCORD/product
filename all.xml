@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 11:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 12:35:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,116 +113,123 @@
             <content:encoded><![CDATA[모든 폼을 대신하는 폼나는 설문조사 종합 솔루션]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Q.Link (Disquiet ─ 전체)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Wed, 09 Mar 2022 12:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[퀴즈로 접근하는 링크, Q.Link! 여러분의 링크를 간단한 퀴즈 뒤에 숨겨보세요]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[어게인 입양자 레벨테스트 (Disquiet ─ 전체)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 09 Mar 2022 11:18:53 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2022 12:35:18 GMT</pubDate>
             <content:encoded><![CDATA[초보 반려견 입양 희망자를 대상으로 한 입양준비 자가점검 레벨테스트입니다ㅎ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[라이징캠프 (Disquiet ─ 전체)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 09 Mar 2022 11:18:53 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2022 12:35:18 GMT</pubDate>
             <content:encoded><![CDATA[IT외주연계플랫폼]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[unicorny 유니코니 (Disquiet ─ 전체)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 09 Mar 2022 11:18:53 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2022 12:35:18 GMT</pubDate>
             <content:encoded><![CDATA[crunchbase for jobs (v.0)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[게임코치온라인 (Disquiet ─ 전체)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 09 Mar 2022 11:18:53 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2022 12:35:18 GMT</pubDate>
             <content:encoded><![CDATA[1:1 맞춤 온라인 게임강의]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[국가법전 (Disquiet ─ 전체)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 09 Mar 2022 11:18:53 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2022 12:35:18 GMT</pubDate>
             <content:encoded><![CDATA[법률정보, 스마트 법전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[하이드 HYDE (Disquiet ─ 전체)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 09 Mar 2022 11:18:53 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2022 12:35:18 GMT</pubDate>
             <content:encoded><![CDATA[B면을 위한 공간]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Q.Link (Disquiet ─ 프로덕트)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Wed, 09 Mar 2022 12:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[퀴즈로 접근하는 링크, Q.Link! 여러분의 링크를 간단한 퀴즈 뒤에 숨겨보세요]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어게인 입양자 레벨테스트 (Disquiet ─ 프로덕트)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 09 Mar 2022 11:19:02 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2022 12:35:26 GMT</pubDate>
             <content:encoded><![CDATA[초보 반려견 입양 희망자를 대상으로 한 입양준비 자가점검 레벨테스트입니다ㅎ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[라이징캠프 (Disquiet ─ 프로덕트)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 09 Mar 2022 11:19:02 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2022 12:35:26 GMT</pubDate>
             <content:encoded><![CDATA[IT외주연계플랫폼]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[unicorny 유니코니 (Disquiet ─ 프로덕트)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 09 Mar 2022 11:19:02 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2022 12:35:26 GMT</pubDate>
             <content:encoded><![CDATA[crunchbase for jobs (v.0)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[게임코치온라인 (Disquiet ─ 프로덕트)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 09 Mar 2022 11:19:02 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2022 12:35:26 GMT</pubDate>
             <content:encoded><![CDATA[1:1 맞춤 온라인 게임강의]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[국가법전 (Disquiet ─ 프로덕트)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 09 Mar 2022 11:19:02 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2022 12:35:26 GMT</pubDate>
             <content:encoded><![CDATA[법률정보, 스마트 법전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[하이드 HYDE (Disquiet ─ 프로덕트)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 09 Mar 2022 11:19:02 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2022 12:35:26 GMT</pubDate>
             <content:encoded><![CDATA[B면을 위한 공간]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나만의 뉴스레터 (Disquiet ─ 프로덕트)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 09 Mar 2022 11:19:02 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2022 12:35:26 GMT</pubDate>
             <content:encoded><![CDATA[원하는 사이트의 새로운 글들을 매일 요약과 함께 받아보세요]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[런모아 (Disquiet ─ 프로덕트)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 09 Mar 2022 11:19:02 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2022 12:35:26 GMT</pubDate>
             <content:encoded><![CDATA[모든 강의를 한 눈에 런모아]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Button Systems (Disquiet ─ 프로덕트)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 09 Mar 2022 11:19:02 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2022 12:35:26 GMT</pubDate>
             <content:encoded><![CDATA[개인정보 유출, 수집, 활용의 문제를 모두 해결해주는 솔루션]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[그로투 (Disquiet ─ 프로덕트)]]></title>
-            <link>https://ITCORD.github.io/product/all.xml</link>
-            <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 09 Mar 2022 11:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[IT 강의 비교 한 눈에 - 그로투]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[런드리고 (WWIT)]]></title>
