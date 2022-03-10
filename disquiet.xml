@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-03-10T02:51:11.787Z</updated>
+    <updated>2022-03-10T03:26:58.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[플린트]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-10T02:50:38.856Z</updated>
+        <updated>2022-03-10T03:26:22.066Z</updated>
         <content type="html"><![CDATA[이전에 적어놨던 비슷한 메모를 같이 보여주는 정보 수집가의 메모장]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Q.Link]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-10T02:50:38.857Z</updated>
+        <updated>2022-03-10T03:26:22.067Z</updated>
         <content type="html"><![CDATA[퀴즈로 접근하는 링크, Q.Link! 여러분의 링크를 간단한 퀴즈 뒤에 숨겨보세요]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어게인 입양자 레벨테스트]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-10T02:50:38.862Z</updated>
+        <updated>2022-03-10T03:26:22.068Z</updated>
         <content type="html"><![CDATA[초보 반려견 입양 희망자를 대상으로 한 입양준비 자가점검 레벨테스트입니다ㅎ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[라이징캠프]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-10T02:50:38.865Z</updated>
+        <updated>2022-03-10T03:26:22.069Z</updated>
         <content type="html"><![CDATA[IT외주연계플랫폼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[unicorny 유니코니]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-10T02:50:38.865Z</updated>
+        <updated>2022-03-10T03:26:22.069Z</updated>
         <content type="html"><![CDATA[crunchbase for jobs (v.0)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[게임코치온라인]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-10T02:50:38.866Z</updated>
+        <updated>2022-03-10T03:26:22.097Z</updated>
         <content type="html"><![CDATA[1:1 맞춤 온라인 게임강의]]></content>
     </entry>
 </feed>
