@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=product</id>
     <title>Disquiet ─ 프로덕트</title>
-    <updated>2022-03-13T10:23:27.968Z</updated>
+    <updated>2022-03-13T11:19:31.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모바일 팀구매 커머스. 올웨이즈]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=product</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
+        <updated>2022-03-13T11:19:11.748Z</updated>
+        <content type="html"><![CDATA[모든 온오프라인 커머스를 통틀어 가장 저렴한 가격에 소비가 가능한 모바일 커머스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PLANIT 플래닛]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-03-13T10:23:05.400Z</updated>
+        <updated>2022-03-13T11:19:11.748Z</updated>
         <content type="html"><![CDATA[웹/앱 기획(스토리보드 작성)을 위한 웹 애플리케이션]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[매거진 알바]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-03-13T10:23:05.400Z</updated>
+        <updated>2022-03-13T11:19:11.752Z</updated>
         <content type="html"><![CDATA[알바생 버전의 블라인드 소셜 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[통화로 기록하는 하루 일기. 열시미]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-03-13T10:23:05.402Z</updated>
+        <updated>2022-03-13T11:19:11.752Z</updated>
         <content type="html"><![CDATA[자기계발 기반 소셜 대화 플랫폼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[틴캔. 감성 소셜 대화 플랫폼.]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-03-13T10:23:05.410Z</updated>
+        <updated>2022-03-13T11:19:11.753Z</updated>
         <content type="html"><![CDATA[있는 그대로의 나와 진솔한 일상의 대화로 마음이 통하는 친구와 연결!]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[웨일즈클럽]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-03-13T10:23:05.415Z</updated>
+        <updated>2022-03-13T11:19:11.754Z</updated>
         <content type="html"><![CDATA[웨일즈클럽은 창업 기반의 커뮤니티/브랜드 입니다.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ANOTHER]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-03-13T10:23:05.422Z</updated>
+        <updated>2022-03-13T11:19:11.754Z</updated>
         <content type="html"><![CDATA[3d 고객 소통 메타버스 플랫폼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[플린트]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-03-13T10:23:05.431Z</updated>
+        <updated>2022-03-13T11:19:11.758Z</updated>
         <content type="html"><![CDATA[이전에 적어놨던 비슷한 메모를 같이 보여주는 정보 수집가의 메모장]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Q.Link]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-03-13T10:23:05.431Z</updated>
+        <updated>2022-03-13T11:19:11.761Z</updated>
         <content type="html"><![CDATA[퀴즈로 접근하는 링크, Q.Link! 여러분의 링크를 간단한 퀴즈 뒤에 숨겨보세요]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어게인 입양자 레벨테스트]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-03-13T10:23:05.432Z</updated>
+        <updated>2022-03-13T11:19:11.764Z</updated>
         <content type="html"><![CDATA[초보 반려견 입양 희망자를 대상으로 한 입양준비 자가점검 레벨테스트입니다ㅎ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이징캠프]]></title>
-        <id>https://disquiet.io/?sort=recent&amp;type=product</id>
-        <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-03-13T10:23:05.434Z</updated>
-        <content type="html"><![CDATA[IT외주연계플랫폼]]></content>
     </entry>
 </feed>

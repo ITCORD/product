@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-03-13T10:23:27.965Z</updated>
+    <updated>2022-03-13T11:19:31.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모바일 팀구매 커머스. 올웨이즈]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=all</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
+        <updated>2022-03-13T11:19:03.314Z</updated>
+        <content type="html"><![CDATA[모든 온오프라인 커머스를 통틀어 가장 저렴한 가격에 소비가 가능한 모바일 커머스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PLANIT 플래닛]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-13T10:22:56.564Z</updated>
+        <updated>2022-03-13T11:19:03.315Z</updated>
         <content type="html"><![CDATA[웹/앱 기획(스토리보드 작성)을 위한 웹 애플리케이션]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[매거진 알바]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-13T10:22:56.564Z</updated>
+        <updated>2022-03-13T11:19:03.316Z</updated>
         <content type="html"><![CDATA[알바생 버전의 블라인드 소셜 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[통화로 기록하는 하루 일기. 열시미]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-13T10:22:56.564Z</updated>
+        <updated>2022-03-13T11:19:03.321Z</updated>
         <content type="html"><![CDATA[자기계발 기반 소셜 대화 플랫폼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[틴캔. 감성 소셜 대화 플랫폼.]]></title>
-        <id>https://disquiet.io/?sort=recent&amp;type=all</id>
-        <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-13T10:22:56.565Z</updated>
-        <content type="html"><![CDATA[있는 그대로의 나와 진솔한 일상의 대화로 마음이 통하는 친구와 연결!]]></content>
     </entry>
 </feed>
