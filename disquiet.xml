@@ -2,42 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-03-14T23:22:58.042Z</updated>
+    <updated>2022-03-15T01:27:16.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[휫자]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-14T23:22:29.930Z</updated>
+        <updated>2022-03-15T01:26:46.651Z</updated>
         <content type="html"><![CDATA[잘하는 투자자 염탐 앱]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[모바일 팀구매 커머스. 올웨이즈]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-14T23:22:29.930Z</updated>
+        <updated>2022-03-15T01:26:46.657Z</updated>
         <content type="html"><![CDATA[모든 온오프라인 커머스를 통틀어 가장 저렴한 가격에 소비가 가능한 모바일 커머스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PLANIT 플래닛]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-14T23:22:29.932Z</updated>
+        <updated>2022-03-15T01:26:46.657Z</updated>
         <content type="html"><![CDATA[웹/앱 기획(스토리보드 작성)을 위한 웹 애플리케이션]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[매거진 알바]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-14T23:22:29.933Z</updated>
+        <updated>2022-03-15T01:26:46.657Z</updated>
         <content type="html"><![CDATA[알바생 버전의 블라인드 소셜 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[통화로 기록하는 하루 일기. 열시미]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-14T23:22:29.934Z</updated>
+        <updated>2022-03-15T01:26:46.659Z</updated>
         <content type="html"><![CDATA[자기계발 기반 소셜 대화 플랫폼]]></content>
     </entry>
 </feed>
