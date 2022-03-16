@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-03-16T21:20:46.782Z</updated>
+    <updated>2022-03-16T22:21:57.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Rows]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-16T21:20:19.496Z</updated>
+        <updated>2022-03-16T22:21:27.392Z</updated>
         <content type="html"><![CDATA[The spreadsheet with superpowers]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[포브]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-16T21:20:19.506Z</updated>
+        <updated>2022-03-16T22:21:27.395Z</updated>
         <content type="html"><![CDATA[명언과 감정을 기록할 수 있는 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[패션프룻 passionfruit]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-16T21:20:19.507Z</updated>
+        <updated>2022-03-16T22:21:27.395Z</updated>
         <content type="html"><![CDATA[부캐를 위한 소셜네트워크/커뮤니티]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[휫자]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-16T21:20:19.508Z</updated>
+        <updated>2022-03-16T22:21:27.397Z</updated>
         <content type="html"><![CDATA[잘하는 투자자 염탐 앱]]></content>
     </entry>
 </feed>
