@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-03-17T19:31:16.278Z</updated>
+    <updated>2022-03-17T20:57:10.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[매치드]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-17T19:30:40.482Z</updated>
+        <updated>2022-03-17T20:56:42.240Z</updated>
         <content type="html"><![CDATA[결재자 기반 B2B 영업 매칭 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[북스테어즈]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-17T19:30:40.482Z</updated>
+        <updated>2022-03-17T20:56:42.241Z</updated>
         <content type="html"><![CDATA[진짜 독서가들을 위한 독서법]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[리스토베이]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-17T19:30:40.487Z</updated>
+        <updated>2022-03-17T20:56:42.242Z</updated>
         <content type="html"><![CDATA[온라인 설문 플랫폼 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rows]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-17T19:30:40.488Z</updated>
+        <updated>2022-03-17T20:56:42.243Z</updated>
         <content type="html"><![CDATA[The spreadsheet with superpowers]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[포브]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-17T19:30:40.490Z</updated>
+        <updated>2022-03-17T20:56:42.245Z</updated>
         <content type="html"><![CDATA[명언과 감정을 기록할 수 있는 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[패션프룻 passionfruit]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-17T19:30:40.491Z</updated>
+        <updated>2022-03-17T20:56:42.246Z</updated>
         <content type="html"><![CDATA[부캐를 위한 소셜네트워크/커뮤니티]]></content>
     </entry>
 </feed>
