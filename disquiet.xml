@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-03-21T10:28:52.538Z</updated>
+    <updated>2022-03-21T11:19:58.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[마이루틴]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-21T10:28:21.944Z</updated>
+        <updated>2022-03-21T11:19:24.012Z</updated>
         <content type="html"><![CDATA[나만의 하루 계획표, 하루 관리 앱]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[워킹어스]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-21T10:28:21.944Z</updated>
+        <updated>2022-03-21T11:19:24.014Z</updated>
         <content type="html"><![CDATA[온라인 협업교육 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코케비즈]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-21T10:28:21.950Z</updated>
+        <updated>2022-03-21T11:19:24.016Z</updated>
         <content type="html"><![CDATA[카페 사장님들을 위한 식/부자재 커머스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[긴박한 이미지 생성기]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-21T10:28:21.950Z</updated>
+        <updated>2022-03-21T11:19:24.017Z</updated>
         <content type="html"><![CDATA[이미지에 긴박감을 편하게 부여해주는 웹사이트입니다.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tooda]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-21T10:28:21.955Z</updated>
+        <updated>2022-03-21T11:19:24.023Z</updated>
         <content type="html"><![CDATA[까먹는 내 투자 기록, 투다에 기록해보세요!]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DOR]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-21T10:28:21.957Z</updated>
+        <updated>2022-03-21T11:19:24.023Z</updated>
         <content type="html"><![CDATA[게이머를 위한 소셜 미디어]]></content>
     </entry>
 </feed>
