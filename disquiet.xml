@@ -2,70 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-03-22T04:30:26.160Z</updated>
+    <updated>2022-03-22T05:21:26.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[온스 ounce]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-22T04:29:52.975Z</updated>
+        <updated>2022-03-22T05:20:53.898Z</updated>
         <content type="html"><![CDATA[그룹 인증 앱]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[그룹바이 플랫폼.베타버전]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-22T04:29:52.980Z</updated>
+        <updated>2022-03-22T05:20:53.898Z</updated>
         <content type="html"><![CDATA[초기 스타트업과 성장력 있는 주니어 개발자 간 채용을 돕는 서비스 플랫폼입니다.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kalshi]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-22T04:29:52.980Z</updated>
+        <updated>2022-03-22T05:20:53.898Z</updated>
         <content type="html"><![CDATA[경제적 이벤트의 결과에 투자할수 있는 플랫폼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bubble.io]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-22T04:29:52.980Z</updated>
+        <updated>2022-03-22T05:20:53.898Z</updated>
         <content type="html"><![CDATA[간단한 백엔드 로직까지 만들수 있는 MVP만들기 좋은 노코드 툴]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PROVE]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-22T04:29:52.980Z</updated>
+        <updated>2022-03-22T05:20:53.899Z</updated>
         <content type="html"><![CDATA[일잘러 선별을 위한 채용 스크리닝 SaaS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마이루틴]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-22T04:29:52.981Z</updated>
+        <updated>2022-03-22T05:20:53.900Z</updated>
         <content type="html"><![CDATA[나만의 하루 계획표, 하루 관리 앱]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[워킹어스]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-22T04:29:52.981Z</updated>
+        <updated>2022-03-22T05:20:53.900Z</updated>
         <content type="html"><![CDATA[온라인 협업교육 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코케비즈]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-22T04:29:52.981Z</updated>
+        <updated>2022-03-22T05:20:53.904Z</updated>
         <content type="html"><![CDATA[카페 사장님들을 위한 식/부자재 커머스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[긴박한 이미지 생성기]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-22T04:29:52.984Z</updated>
+        <updated>2022-03-22T05:20:53.905Z</updated>
         <content type="html"><![CDATA[이미지에 긴박감을 편하게 부여해주는 웹사이트입니다.]]></content>
     </entry>
 </feed>
