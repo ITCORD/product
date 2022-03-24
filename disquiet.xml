@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-03-24T20:24:51.037Z</updated>
+    <updated>2022-03-24T21:22:51.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[9UP 컬렉터블]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-24T20:24:15.990Z</updated>
+        <updated>2022-03-24T21:22:23.266Z</updated>
         <content type="html"><![CDATA[KBO 라이선스 기반 야덕을 위한 모바일 게임이자 콘텐츠 플랫폼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[해킹존]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-24T20:24:15.990Z</updated>
+        <updated>2022-03-24T21:22:23.268Z</updated>
         <content type="html"><![CDATA[가상환경 버그바운티 보안점검 플랫폼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[헨젤]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-24T20:24:15.992Z</updated>
+        <updated>2022-03-24T21:22:23.269Z</updated>
         <content type="html"><![CDATA[미래에 열어볼 수 있는 편지, 특정한 장소에서만 확인할 수 있는 메시지를 보내보세요!]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Yess]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-24T20:24:15.993Z</updated>
+        <updated>2022-03-24T21:22:23.270Z</updated>
         <content type="html"><![CDATA[클라이언트와 협업하는 프리랜서를 위한 워크플로우 자동화 툴]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Laika NFT]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-24T20:24:15.995Z</updated>
+        <updated>2022-03-24T21:22:23.271Z</updated>
         <content type="html"><![CDATA[Laika NFT Project]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이백]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-24T20:24:15.996Z</updated>
+        <updated>2022-03-24T21:22:23.271Z</updated>
         <content type="html"><![CDATA[자산관리, 유언장 작성, 마지막 편지를 보낼 수 있는 웰다잉 플랫폼 아이백]]></content>
     </entry>
 </feed>
