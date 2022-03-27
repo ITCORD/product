@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-03-27T11:19:59.784Z</updated>
+    <updated>2022-03-27T12:36:17.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[VerbToEarn]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-27T11:19:30.603Z</updated>
+        <updated>2022-03-27T12:35:46.771Z</updated>
         <content type="html"><![CDATA[Web3 Idea Generator]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[모이스트 망고]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-27T11:19:30.604Z</updated>
+        <updated>2022-03-27T12:35:46.772Z</updated>
         <content type="html"><![CDATA[2분 17초 동안 하는 강제 글쓰기]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[9UP 컬렉터블]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-27T11:19:30.607Z</updated>
+        <updated>2022-03-27T12:35:46.774Z</updated>
         <content type="html"><![CDATA[KBO 라이선스 기반 야덕을 위한 모바일 게임이자 콘텐츠 플랫폼]]></content>
     </entry>
 </feed>
