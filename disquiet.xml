@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-03-28T13:32:10.572Z</updated>
+    <updated>2022-03-28T14:22:41.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[알리오울리오]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-28T13:31:36.500Z</updated>
+        <updated>2022-03-28T14:22:13.175Z</updated>
         <content type="html"><![CDATA[알람을 소재로 관계를 이어주는 소셜 앱]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아트봉봉]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-28T13:31:36.504Z</updated>
+        <updated>2022-03-28T14:22:13.176Z</updated>
         <content type="html"><![CDATA[1:1 실시간 미술교육 플랫폼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크립토하우스]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-28T13:31:36.505Z</updated>
+        <updated>2022-03-28T14:22:13.178Z</updated>
         <content type="html"><![CDATA[Top VC 기반 크립토 프로덕트 정보를 제공하는 플랫폼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[VerbToEarn]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-03-28T13:31:36.506Z</updated>
+        <updated>2022-03-28T14:22:13.180Z</updated>
         <content type="html"><![CDATA[Web3 Idea Generator]]></content>
     </entry>
 </feed>
