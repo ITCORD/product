@@ -2,77 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
     <title>Disquiet ─ 메이커로그</title>
-    <updated>2022-04-05T04:28:43.359Z</updated>
+    <updated>2022-04-05T05:21:45.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[0]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
+        <updated>2022-04-05T05:21:32.616Z</updated>
+        <content type="html"><![CDATA[<p>Being에</p><p>어떤 기능들이 추가되면 좋을까요~?</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<< 크래쉬컴퍼니 채용 공고 >>]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
+        <updated>2022-04-05T05:21:32.638Z</updated>
+        <content type="html"><![CDATA[<p>➡️ iOS 개발자 (신입/경력)</p><p>➡️ 프로덕트 디자이너 (경력)</p><p><br></p><p>크래쉬컴퍼니는 아시아 2,500만 뷰티션을 위한 B2B SaaS 솔루션을 만들어나가는 초기 스타트업입니다.</p><p><br></p><p>엔젤과 시드를 거쳐 누적 투자금은 약 9억원입니다. 올해 6월 MVP 출시, 하반기 월 매출 1억원, 내년 최소 50억원 시리즈 A 목표로 하고 있습니다. 자세한 채용 공고는 아래 링크에서 확인해주시고, 많은 관심과 공유 부탁드립니다.</p><p><br></p><p><a target="_blank" rel="noopener noreferrer" href="https://abit.ly/joincrash">https://abit.ly/joincrash</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[집 구하실 때 조용한 곳 vs 편의시설 많은 곳,  어디를 선호하시나요?]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
-        <updated>2022-04-05T04:28:31.394Z</updated>
-        <content type="html"><![CDATA[<p>혼족의제왕에서 찾아가는 콘텐츠를 위해 뉴스레터 '혼삶레터'를 꾸준히 발행할 예정입니다.</p><p>매 호마다 저희의 인사이트를 담아 1인가구에게 필요한 정보를 제공하는 것이 목표입니다.</p><p><br></p><p>https://maily.so/honjokking/posts/0edd5adc</p>]]></content>
+        <updated>2022-04-05T05:21:32.639Z</updated>
+        <content type="html"><![CDATA[<p>혼족의제왕에서 찾아가는 콘텐츠를 위해 뉴스레터 '혼삶레터'를 꾸준히 발행할 예정입니다.</p><p>매 호마다 저희의 인사이트를 담아 1인가구에게 필요한 정보를 제공하는 것이 목표입니다.</p><p><br></p><p><a target="_blank" rel="noopener noreferrer" href="https://maily.so/honjokking/posts/0edd5adc">
+https://maily.so/honjokking/posts/0edd5adc</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Simplify - 1]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
-        <updated>2022-04-05T04:28:31.394Z</updated>
+        <updated>2022-04-05T05:21:32.641Z</updated>
         <content type="html"><![CDATA[<p>무슨 주제로 얘기 해야 할지 한참을 고민했습니다.</p><p>어릴적 일기장 쓰던 때와 완전히 다른 느낌이네요. 익숙해 지기 위해서 하나씩 일이든 행동이든 단순하게 했던 것을 적어보려 합니다.</p><p><br></p><p>오늘은 인프라 현황 판을 색깔로 단순화 시키는 회의를 했습니다. </p><p>대시보드는 아니구요...시스템 소프트웨어의 가장 큰 장점이자 단점은 기능이 너무 많다는 겁니다. 다루는 영역도 넓고 봐야 할 것도 많으니 당연합니다. 여기다 개발자 주도의 프로젝트가 영업의 요구사항까지 크로스 된다면...</p><p><img src="https://t1.daumcdn.net/liveboard/holapet/ba38773948b44ddd807d7ff072d679df.jpg"></p><blockquote>닝겐이 이걸 인지해서 활용할 수 있을까 </blockquote><p>각자의 언어로 중요한 정보를 얘기하려 하니 시각으로 단순화 시켜 전달하는 수밖에 없다는 결론을 내렸습니다. 사실 누가 불필요한 정보를 내고 싶을까요. </p><p>그래서 세 가지 레드🟥, 블랙⬛, 옐로우🟨로 각 임계치에 도달 했을 때 표시를 하기로 했고🟨🟨🟨🟨🟨🟨🟨🟨🟨⬛🟥⬛🟥🟨🟨⬛🟥⬛🟥 이런 화면 구성이 이루어지기로 마무리를 지었습니다.</p><p><br></p><p>결국 고객이 직관적으로 2초 안에 원하는 걸 느끼게 하라. </p><p>유능한 메이커님의 세 가지 색깔 조합 추천 받습니다.</p><p><br></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[안드로이드 폰 하단의 '뒤로가기' 버튼, 여러분은 자주 쓰시나요?]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
-        <updated>2022-04-05T04:28:31.396Z</updated>
-        <content type="html"><![CDATA[<p>수치는 어느정도 신빙성을 띌만큼 모이면, 데이터도 공개해 보겠습니다ㅎㅎ</p><p>많관부 많참부!!!!</p><p><br></p><p><a target="_blank" rel="noopener noreferrer" href="https://forms.gle/om9cjDtJ2Kvn8swX7">https://forms.gle/om9cjDtJ2Kvn8swX7</a></p>]]></content>
+        <updated>2022-04-05T05:21:32.642Z</updated>
+        <content type="html"><![CDATA[<p>어제 저녁, 50명의 응답표본이 모여 1차적으로 결과를 정리해봤습니다ㅎ</p><p>100명이 넘어가면, 내용을 새로이 update 시킬 예정이니 가끔 생각나면 보러 와주세요 :)</p><p>결과 정리 : <a target="_blank" rel="noopener noreferrer" href="https://showy-care-760.notion.site/53d68ed02884496c9bc88ec7855a2db3">https://showy-care-760.notion.site/53d68ed02884496c9bc88ec7855a2db3</a></p><p>설문참여 링크 : <a target="_blank" rel="noopener noreferrer" href="https://forms.gle/om9cjDtJ2Kvn8swX7">https://forms.gle/om9cjDtJ2Kvn8swX7</a></p><p><br></p><p><br></p><p><br></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[팀 Motif에서 퍼블리셔를 모집합니다!]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
-        <updated>2022-04-05T04:28:31.397Z</updated>
+        <updated>2022-04-05T05:21:32.646Z</updated>
         <content type="html"><![CDATA[<p>상세 내용은 아래 링크에서 확인부탁드려요!</p><p><a target="_blank" rel="noopener noreferrer" href="https://showy-care-760.notion.site/Motif-8ac395ce66184af2aee3860b3bc97e8b">https://showy-care-760.notion.site/Motif-8ac395ce66184af2aee3860b3bc97e8b</a></p><p><br></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어게인 레벨테스트 고도화는 순항중..]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
-        <updated>2022-04-05T04:28:31.397Z</updated>
+        <updated>2022-04-05T05:21:32.646Z</updated>
         <content type="html"><![CDATA[<p>이번주는 저희 서비스의 가장 주된 내용인 테스트 컨텐츠 디벨롭 논의가 이루어졌습니다.</p><p><br></p><p>이전에 있었던 자/타사 분석 및 여러 피드백을 통해, 우리 서비스에 접근하는 사람들은 '처음 반려견을 입양하는 사람' 한명으로는 정의내리기 어렵단걸 느꼈고, 이에</p><p>'처음'이라는 성격을 기반으로 대상 응시자 유형을 크게 3가지로 구분후,</p><p>각 응시자 유형마다 상식/주거환경/교육및훈련/책임감/경제및시간 각 카테고리에서 물어보아야 하는 내용들을 1차적으로 정리했습니다.</p><p><br></p><p>확실히 자료조사나 최근 트렌드를 공부하면서, 컨텐츠 자체에도 변화가 필요하다는걸 느꼈던거 같아요. 1년 전만 해도 분명 괜찮다고 느꼈던 게, 이제는 반려견 입양에 대한 생각이나 반려생활에 대한 인식도 많이 올라간 상태라, 조금 더 업글!이 필요했습니다ㅎ</p><p>공통적으로 물어보아야 하는 질문도 있었고, 각 유형에 특화하여 더 알아두어야 하는 내용들도 있었는데요.</p><p>질문리스트에 대한 피드백을 주고받고, 다음주까지 와이어프레임 1차 작업 및 외부 자문을 위한 컨텐츠 최종 정리 등을 진행할 예정입니다ㅎ</p><p> </p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1주일간 13번의 유저 인터뷰를 진행하고 배운점]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
-        <updated>2022-04-05T04:28:31.399Z</updated>
+        <updated>2022-04-05T05:21:32.647Z</updated>
         <content type="html"><![CDATA[<p>지난주에 총 13명의 유저 분들과 디스콰이엇에서 진행한 메이커클럽에 대해 이야기를 나눠볼 수 있었다. 그 중 기억에 남는 몇가지를 짧게 정리해 봤다.</p><h1>네트워킹 그룹 나누기</h1><p>메이커클럽을 시작하기 전부터 계속 궁금했던 부분이 어떤 식으로 그룹을 이뤄야 효과적인 네트워킹이 일어날 수 있을지였다. 처음에는 비슷한 프로덕트 단계(아이디어, MVP 개발, 유저 리서치 등)에 있거나 비슷한 분야의 프로덕트(B2B/SaaS, 소셜, 게임 등)를 만드는 사람들끼리, 혹은 같은 직군끼리 묶는것 정도를 생각해 봤는데, 그 안에서도 네트워킹 목적이 다 다를수 있기 때문에 사람들이 어떤 경우에 누구와 네트워킹을 원하는지 알고 싶었다.</p><p>인터뷰 과정에서 이런 내용을 직접적으로 질문하기보다는 메이커클럽에서 진행한 네트워킹 세션에서 아쉬웠던 점에 대한 답변을 통해 파악해보려고 했다. 그 결과를 취합해서 정리해보니 대략 다음과 같이 구분해볼 수 있었다.</p><p><img src="https://media.disquiet.io/images/makerlog/8213fd3c9db3ba424af4c55ecd4709f17bdc136f4b131a4489337cbd6c6d6fa9"></p><p>여기서 흥미로웠던 부분은 호기심이나 공감대 형성처럼 <strong>감정적인 동기</strong>로 네트워킹을 원하는 메이커 분들 중 <strong>프로덕트에 대한 몰입 정도(commitment)</strong>가 비슷한 분들끼리 연결되기 원하는 경우가 많다는 거였다. 예를 들면 사이드프로젝트를 하는 분이 다른 사람들은 프로덕트를 어떻게 만드는지 궁금해서 들어왔을 경우 창업자보다는 비슷하게 사이드로 만드는 분들의 이야기를 더 궁금해한다거나, 창업가들이 각자 겪는 문제나 고민을 캐주얼하게 나누고 싶을 경우 창업가로만 구성된 그룹을 원하는 식이었다.</p><p>반면 인사이트나 피드백 얻기, 팀빌딩처럼 보다 <strong>실질적인 목적</strong>의 네트워킹을 원하는 경우 다른 건 다양해도 상관없지만 <strong>비슷한 분야의 프로덕트 관심사</strong>를 가진 분들과 연결되길 선호하는 분이 많았다. 그리고 모수가 작아서일수도 있지만 같은 직군끼리 네트워킹을 하려는 니즈는 생각보다 많지 않았다. 이런 직군 단위의 커뮤니티는 이미 다른데도 많이 있어서일까 싶기도 하다.</p><h1>플랫폼 vs 커뮤니티</h1><p>평소 개발에 몰입하다 보면 내가 풀려고 했던 문제의 본질에 대해 잊어버리기가 정말 쉬운것 같다. 유저 인터뷰를 하면서 다시 한번 깨달은게, 디스콰이엇 사이트에 대한 피드백을 요청했을때 내가 자주 걱정했던 퍼포먼스, 버그, 새로운 기능 요청보다는 <strong>더 많이 올라왔으면 하는 컨텐츠의 특성</strong>이나 <strong>커뮤니티에서 전반적으로 느껴지는 분위기</strong> 등에 대한 피드백이 훨씬 많았다. 생각해보면 당연한게 우리는 플랫폼이기 이전에 ‘메이커를 위한 커뮤니티'이다. 우리가 컨텐츠를 자동으로 큐레이션해서 올리는 플랫폼도 아니고 유저들이 직접 컨텐츠를 생산하고 공유하면서 커뮤니티의 색을 만들어가는 곳이기 때문에 플랫폼 자체의 정교함보다 위의 요소가 중요할 수 밖에 없다. 기능 개발은 위의 목적을 달성하기 위한 수단으로만 생각해야겠다는 걸 다시한번 스스로 리마인드할 수 있었다.</p><p><br></p><p>최근 현재 단계에서 가장 집중해야 되는게 뭘까에 대한 고민을 많이 했었는데, 확실히 유저 분들의 이야기를 듣고 이해하는 과정에서 생각을 어느정도 정리할 수 있었다. 그리고 이번에 얻은 인사이트는 앞으로 새로운 모임을 기획할때 뿐 아니라 디스콰이엇 사이트를 개발할 때도 활용할 수 있을것 같다. 현재는 사이트 상에서 프로덕트나 메이커로그 두가지 포스트 양식에서 파생된 형태의 대화만 일어날 수 있는데, 나중에 커뮤니티적인 기능(팀빌딩 기능, 관심사별 그룹 채널 생성 등)을 추가할 때 참고해봐야겠다.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6]]></title>
+        <title type="html"><![CDATA[8]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
-        <updated>2022-04-05T04:28:31.371Z</updated>
+        <updated>2022-04-05T05:21:32.631Z</updated>
         <content type="html"><![CDATA[<p>MVP만들면서 제일 기분좋은 순간은 아마도 domain구입?</p><p><br></p><p>fastsalesmail.com</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[함께한지는 수개월이지만... 오늘 처음 만났습니다.]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
-        <updated>2022-04-05T04:28:31.400Z</updated>
+        <updated>2022-04-05T05:21:32.650Z</updated>
         <content type="html"><![CDATA[<p>사실 알리오울리오 앱 제작은</p><p>작년부터 시작되었던 프로젝트지만, 그동안 코로나 때문에</p><p>다들 조심하느라 만나지 못하고 항상 오프라인으로만 작업을 진행해왔었네요.</p><p><br></p><p>그러다 오늘, 디자인 반영 및 기타 기능 QA를 위해</p><p>앱개발자님, 서버개발자님과 조촐하게 모임을 가졌습니다! (두둔)</p><p><br></p><p>아직.....디자인의 디테일은 다 잡기 전이라서 수정사항 풍년이었지만....(ㅎ)</p><p>그래도 개발직군이 철야나 야근이 잦은 업무라 지속적인 참여가 쉽지 않은데도</p><p>이렇게 온라인 중심으로도 수개월째 꾸준히 참여해주시는 분들 덕에</p><p>중간에 망하지 않고 출시 목전까지 올수 있었던거 같아요..../////</p><p><br></p><p>아 설레라...</p><p>빨리 디자인까지 다 다듬고, 기능도 완성해서 출시해보겠습니다.</p><p>4월 중 To be continued...</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여섯 번째 매쉬업 상담소 오픈!]]></title>
-        <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
-        <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
-        <updated>2022-04-05T04:28:31.401Z</updated>
-        <content type="html"><![CDATA[<p>📣여섯 번째 매쉬업 상담소 오픈!📣 </p><p>안녕하세요! 초기 스타트업 전문 투자사인 매쉬업엔젤스에서 창업자/예비 창업자분들을 대상으로 사업에 대해 편하게 이야기를 나눌 수 있는 &lt;매쉬업 상담소&gt;를 오픈했습니다.&nbsp;매쉬업 상담소는 평소 사업 운영에 대한 전반적인 고민, 투자 유치에 대한 팁 등에 대해 편하게 이야기를 나눌 수 있는 캐주얼한 미팅이니 많은 관심과 신청 부탁드립니다!</p><p>☑매쉬업 상담소 소개 :&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://bit.ly/3uJVQkm">https://bit.ly/3uJVQkm</a></p><p>☑신청링크 :&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://bit.ly/3DwoysF">https://bit.ly/3DwoysF</a></p><p>☑신청 기간 : 2022.4.15 (금) 18:00까지</p><p>☑진행 일시 : 4월 마지막 주(한 팀당 50분 내외)</p><p>☑ 미팅 방법 : Zoom을 통한 온라인 미팅</p><p><br></p><p><img src="https://media.disquiet.io/images/makerlog/f6fdbb564d31efac853ae02ee4c85a6659a7ae4bc99251cd61d2037e307f8d78"></p><p><img src="https://media.disquiet.io/images/makerlog/6afec7f2ecd832ce113d939493ff739f3a902972f1c27cec4e0c7fb338f59624"></p><p><img src="https://media.disquiet.io/images/makerlog/eacaa08b2bcf3b15afcd43d858b71164213b61d952f237a529636deb9fba186a"></p><p><img src="https://media.disquiet.io/images/makerlog/0cf77504a6bc0bf5472dc7b625a44c923200157b91ecb0ca440e64accec36b93"></p><p><br></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이드 프로젝트 하고 싶으신가요?]]></title>
-        <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
-        <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
-        <updated>2022-04-05T04:28:31.402Z</updated>
-        <content type="html"><![CDATA[<p>✈️ IT 사이드 프로젝트 커뮤니티 '레딧고' 에서 개발자를 모집합니다! 🔥</p><p><br></p><p>📌사이드 프로젝트 하고 싶은데 같이할 사람이 없다면?</p><p>📌IT 분야 사람들과 교류하고 싶다면?</p><p>📌혼자 하던 개발 공부, 사람들과 같이 하며 성장하고 싶다면?</p><p><br></p><p>⚡️ 레딧고는 커리어 솔루션 기업 레디미에서 지원하는 사이드프로젝트 커뮤니티 입니다.</p><p>⚡️ 레딧고에서는 기획, 디자인, 개발 분야 멤버들이 모여 함께 프로젝트도 하고 스터디도 할 수 있어요.</p><p>⚡️ 레딧고에서 프로젝트 같이하고 개발실력 급상승! 시키세요.</p><p><br></p><p>📍 레딧고 신청하기 | <a target="_blank" rel="noopener noreferrer" href="https://forms.gle/1QdgQgAjsn5owSY87">https://forms.gle/1QdgQgAjsn5owSY87</a></p><p>📍 신청기간 | 3월 28일 월 ~ 4월 2일 토</p><p><br></p><p>자세한 내용은 아래 링크를 참고 해주세요.</p><p><a target="_blank" rel="noopener noreferrer" href="https://bit.ly/36CkbjY">https://bit.ly/36CkbjY</a></p><p><br></p><p>레디미가 뭔가요?</p><p><a target="_blank" rel="noopener noreferrer" href="https://www.readyme.kr/">https://www.readyme.kr/</a></p><p><br></p><p>감사합니다 :)</p>]]></content>
     </entry>
 </feed>
