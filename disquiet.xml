@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-04-18T19:19:26.298Z</updated>
+    <updated>2022-04-18T20:24:10.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[ssda app]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-04-18T19:18:54.180Z</updated>
+        <updated>2022-04-18T20:23:41.971Z</updated>
         <content type="html"><![CDATA[내일의 J.K. 롤링을 꿈꾸는 당신에게, 웹소설 편집기 SSDA]]></content>
     </entry>
 </feed>
