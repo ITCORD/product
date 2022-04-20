@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-04-20T11:20:20.171Z</updated>
+    <updated>2022-04-20T12:43:32.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[프밍]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-04-20T11:19:47.490Z</updated>
+        <updated>2022-04-20T12:43:06.322Z</updated>
         <content type="html"><![CDATA[정보의 바다에서 헤엄치는 개발자들을 위한 그리고 훌륭한 컨텐츠들을 위한 허들없는 무대]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Korean FE Article]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-04-20T11:19:47.492Z</updated>
+        <updated>2022-04-20T12:43:06.322Z</updated>
         <content type="html"><![CDATA[한글로 작성된 프론트엔드 아티클을 공유합니다.]]></content>
     </entry>
 </feed>
