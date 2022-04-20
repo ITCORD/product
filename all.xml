@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 20:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 21:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,150 +113,157 @@
             <content:encoded><![CDATA[내 옷장에서부터 시작하는 나만의 의류 생활 공간]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[그리팅 (Disquiet ─ 전체)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Wed, 20 Apr 2022 21:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[그리팅 - 쉽고 편한 채용 솔루션]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[프밍 (Disquiet ─ 전체)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 20 Apr 2022 20:24:47 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 21:19:48 GMT</pubDate>
             <content:encoded><![CDATA[정보의 바다에서 헤엄치는 개발자들을 위한 그리고 훌륭한 컨텐츠들을 위한 허들없는 무대]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[그리팅 (Disquiet ─ 프로덕트)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Wed, 20 Apr 2022 21:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[그리팅 - 쉽고 편한 채용 솔루션]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[프밍 (Disquiet ─ 프로덕트)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 20 Apr 2022 20:24:54 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 21:19:56 GMT</pubDate>
             <content:encoded><![CDATA[정보의 바다에서 헤엄치는 개발자들을 위한 그리고 훌륭한 컨텐츠들을 위한 허들없는 무대]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Korean FE Article (Disquiet ─ 프로덕트)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 20 Apr 2022 20:24:54 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 21:19:56 GMT</pubDate>
             <content:encoded><![CDATA[한글로 작성된 프론트엔드 아티클을 공유합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ssda app (Disquiet ─ 프로덕트)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 20 Apr 2022 20:24:54 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 21:19:56 GMT</pubDate>
             <content:encoded><![CDATA[내일의 J.K. 롤링을 꿈꾸는 당신에게, 웹소설 편집기 SSDA]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나나공 (Disquiet ─ 프로덕트)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 20 Apr 2022 20:24:54 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 21:19:56 GMT</pubDate>
             <content:encoded><![CDATA[나나공은 '나보다 나무늘보가 공부 열심히 한다'의 줄임말로 얄미운 나무늘보와 대결하는 완강 목표 앱입니다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[앙팡허그.  아빠손 복대 (Disquiet ─ 프로덕트)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 20 Apr 2022 20:24:54 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 21:19:56 GMT</pubDate>
             <content:encoded><![CDATA[태아를 위한 복대, 임산부에게는 더 편안한 복대]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[메타버스 스터디와 인공지능 사이드 프로젝트 (Disquiet ─ 프로덕트)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 20 Apr 2022 20:24:54 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 21:19:56 GMT</pubDate>
             <content:encoded><![CDATA[메타버스와 인공지능에 대해 공부하고 창업공모전이나 사이드프로젝트를 같이 하는 모임입니다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Graha (Disquiet ─ 프로덕트)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 20 Apr 2022 20:24:54 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 21:19:56 GMT</pubDate>
             <content:encoded><![CDATA[웹 메이커를 위한 가장 빠른 피드백 툴]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인잇 뉴스 (Disquiet ─ 프로덕트)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 20 Apr 2022 20:24:54 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 21:19:56 GMT</pubDate>
             <content:encoded><![CDATA[떠먹여주는 요즘 개발 토픽]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Heyholder (Disquiet ─ 프로덕트)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 20 Apr 2022 20:24:54 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 21:19:56 GMT</pubDate>
             <content:encoded><![CDATA[마이데이터를 이용한 실 소유 주식 기반 주주 활동 플랫폼]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쓴글단글 (Disquiet ─ 프로덕트)]]></title>
-            <link>https://ITCORD.github.io/product/all.xml</link>
-            <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 20 Apr 2022 20:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[듣고 싶은 말만 들어도 되는 앱]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[#Typed 가 세계 최고의 디자인 어워드 중 하나인 iF Design Award 본상을 수상했어요! (Disquiet ─ 메이커로그)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 20 Apr 2022 20:25:02 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 21:20:05 GMT</pubDate>
             <content:encoded><![CDATA[<p>독일 ‘iF 디자인 어워드’는 미국 ‘IDEA 디자인 어워드’ 및 독일 ‘레드닷 디자인 어워드’와 함께 세계 3대 디자인상으로 꼽히는 ‘디자인계의 오스카’ 상으로 알려져있는데요!</p><p>자랑스러운 우리 <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/hashtag/%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%EC%BA%94%EB%B2%84%EC%8A%A4?__eep__=6&amp;__cft__[0]=AZWz0tGFh2tnOUKV4QdyL9FluOUqR4LbuklJYWmddl3XdWRkjSIVu0ThERhd01f03C7lCsdFhgzqDeAsABXnxSwGBgP_HL-6D5zV1ki1fuYKHuYc0tPytX9zyTom8JIRuIM&amp;__tn__=*NK-R">#비즈니스캔버스</a> 의 디자인 팀이</p><p>- User Interface (UI) &amp; Interfaces for Digital Media 부문 @이승민 <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/daseulkimkim?__cft__[0]=AZWz0tGFh2tnOUKV4QdyL9FluOUqR4LbuklJYWmddl3XdWRkjSIVu0ThERhd01f03C7lCsdFhgzqDeAsABXnxSwGBgP_HL-6D5zV1ki1fuYKHuYc0tPytX9zyTom8JIRuIM&amp;__tn__=-]K-R">Daseul Kim</a></p><p>- Communications &amp; Apps/Software 부문 <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/profile.php?id=100050534380778&amp;__cft__[0]=AZWz0tGFh2tnOUKV4QdyL9FluOUqR4LbuklJYWmddl3XdWRkjSIVu0ThERhd01f03C7lCsdFhgzqDeAsABXnxSwGBgP_HL-6D5zV1ki1fuYKHuYc0tPytX9zyTom8JIRuIM&amp;__tn__=-]K-R">신동준</a></p><p>에서 수상하게 되었습니다!!!</p><p>재작년 12월 말, 예언일기에서 썼던 우리의 꿈을 이렇게 이루게 되어 얼마나 행복한지..</p><p>정말 함께 꿈을 이뤄나가고, 그 안에서 함께 성장하고, 또 더 멋진 미래를 만들어나갈 수 있어 감사하고 행복하네요...!!</p><p>===</p><p><a target="_blank" rel="noopener noreferrer" href="http://www.mhns.co.kr/news/articleView.html?idxno=525421&amp;fbclid=IwAR1kddqj8_d9RPOpZVl1H-FlefA4J-jEi_lmnQiVVxMzEFiodaMlwbKjbYA">http://www.mhns.co.kr/news/articleView.html?idxno=525421&amp;fbclid=IwAR1kddqj8_d9RPOpZVl1H-FlefA4J-jEi_lmnQiVVxMzEFiodaMlwbKjbYA</a></p><p>세계 3대 디자인 어워드로 알려진 iF 디자인 어워드에서 수상작을 배출한 국내 회사가 대부분 하드웨어와 중견·대기업인 가운데 <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/hashtag/%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%EC%BA%94%EB%B2%84%EC%8A%A4?__eep__=6&amp;__cft__[0]=AZW20nQw0LjMgep-G42ie5xDRWyaR9ZXycwrJZDWYXSRjGdahaOpkCf7BjUERa7J3p6kUnMffjnCYHqWqquYhJ9eE-NMnAsbSxA7JofzqVs83fS-oyc9AGKEaszHnJVO-_4&amp;__tn__=*NK-R">#비즈니스캔버스</a> 는 소프트웨어 스타트업으로서 첫 출품에 수상을 하여 글로벌 B2B SaaS(Software as a Service) 시장에서 한국 스타트업의 저력을 보여주었다는 평이다. </p><p>그동안 전자상거래 및 플랫폼 비즈니스와 게임에 국한되었던 국내 유니콘 스타트업의 저변을 넓히며 최초의 ‘글로벌 SaaS’ <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/hashtag/%EC%9C%A0%EB%8B%88%EC%BD%98?__eep__=6&amp;__cft__[0]=AZW20nQw0LjMgep-G42ie5xDRWyaR9ZXycwrJZDWYXSRjGdahaOpkCf7BjUERa7J3p6kUnMffjnCYHqWqquYhJ9eE-NMnAsbSxA7JofzqVs83fS-oyc9AGKEaszHnJVO-_4&amp;__tn__=*NK-R">#유니콘</a> 의 등장 가능성에 기대를 모으고 있다.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[단 한번의 첫 웨비나로 #타입드 기업고객 60개 확보, 그리고 초기 스타트업 상생 커뮤니티의 기반을 만들다 (Disquiet ─ 메이커로그)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 20 Apr 2022 20:25:02 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 21:20:05 GMT</pubDate>
             <content:encoded><![CDATA[<p>"충격과 공포의 웨비나 그 자체"</p><p>창업 1년 8개월에 접어든 #비즈니스캔버스 의 여정.</p><p>보통 사람들의 1주일처럼 눈물과 땀으로 보낸 하루하루 속 얻은 값진 교훈들.</p><p>그 정수를 대방출하는 새로운 개념의 #스타트업 #쇼비나 인 #Essential^ 첫 웨비나에 400명에 신청자 중</p><p>참여를 해주신 선착순 100분이 2시간 30분 동안 끝까지 완주를 해주셨습니다.</p><p>웨비나 종료 1시간이 넘어선 지금, 100개의 참여 기업 중 60개가 넘는 기업 관계자 분들이</p><p>#Typed 팀 도입을 결정해주시고,</p><p>비즈니스캔버스와 상생하며 협력해나가는 #ABC (Alliance Business Canvas) 에 가입을 신청해 주셨습니다.</p><p>오늘의 웨비나는 빙산의 일각입니다.</p><p>하루를 1주일처럼 살아온, 무한 고민과 무한 실행을 반복해온 것은 저 뿐만이 아닌 30명에 이르는 저희 팀원 모두이며,</p><p>이 고민과 실패, 그 과정에 잠깐씩 찾아온 성과들의 깊이가</p><p>꼭 다른 스타트업 구성원분들에게 조금이나마 도움이 되었으면 합니다.</p><p>오늘 못 들어오신 분들이 많아, 차주 월요일 동일 주제로 한번 더 웨비나를 진행 예정입니다.</p><p>앞으로 계속해서 주제 별로 시간을 웨비나를 진행하고,</p><p>이제 당당히 손을 내밀고자 합니다.</p><p>저희 팀 #타입드 의 일말의 경험과 지식도 함께 성장하는데 도움이 된다면 가감 없이 공유하고 싶습니다.</p><p>대신 #Typed 를 써봐주세요.</p><p>밤낮 없이 고민하여 저희 팀원 분들과 업무 생산성의 혁신을 위해 그간 열심히 만들어왔고, 앞으로 더욱 더 좋아질 것입니다.</p><p>함께 성장하고, 함께 성공하고 싶은 이 열망이 부끄럽지 않습니다.</p><p>오늘 첫 웨비나 세션을 빛내주신 최경희 파트너님 다시 한번 감사드립니다!</p><p>&lt;웨비나 리뷰&gt;</p><p>- 미친 웨비나</p><p>- pay it forward를 느낀 세션이었습니다. 감사합니다.</p><p>- 🙂 피가되고 살이되는 좋은 얘기가 가득</p><p>- 너무 좋은 내용이라 저만 알고 싶을 정도네요. 감사합니다!</p><p>- 웬만한 스타트업들의 웨비나는 다 듣는 편인데, 솔직히 가장 가감없이 솔직하고 굉장히 중요한 내용까지 들을 수 있어서 매우 좋았습니다. 대표님의 열정과 치밀한 고민 다 느껴져서 아주 인상 깊었어요. 그냥 보통 웨비나가 끝나면 그냥 뻔했어~ 재미없었어 하고 끝나는데, typed 웨비나는 주위에게 꼭 공유 해주고싶습니다(이미 카톡으로 공유중)</p><p>- 영감과 동기부여를 끊임없이 제공하는 감동적인 시간이었습니다. 준비하시고 진행하시느라 정말 수고 많으셨습니다.</p><p>- 진심어린 pay it forward 감사합니다!</p><p>- 가보지 못한 길을 VR로 미리 가본 기분이었습니다. 감사합니다 !</p><p>- 2년이 채 안되는 기간동안 그 많은 일들을 하셨다니 정말 존경스럽습니다!&nbsp;🙂</p><p>- 팀의 열정과 커뮤니티와 함께 성장하려는 마음이 돋보였습니다. 감사합니다.</p><p>- Essential ... 그 제목에 딱 맞는 웨비나 였습니다. 특히 김우진 대표님 꿀팁 대방출 고맙습니다</p><p>- 가감없는 에센셜 이었어요</p><p>- 이미 IR을 끝낸 상황이라 조금만 더 일찍 들었으면 너무 좋았을거란 생각이 드네요ㅠㅠ 1부 밖에 제대로 못 들었지만 그래도 특히 PLG에 대한 인사이트는 정말 한마디 한마디 깊게 새겼습니다! 너무 좋은 세션 감사합니다</p><p>- “팁스 준비때문에 정신이 없어서 켜 놓고 일하려고 했는데 일을 결국 못했습니다.</p><p>- 좋은 자료와 같이의 가치를 아시는 대표님과 직원분들의 좋은 경험 감사합니다.”</p><p>- 정말 대방출이네요! 감사합니다</p><p>- 입장 제한으로 1부를 못들어서 너무 아쉬웠습니다 ㅠㅠ</p><p>너무 유익했습니다. ABC에도 꼭 합류하고 대표님께도 연락드리고 싶을 정도로 인상 깊었습니다!</p><p>- 너무 유익했습니다!</p><p>- 초기 스타트업으로써 정말 유익하고 가치있는 웨비나였습니다.</p><p>- 비캔 팀원 분들의 모습들을 보고 들으면서, 저는 외부인이지만 함께 스타트업을 해나가는 사람으로서 동경심을 느꼈던 것 같아요. 오늘 너무 잘 들었습니다 🙂</p><p>- 실질적인 내용들이 많아서 정말 도움이 많이 되었습니다.</p><p>- 정말 열정이 느껴지고 나는 너무 부족하구나. 매순간 진정성있게 해야겠다고 다짐했습니다.</p><p>- 열정, 인사이트</p><p>- 깊은 내용을 얻을 수 있어서 너무 좋았습니다.</p><p>- B2B 사업을 펼치는 입장에서 많이 도움되었습니다</p><p>- 유익한 내용 너무 감사했습니다</p><p>- 오늘 너무 감사합니다 🙂</p><p>- 진솔한 웨비나 정말 감사했습니다</p><p>- 너무 멋있습니다ㅎㅎ</p><p>- 열정이 대단하십니다. 113가지 다 알려주셔도 그거 다 할 수 있는 사람 별로 없을 것 같을 정도예요.</p><p>- 너무나 좋은 기회를 얻게 되어 영광이었습니다!^^</p><p>- 많은 도움되었습니다!</p><p>- 김우진 대표님 대단하세요! 눈을 뗄 수 없는 웨비나였어요</p><p>- 존경스럽고 큰 도움 되었습니다.</p><p>- 열정적인 강연 너무 감사합니다! 큰 도움 되었어요!</p><p>- 너무나 진솔한 웨비나 감사했습니다</p><p>- 대표님의 따끈따끈한 노하우 가감없이 말씀 주셔서 감사했습니다. 앞으로 많이 귀찮게 테러 드리겠습니다!</p><p>- 경험에서 우러나온 솔직한 이야기 너무 좋았습니다.</p><p>- 대표님의 자극적이지만 실제로 도움되는 날것의 지식을 얻을수 있어서 좋았습니다.</p><p>- 대표님과 비즈니스캔버스가 직접 경험하시면서 얻으신 소중한 경험들을 공유해주셔서 감사합니다. 특히 팀 빌딩, 투자자 대응과 관련한 부분들이 인상 깊었습니다.</p><p>- 사업개발 리드입니다. GTM부터 IR까지 도움많이됐습니다. 감사합니다!</p><p>- 팀빌딩부터 투자, IR자료 전략까지 너무 소중한 고견들 감사드립니다.</p><p>타입드의 성장과정까지 알게되어 귀감 된 소중한 웨비나였습니다. 타입드 화이팅!</p><p>지지 않는 전략, 알고 있었지만 새롭게 재정의 할 수 있는 기회였습니다. 우진 대표님 바빠서 못 뵈었는데 이렇게 뵙네요. 반가웠습니다.</p><p>- 유익한 내용이 많아 도움이 되었다.</p><p>- 너무 방대한 내용이라 시간이 부족한 느낌이었습니다. 하지만 정말 잘 들었습니다.</p><p>- 소중한 노하우들을 공유해주시는 자리를 만들어주셔서 진심으로 감사합니다. 많이 배웠고, 또한 저와 저희 회사를 돌아보고 의지를 다지는 시간이었습니다. 늘 성공을 기원합니다.</p><p>- 구체적인 사례를 들을 수 있어서 좋았습니다</p><p>- 홍익인간의 마음이 느껴지는 웨비나였습니다.</p><p>- 비캔의 성장스토리를 있는 그대로 접할 수 있어서 너무 좋았습니다! 진정성!</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성장이 간절한 리더라면, 지금 당장 실천할 수 있는 한 가지 (Disquiet ─ 메이커로그)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 20 Apr 2022 20:25:02 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 21:20:05 GMT</pubDate>
             <content:encoded><![CDATA[<h3><br></h3><h3><br></h3><p><strong>성장하고 싶다면, 회의를 포함한 조직 내 모든 커뮤니케이션이 달성하고자 하는 목표에 기여하도록 하라.&nbsp;</strong></p><p>어떻게?:&nbsp;<strong>커뮤니케이션에 체계를 부여해라.&nbsp;</strong></p><p><br></p><p><br></p><p>(이 글은 레몬베이스 팀이 써주신&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://www.lemonbase.team/f5c5ebbb-ab65-493c-96e8-99315057adc2">건강한 성장에 대한 글</a>에 더불어 시중 OKR 서적과 사견을 버무린 글입니다.)</p><p><br></p><p><br></p><p>돈은 없지만 아이디어와 기술 만으로 큰 변화를 만들어야 하는 스타트업에게는 언제나 시간이 부족하다.</p><p>주어진 모든 시간을 사용해 아이디어와 기술을 사랑받는 제품 및 서비스로 만들어아 한다. 이걸 흔히 PMF를 찾는다는 말로 바꿔 부른다. PMF는 한 번 찾는다고 끝이 아니고 변화해나가는 고객 요구에 따라 프로덕트를 계속 진화시켜나가며 꾸준히 반복해야 한다.&nbsp;</p><p>이것이 스타트업의 본질이고, 이것이 방해받는다면&nbsp;실패한다.</p><p><br></p><p>그렇다면, 스타트업이 주어진 시간을 가장 잘 사용하는 방법은 무엇일까? 우리 아직 PMF 못 찾았고, 우리는 돈도 없어서 개발자도 더 못 뽑고, 조언을 얻을 수 있는 사람들도 한정되어있고, 나는 어느 방향으로 가야 할 지 잘 모르겠는 그런 상황에, 어쨌거나 비약적 성과를 내야 한다. 지금 할 수 있는 중 가장 임팩트가 큰 일은 무엇일까?&nbsp;</p><p><br></p><p>"유저의 말에 집중한다" 뭐 이런&nbsp;원론적인 이야기 말고, 놓치고 있을 확률이 높지만 지금 당장 시작할 수 있는 효과적인 방법을 제안하려고 한다. 바로,&nbsp;<strong>팀원들과 하는 커뮤니케이션을 성장에 도움이 되는 커뮤니케이션으로 바꾸는 것이다</strong>.&nbsp;</p><p><br></p><p><br></p><p><strong>성장에 도움이 되는 커뮤니케이션이란 무엇일까?&nbsp;조직의 목표를 달성하는 데에 도움이 되는 커뮤니케이션이다.&nbsp;</strong>그런 커뮤니케이션은 다음과 같은 특징을 갖고 있다.&nbsp;</p><p><br></p><p><strong>1.&nbsp;커뮤니케이션이 조직의 어떤 목표와 어떻게 관련되어 있는지 모두가 알고 있다.&nbsp;</strong></p><p><strong>2. 커뮤니케이션의 결과로 목표 달성에 기여할 수 있는 결과물이 나온다.</strong></p><p><strong>3. 그 결과물이 실제로 실행된다.</strong></p><p><br></p><p>일터에서 주고받는 업무 상 커뮤니케이션들 중 많은 커뮤니케이션들이&nbsp;셋 중에 적어도 하나는 빠뜨리는 경우가 많다. 어떤 목표를 달성할 수 있는 것인지 아무도 정확히 알지 못한 채로 일단 대화를 시작하고 보는 경우도 있고,&nbsp;실컷 이야기했는데 결과물이 없는 경우, 결과물까지는 냈는데 실행을 안 하는 경우 등.&nbsp;</p><p><br></p><p>각 분야에서 하드 스킬은 탄탄히 갖춘 사람들을 뽑았는데 어쩐지 우리 팀 캐파를 100% 활용하고 있지는 않은 것 같다면, 다른 팀보다 훌륭한 사람들이 모였는데 우리 조직 성장이 좀 더딘 것 같다면, 위 세 가지 중 뭔가 빠진 채로 커뮤니케이션 하고 있어서일 확률이 높다.&nbsp;</p><p><br></p><p>조직 목표를 분명히 공유했는데, 또 목표에 따라 어떤 action plan이 이뤄져야 하는지 분명 싱크를 맞췄다고 생각했는데 왜 자꾸 뭔가 빠질까? 왜 우리 팀원들이 하는 커뮤니케이션은 내 맘과 달리 목표 달성에 도움이 되는 방식으로 이뤄지지 않을까?&nbsp;</p><p><br></p><p><br></p><p>가장 큰 이유는,&nbsp;<strong>"말만" 해서 그렇다.&nbsp;</strong>내가 무언가를 말했으니까 공유했다고 생각한다. 하지만, 공유는<strong>&nbsp;상호 이해</strong>된 상태를 의미한다. 사람은 한 번 말했다고 절대 그렇게 행동하지 않는다. 아무리 좋은 강연을 들어도 하루 지나고 나면 까먹어버린 경험을 한 적 있지 않은가? 우리 대부분은 김미경 강사님처럼 설득하는 말하기의 귀재도 아니고 당연히 우리가 한 번 말했다고 팀원들 머릿속에서 잊혀진다. 이건 너무 당연한 거다.&nbsp;</p><p><br></p><p>게다가&nbsp;<strong>스타트업의 목표는 매번 바뀐다.&nbsp;</strong>저번 주 목표는 이랬는데 이번 주 목표는 또 다르다. 변하는 무언가를 이해하려면 상대방 입장에서는 훨씬 더 많은 에너지가 들어간다. 하지만 우리는 열심히 준비해서 말했으니까 알아들었겠지? 라고 생각한다. 그렇게 불일치가 쌓여간다.&nbsp;</p><p><br></p><p>그러면 어떻게 해야 할까? 김미경 강사님처럼 말하는 법을 배우는 건 우리의 길이 아니다. 잘 말하려고 하는 대신,&nbsp;<strong>업무를 하는 중간 중간 계속 메타적으로 사고할 수 있는 체계를 구축해야 한다.</strong>&nbsp;"이거 어떤 목표를 위한 거였더라?" 할 수 있게 말이다.&nbsp;</p><p><br></p><p>구성원들에게 조직의 목표를 일깨울 수 있는 좋은 도구 중 하나가&nbsp;<strong>문서화 및 커뮤니케이션 규칙</strong>을 정립하는 것이다. 규칙이 있으면, 무언가를 공유하기 위해 문서화 할 때 마다, 혹은 커뮤니케이션 할 때 마다 "아, 나 지금 이 규칙 지키고 있나?" 하고 메타적으로 사고하는 뇌가 돌아가기 시작한다.&nbsp;</p><p><br></p><p>그래서 일 잘한다는 조직들은 대개&nbsp;<strong>회의&nbsp;체계를 갖고 있다.&nbsp;</strong>회의 아젠다를 어떻게 공유하고, 회의 결론은 어떻게 누가 어떻게 정리하고, 도출된 action plan은 어떻게 트래킹하는지를 모두 명시적으로 알고 있다.&nbsp;</p><p><br></p><p>업무 상 커뮤니케이션 중 가장 많은 시간을 할애해야 하고 또 자주 일어나는 것이 회의인 만큼, 회의 체계를 정립하여 조직 구성원들이 하나의 목표를 바라보고 일하도록 담보하는 것이다.&nbsp;</p><p><br></p><p><br></p><p><strong>이런 조직들에서, 성장에 도움이 되는 회의는 이렇게 운영된다.&nbsp;</strong></p><p>각 회의가 어떤 목표와 관련되어 있는지 회의 참여자가 알아야 한다.</p><p>회의의 결과로 목표 달성에 기여할 수 있는 결과물이 나와야 한다.</p><p>그리고, 그 결과물이 실제로 실행되어야 한다.</p><p><br></p><p><br></p><p>초기 스타트업을 운영하고 있는 창업가라면, 가슴에 손을 얹고 돌아보자.&nbsp;<strong>우리 팀 모든 회의가 정말로 이렇게 운영되고 있는가?&nbsp;</strong></p><p><br></p><p>1. 이 회의가 우리 팀에 어떤 의미가 있는지 리더 스스로도 설명하지 못하지는 않는가? 또는 리더 혼자만 알고 있지는 않은가?&nbsp;</p><p>2. 회의 결과로 결론이 나오고 있는가? 그냥 회의 했다는 사실, 치열했던 시간 뒤에 남은 피로감을 "오늘 일 열심히 했다"고 포장하고 끝내고 있지는 않은가?&nbsp;</p><p>3. 결과물을 실행하고 있는가? 회의록을 작성하고 action plan을 작성해도 그걸 실상 한 번도 읽어보지 않고 있지는 않은가?&nbsp;</p><p><br></p><p><br></p><p><strong>만약 지금까지 그래왔다면, 이렇게 바꿔보자.&nbsp;</strong></p><p>1. 회의를 할 때는, 조직의 어떤 목표를 달성하기 위한 회의인지를 공유하자.</p><p>더 나아갈 수 있다면, 오늘 회의에서 도출될 결과물이 목표 달성에 어떻게 기여할 수 있는지 공유하자.&nbsp;&nbsp;</p><p><br></p><p>2. 목표 달성에 도움이 되는 결과물이 무엇인지 분명히 하고, 이를&nbsp;산출할 수 있는 회의 순서를 계획하자.</p><p>3. 회의를 진행할 때는 회의 순서 별로 결론을 기록하고, 기록한 결과물이 의도한 결과물인지 회의를 끝마치기 전 점검하자.&nbsp;</p><p>4.&nbsp;결론을 모두가 자주 보는 곳에 공유하고, 실제로 진행하자. 구성원이 원할 때 어떤 의사결정이 어떤 과정으로 이뤄졌는지 찾을 수 있도록 하자.&nbsp;</p><p><br></p><p><br></p><p><br></p><p><strong>회의를 이렇게 바꾸면, 이렇게 달라진다.&nbsp;</strong></p><p>1. 서로 다른 구성원들의 input이 오롯이 성장에 도움이 되는 방향으로 수렴할 수 있다. (우리 조직의 집단지성을 최대로 활용하게 된다)&nbsp;</p><p>2. 회의를 할 때 마다 결과물이 나오니, 가시적으로 목표에 더 가까워졌음을 알게 된다.&nbsp;</p><p>3. 회의마다 우리 팀이 결정한 내용과 그 이유가 무엇인지 이해하게 되고, 이 논의를 바탕으로 더 질 좋은 의사결정을 할 수 있게 된다.&nbsp;</p><p><br></p><p>무엇보다, 내가 매번 온 신경을 기울이지 않아도 이런 "체계"를 세팅해놓음으로써 내가 없는 상황에서도 1-3의 일들이 자연스럽게 일어나게 된다.&nbsp;</p><p><br></p><p><br></p><p>꽤 괜찮지 않은가?&nbsp;</p><p>성공으로 가는 길에서 맞닥뜨리게 되는 외부적 요인은 우리가 전부 통제할 수는 없지만,&nbsp;</p><p>우리 팀이 더 잘 일하게 하는 건 리더가 지금 당장 시작할 수 있는 변화다.&nbsp;</p><p><br></p><p><br></p><p><br></p><h2>당신이 동료들과 하는 모든 커뮤니케이션이 당신이 달성하고자 하는 목표에 도움이 되기를.&nbsp;</h2><h2><br></h2><p><br></p><p>모든 스타트업의 리더들의 건투를 빈다 :)&nbsp;</p><p><br></p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[국내 최초 수면식품, 함께 만들어나가실 디자이너분을 구해요! (Disquiet ─ 메이커로그)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 20 Apr 2022 20:25:02 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 21:20:05 GMT</pubDate>
             <content:encoded><![CDATA[<p>안녕하세요 :) 저는 현재 잠이 안 올 때 마시는 수면음료, 리체라를 판매하고 있는 로맨시브 대표 이수현입니다. 저희는 건강한 수면문화를 만들기 위해서는 접근성이 좋은 '해결책'을 제시하는 것이 중요하다고 생각했고, 이 방법으로 수면식품 해결책들을 제시하고 있습니다.</p><p><img src="https://media.disquiet.io/images/makerlog/c5ea13d3b278d2fe69fa14d6d642c011be0562231ace45673db54eb27632c745"></p><p>작년 1월부터 시작된 사업이며, 예비창업패키지, snu공학컨설팅센터, 국가식품클러스터, 서울창업먹거리센터 등 다양한 정부지원사업을 받으며 1년간 제품 개발에 매진했습니다. 올해 1월부터 판매를 시작했으며, 판매 2달 만에 1억 매출액을 돌파하는 등 빠른 성장을 하고 있습니다. 현재 스프링캠프에서 투자유치를 받은 상태입니다.</p><p>더 공격적으로 올해 성장하기에 앞서 팀을 정비하고 있습니다. 그 과정에서 현재 새롭게 컨텐츠 디자이너 분을 모시고 있는 상황입니다. 지인에게 디스콰이엇 커뮤니티에 좋으신 분이 많다는 이야기를 들어서 혹시 좋은 인연이 닿지 않을까 하는 생각에 공고를 올리게 되었습니다. 자세한 내용은 아래 노션을 참고해주시면 감사드리겠습니다.</p><p><br></p><p>&lt;채용공고 보러가기&gt;</p><p><a target="_blank" rel="noopener noreferrer" href="https://romansive.notion.site/Romansive-15b9146e26ea452ca9f0678f63e155e0">https://romansive.notion.site/Romansive-15b9146e26ea452ca9f0678f63e155e0</a></p><p><br></p><p>저희와 함께 국내 기존 없었던 수면식품들을 만들어나가며 재미있게 성장하고 싶으신 분, 건강한 수면문화를 새롭게 만들어나가실 분을 기다립니다. (주변에 추천해주실 분이 있다면 많은 소개 부탁드립니다.)</p><p><br></p><p>감사드립니다. :) 다들 평안한 밤 되세요.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[📢 두들린 채용 공고 (Disquiet ─ 메이커로그)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 20 Apr 2022 20:25:02 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 21:20:05 GMT</pubDate>
             <content:encoded><![CDATA[<p>❓︎ 두들린(Doodlin)은 무엇을 하는 곳인가요?</p><p>- 두들린은 로켓처럼 빠르게 성장중인 채용관리 솔루션 그리팅(Greeting)을 서비스하고 있는 스타트업입니다!</p><p>- 한국에는 없던 ATS(Applicant Tracking System) 시장을 개척하며 나아가고 있습니다.</p><p>- B2B SaaS에서는 드물게 J커브를 그리며 성장하고 있고, 고객사 수가 매달 27.5%씩 꾸준히 성장하고 있습니다! (최근 3개월 기준)</p><p>(🔥 최근에는 외국 유명 ATS와 비교 검토 후에 결국 그리팅을 선택한 기업들도 늘어나고 있습니다!!🔥 )</p><p>- 대표님이 '즐겁게 일하는 것이 우리 회사의 전부'라고 말할 정도로 모두 행복하게 성장할 수 있는 두들린을 만드는 것에 진심인 회사입니다!</p><p>👉︎ 두들린 홈페이지 : <a target="_blank" rel="noopener noreferrer" href="https://www.doodlin.co.kr/">https://www.doodlin.co.kr/</a></p><p>👉︎ 참고 페이지 링크 :&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://bit.ly/3DlHHxs">https://bit.ly/3DlHHxs</a></p><p><br></p><p>[적극 채용 중인 포지션]</p><p>➡️ <a target="_blank" rel="noopener noreferrer" href="https://doodlin.career.greetinghr.com/o/5054">프론트엔드 엔지니어 (경력)</a></p><p>➡️ <a target="_blank" rel="noopener noreferrer" href="https://doodlin.career.greetinghr.com/o/15358">백엔드 엔지니어 (경력)</a></p><p>➡️ <a target="_blank" rel="noopener noreferrer" href="https://doodlin.career.greetinghr.com/o/12183">DevOps 엔지니어 (경력)</a></p><p>👉︎ 전체 채용 공고 보러가기 : <a target="_blank" rel="noopener noreferrer" href="https://doodlin.career.greetinghr.com/">https://doodlin.career.greetinghr.com/</a></p><p><br></p><p>자세한 내용은 위의 링크에서 확인 부탁드리며, 많은 관심과 공유 부탁드립니다! 🙏</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[올웨이즈의 탐색 과정을 NFT 정보 플랫폼에 녹여보기 (Disquiet ─ 메이커로그)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 20 Apr 2022 20:25:02 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 21:20:05 GMT</pubDate>
             <content:encoded><![CDATA[<p>안녕하세요. NFT 정보 플랫폼 "더느프트"를 만들고 있는 윤승식입니다.</p><p><br></p><p><strong>오늘은 올웨이즈를 중점으로 커머스의 탐색 과정을 어떻게 더느프트와 같은 NFT 정보 플랫폼에 녹였는지에 대해 이야기하려고 합니다.</strong></p><p><br></p><p><img src="https://media.disquiet.io/images/makerlog/d56aaed7727cb224e46f2070ef9f487d16c33e8b85286bc0d50d737b9cd9a18b"></p><p><br></p><p>[1] 얼마전 디스콰이엇에 서비스 베타 오픈을 알리며 메이커분들의 다양한 피드백을 받을 수 있었습니다.긍정적인 피드백이 많았지만, 촌철살인의 피드백 또한 있었습니다. 바로 <strong>더느프트 UI/UX가 TheVC와 유사하다는 점</strong>이었습니다. 저희가 다양한 서비스를 오마주했지만, TheVC를 많이 참고한 것은 사실이었기에 회의를 거쳐 새로운 UI/UX로 정식 오픈을 준비하고 있습니다.</p><p><br></p><p>[2] 정식 오픈 준비 중 메이커챌린지에 참여하게 되었고, 디스콰이엇에 올라온 올웨이즈 서비스의 "탐색"과 "이미지" 특성을 분석하며 저희 서비스에 적용할 수 있는 방안을 찾아보았습니다. 글 말미에는 베타 서비스 이미지와 정식 오픈 예정 프로토타입 이미지도 있으니 끝까지 읽어주시면 감사하겠습니다.</p><p><br></p><p><img src="https://media.disquiet.io/images/makerlog/f162caaa9cf2300b79622ee42223218b88da19e4893b7de2388e336e60e3d75e"></p><p><br></p><p>[3] 올웨이즈는 모바일 팀구매 커머스로, <strong>상품 이미지를 살린 탐색 과정</strong>이 인상적인 서비스입니다. 위 이미지와 같이 올웨이즈가 홈 화면의 50% 이상을 상품 이미지로 구성한 것에 비해 쿠팡은 홈 화면의 약 20%만을 상품 이미지로 채운 것을 확인할 수 있습니다.</p><p>&nbsp;</p><p>[4] 이렇게 상품 이미지를 강조하면 시선이 집중되기에 유저가 노출된 상품을 클릭하게 만들 수 있습니다. 이 때 개인화된 추천 서비스까지 뒷밤침 된다면, 유저의 잠재수요를 자극하여 상품 탐색 과정을 성공적으로 유도할 수 있게 되죠. <strong>즉, 검색 과정이 아닌 탐색 과정을 만들 수 있게 됩니다.</strong></p><p><br></p><p><em>(배너는 넓은 영역을 활용한 정보전달에 강점이 있으나 상품까지 도달하는 과정이 한 번 더 추가되기에 유기적인 흐름을 방해하게 됩니다)</em></p><p>&nbsp;</p><p><img src="https://media.disquiet.io/images/makerlog/bf55dc4fc2a63df15bab7ec4912a490ae7e405dc28371841eb7d5d198d7ee1b9"></p><p><br></p><p><br></p><p>[5] 이렇게 상품 중 하나를 선택하게 되면 상품 상세 화면에서는 연관 상품을 보여주고 있습니다. 즉, 홈 화면 상품 중 마음에 드는 상품을 골랐을 때, 유사 상품들을 보여줘 비교하며 구매까지 이를 수 있게 해주는 것이죠. 마치 장을 보는 과정과 같습니다. 한 바퀴 돌면서 특정 코너에 들어가게 되고 진열 상품을 비교하여 구매하는 과정이죠. <strong>올웨이즈의 탐색 구조는 유저의 체류시간를 연장시켜 잠재수요를 이끌어내 구매까지 이르게 하는 큰 장점</strong>이 있었습니다.</p><p>&nbsp;</p><p><img src="https://media.disquiet.io/images/makerlog/749abf1eb6b9db6823ec2ce952bf00c76e64b9cfe42e0c271a2693bd75691cdd"></p><p><em>베타 버전</em></p><p><br></p><p>[5] 더느프트는 NFT 정보 플랫폼으로 베타 버전에서는 정보 전달에 집중하여 탐색 과정에 대해 신경쓰지 못했습니다. 이로 인해 접속한 유저들의 체류 시간은 짧았고 클릭율도 매우 낮았습니다. 이에 올웨이즈의 상품 이미지를 살린 탐색 과정을 저희 서비스에 적용하여 해당 문제를 해결하고자 했습니다.</p><p>&nbsp;</p><p><img src="https://media.disquiet.io/images/makerlog/802c5d30c42f46a3d535fff91957499a09a55cf82b54bd26db35d0b15e1a1bed"></p><p><em>정식 오픈 예정 버전</em></p><p><br></p><p>[6] 정식 오픈 예정 버전에서는 상품 이미지, 즉 NFT 컬렉션의 특정 토큰 이미지를 살리는 구성으로 준비했습니다. 자체 큐레이션한 NFT 컬렉션을 소개하여 NFT 초보자인 유저들도 쉽게 첫 탐색의 포문을 열 며 잠재적인 수요를 찾을 수 있게 구성하였습니다.</p><p>&nbsp;</p><p><img src="https://media.disquiet.io/images/makerlog/151497fbaca4bf48a6a1ca8b58ba71e0c8c8cad7e497f8e18c8e46bd2efac94a"></p><p><em>좌. 베타버전 우. 정식 오픈 예정 버전</em></p><p><br></p><p>[7] 또한 NFT 상세 화면에 있어서도 상품 이미지를 살리는 구조로 설계하였습니다. 이전에는 한 페이지에 최대한 많은 정보를 담는 것에 집중했습니다. 정식 오픈에는 커머스의 상품 소개 방식을 차용, NFT 이미지를 전방에 살려 고객에게 해당 NFT 매력도를 높인 뒤, 정보를 최대한 보기 좋게 전달하는 것에 집중하였습니다. 또한 상품 이미지 옆에 구매하기 버튼을 마련해 유저들의 마켓플레이스 이동 전환을 유도하였습니다.</p><p>&nbsp;</p><p><em><img src="https://media.disquiet.io/images/makerlog/bce4e7fc8618174283c4184fd1d062db748d028c94fde1607ca7ec465f51beb0"></em></p><p><em>상. 베타버전 하. 정식 오픈 예정 버전</em></p><p><br></p><p>[8] 마지막으로 올웨이즈의 상세 페이지에 있는 연관 상품과 같이, 더느프트에서는 협업 관계에 있는 NFT를 하단에 이미지와 함께 노출하여 보다 이어지는 탐색 과정을 구축하고자 하고 있습니다.</p><p>&nbsp;</p><p>[9] 피드백 한 줄을 통해, NFT를 투자의 대상이 아닌 커머스에서 판매되는 하나의 상품으로 보며 더느프트만의 UI/UX를 만들 수 있었습니다. 더불어서 낯선 NFT를 익숙한 커머스 형태에 녹이니 친숙하게 느껴진다는 긍정적인 피드백도 얻을 수 있었습니다.</p><p>&nbsp;</p><p>[10] 현재 더느프트는 정식 버전 오픈을 위해 열심히 개발 중에 있으며, 기존 베타와 180도 다른 모습을 보여드리기 위해 계속해서 치열한 고민 중에 있습니다. 앞으로 갈 길이 멀지만 더느프트는 NFT 정보 플랫폼으로서 NFT 시장을 넓히는데 위해서 노력하겠습니다.</p><p><br></p><p><em>긴 글 읽어주셔서 감사합니다. </em></p><p>&nbsp;</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[친환경 포장재 플랫폼, 같이 만들어가실래요? (Disquiet ─ 메이커로그)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 20 Apr 2022 20:25:02 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 21:20:05 GMT</pubDate>
             <content:encoded><![CDATA[<p><img src="https://media.disquiet.io/images/makerlog/2b1b51e1c41df982b8cda3e8f8c93da7d1e1636e24329eed7ca62fb3b2c819ce"></p><p>안녕하세요 :) 저는 친환경 포장재 플랫폼 사업을 준비중인 예비창업자입니다. </p><p><br></p><p>저희 사업 아이템은 현재 KOSME 청년창업사관학교 창업 지원사업 선정되었으며 MVP(Minimum Viable Product) 버전을 개발하고자 합니다.&nbsp;</p><p><br></p><p>현재까지 진행사항은 기획, UI/UX는 완료되었습니다. 그러나 매스기획에 대한 부분은 조금 더 중점적으로 고민을 하는 중입니다. 프론트앤드/백앤드 개발을 통해 프로토타입 버전을 구현하고자 합니다. (백엔드 부분에 더 중점적으로 개발하고자 함.)</p><p><br></p><p>희망사항 및 목표는 mvp개발 이후 2022~23년 내 IR을 통해 투자유치 후 본 개발 진행하려고 생각중입니다. </p><p><br></p><p>아직 예비창업단계인 만큼 페이를 많이 드리지는 못하지만, 개발 초기인 만큼 그에 대한 성과 보상 등은 논의를 통해 발전시켜 나가고자 합니다.</p><p><br></p><p>사무실은 송파구 삼전역 인근입니다. 풀스텍 개발이 가능하시거나 백엔드 구현이 가능하신 분께서는 연락주시면 대환영으로 두손 벌려 맞이하겠습니다.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정보의 홍수에서 개발자로써 살아가기 위해 (Disquiet ─ 메이커로그)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 20 Apr 2022 20:25:02 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 21:20:05 GMT</pubDate>
             <content:encoded><![CDATA[<p><img src="https://velog.velcdn.com/images/winterlood/post/dfa46dcf-09d7-40e1-895f-3f6058258b93/image.png"></p><p>오픈소스 프로젝트를 하나 시작했습니다.</p><p><strong>"전국의 모든 어썸한 개발 컨텐츠를 조명하겠다"</strong>라는 목적으로 시작하였는데요</p><p>프로젝트의 이름은&nbsp;<strong>프밍</strong>&nbsp;입니다.</p><blockquote>프로그래밍 -&gt; 줄여서 프밍</blockquote><p><img src="https://velog.velcdn.com/images/winterlood/post/07f292a7-385a-494e-bd9b-d6229dc04c9d/image.png"></p><p>프밍은 프로젝트를 시작한지 1주일 즈음 3,570 조회수를 기록하고 957명이 방문 해 주셨으며</p><p>슬랙으로 운영되는 커뮤니티에는 현재 70분 정도가 함께하고 계십니다.</p><p>오늘 이 글을 통해&nbsp;<strong>프밍</strong>에 대해 소개하려고 합니다.</p><p><br></p><h3>프밍의 Core Loop</h3><p>Core Loop란 커뮤니티가 유지되기 위한 최소한의 핵심 활동입니다.</p><p>트위터의 Core Loop를 예로 들면 다음과 같습니다</p><blockquote>회원가입 &gt; 로그인 &gt; 트윗 &gt; 상호작용 (리트윗 or 좋아요 or 댓글)</blockquote><p>프밍의 Core Loop는 다음과 같습니다.</p><p>1. 로그인,회원가입</p><p>2. 기고 : 본인에게 유익했던 컨텐츠를 기고한다</p><p>3. 조회 : 남들이 기고한 컨텐츠를 살펴본다.</p><p>4. 큐레이팅 : 나에게 유익하다고 생각하는 컨텐츠에 upvote 하거나 추가적인 의견을 댓글로 남긴다.</p><p><br></p><h3>1. 로그인, 회원가입</h3><p>프밍은 현재 깃허브 저장소로 운영되고 있습니다.</p><p>GitHub 회원이라면 별도의 회원가입이 필요하지 않습니다!</p><blockquote>깃허브 :&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://bit.ly/37ZaxYY">https://bit.ly/37ZaxYY</a></blockquote><blockquote>슬랙 :&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://bit.ly/3xCZlMf">https://bit.ly/3xCZlMf</a></blockquote><p><img src="https://velog.velcdn.com/images/winterlood/post/9f7f5fcf-b1e0-4fbe-8464-6bfcbda9961b/image.png"></p><p>기고를 받고 큐레이팅 할 수 있는 깃허브 저장소의 Discussion 기능을 이용합니다.</p><p><img src="https://velog.velcdn.com/images/winterlood/post/f5537202-a4cb-4c5d-a8dd-179e91a30746/image.png"></p><p>기고는 실시간으로 Slack으로 발송됩니다.</p><p><img src="https://velog.velcdn.com/images/winterlood/post/f1e25a0b-257a-4314-aa3c-a5413ffdfb3b/image.png"></p><blockquote>깃허브 :&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://bit.ly/37ZaxYY">https://bit.ly/37ZaxYY</a></blockquote><blockquote>슬랙 :&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://bit.ly/3xCZlMf">https://bit.ly/3xCZlMf</a></blockquote><h3><br></h3><h3>2. 기고하기</h3><p>GitHub Issue와 완전(?) 유사한 사용법을 가지고 있는 Discussion으로 기고하실 수 있습니다.</p><p><img src="https://velog.velcdn.com/images/winterlood/post/9e4f1799-cfeb-4f33-a1b4-6f93acb2e934/image.png"></p><p>기고할 컨텐츠의 URL과 이 컨텐츠를 왜 추천하는지 요약하는 TL;DR만 작성하면 바로 기고가 가능합니다.</p><p>더 자세한 이용 방법은 아래 공지사항에서 확인하실 수 있습니다 😃</p><p><a target="_blank" rel="noopener noreferrer" href="https://github.com/pming-kr/pming-content/discussions/24">https://github.com/pming-kr/pming-content/discussions/24</a></p><p><br></p><h3>3. 기고된 컨텐츠들 조회하기</h3><p>그렇다고 모두가 깃허브 저장소를 계속 지켜보고 있을수는 없기 때문에, 슬랙을 이용하여 다양한 방법으로 기고된 컨텐츠와 큐레이팅 결과를 전송 해 드립니다.</p><p><br></p><h4>실시간 기고알림 : 누군가 훌륭한 컨텐츠를 기고했다면 Slack에 실시간으로 알림이 전송됩니다</h4><p><img src="https://velog.velcdn.com/images/winterlood/post/d4b63d4b-84d4-41e9-a7d0-504cecc3733f/image.png"></p><h4>데일리 컨텐츠 : 하루동안 가장 많은 Upvote를 받은 컨텐츠를 매일 오전 8~10시 사이에 소개합니다(퇴근하면서, 출근하면서 읽기 좋아요)</h4><p><img src="https://velog.velcdn.com/images/winterlood/post/0428ea76-a9c7-48af-b35d-73c2e99d71d6/image.png"></p><h4>위클리 컨텐츠 : 일주일 동안 가장 많은 Upvote를 받은 컨텐츠를 매주 월요일 오전 8~10시 사이에 소개합니다.(퇴근하면서, 출근하면서 읽기 좋아요)</h4><p><img src="https://velog.velcdn.com/images/winterlood/post/bd17ff83-eeb1-45b3-b01a-b3181e4d4b76/image.png"></p><h4>뉴스레터 : 위클리 컨텐츠를 메일로도 만나보세요(준비중)</h4><p>현재 준비중인 기능입니다.</p><p>프밍 깃허브 저장소를 Watch하면 새로운 Issue가 발행될 때 메일이 가는데요</p><p>매 주 or 매일 데일로 혹은 위클리 컨텐츠를 이슈로 발행하여 뉴스레터를 제공하려고 계획중에 있습니다.</p><p><br></p><h3><br></h3><h3>4. 큐레이팅하기</h3><p>Disucssion에 기고된 컨텐츠는 많은 사람들이 확인하고 좋았다면 Upvote를 눌러 이 컨텐츠가 좋았음을 알리게 됩니다.</p><p><img src="https://velog.velcdn.com/images/winterlood/post/c8755280-0f66-4922-bf61-b27531c1cad4/image.png"></p><p>또는 함께 읽으면 좋은 글이나 코멘트가 있다면 댓글로 표현합니다.</p><p><img src="https://velog.velcdn.com/images/winterlood/post/fc4138b6-73f8-4d44-8f7b-ce1cb1cec82b/image.png"></p><h3><br></h3><p><strong>프밍의 비전</strong></p><p>인공지능이나 알고리즘이 나쁘다는것은 아니지만!</p><p>진짜 개발자들간의 추천과 토론을 통해 선별된 다양하고 훌륭한 컨텐츠를 주기적으로 조명하는</p><p><strong>모든 개발 컨텐츠들의 허들없는 무대</strong>를 만들어 나가고 싶습니다.</p><p>그리고 이렇게 모이는 좋은 컨텐츠들을 통해</p><p>어렵겠지만 모든 개발자들의 아쉬움을 조금씩이라도 해결할 수 있었으면 좋겠습니다.</p><ul><li>학교에서는 선배들이 가르쳐주지 않는, 교수님들이 가르쳐주지 않는 프로들의 세상을</li><li>회사에서는 우리 회사에는 없는 좋은 문화와 시스템을</li><li>스터디모임이나 학원에서는 우리가 선택했으면 좋았을 학습 주제들을</li><li>좋지 않은 환경에서도 훌륭한 개발자가 될 수 있는 멋진 가이드라인을</li><li>주니어에게는 학습을 위한 좋은 마음가짐을</li><li>시니어에게는 시니어로써의 책임과 도리를</li></ul><p>또 장기적으로는 좋은 개발 문화를 만들어가고 싶습니다.</p><ul><li>어디가서 질문하던 미움받고 쫒겨나는 사람에게는 미움받지 않을 좋은 질문 방법을</li><li>초심자에게 도 넘은 비아냥이나 꾸짖음을 하는 사람에게는 초심자를 더 이해하는 넓은 마음을</li></ul><p><img src="https://velog.velcdn.com/images/winterlood/post/c413c3da-4293-45d3-8b7c-23de392889a6/image.png"></p><p>왜냐면 우리는 매일 더 나은 내일을 만들어가기 위해 '프밍'하는 거니까요</p><p><a target="_blank" rel="noopener noreferrer" href="https://bit.ly/37ZaxYY">저와 함께 해 주세요 😃</a></p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[예비 창업자분들을 모집합니다! (Disquiet ─ 메이커로그)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 20 Apr 2022 20:25:02 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 21:20:05 GMT</pubDate>
             <content:encoded><![CDATA[<p>세계적인 Ultra early VC 인 Antler가 드디어 서울에 상륙합니다.</p><p><br></p><p>앤틀러는 지난 4년간 뉴욕, 베를린, 런던, 싱가포르, 시드니 등 전 세계 주요 도시에서 16개의 오피스를 운영하며 400 여개의 스타트업에 pre-seed 와 seed 를 투자해왔고, 앤틀러 프로그램 졸업 팀의 절반 이상이 12개월 내에 후속투자를 유치하는 등 높은 성과를 만들어내고 있습니다.</p><p><br></p><p>앤틀러는 우수한 예비창업자를 개인 단위로 선발하고, 앤틀러 고유의 체계적이며 검증된 공동창업자 매칭, 컴퍼니빌딩 및 액셀러레이팅 프로그램을 통해, 글로벌 진출이 가능한 스타트업을 6개월 간 함께 만들어냅니다.</p><p><br></p><p>앤틀러 코리아는 혁신을 꿈꾸는 멋진 예비창업자 분들을 개인단위로 모십니다.</p><ul><li>세상을 바꾸는 Impact 있는 문제를 풀고자 하는 CEO / 창업 경력이 있는 연쇄 창업가</li><li>소프트웨어 개발, AI / 머신러닝 또는 데이터 사이언스에 대한 전문 지식을 갖춘 개발자/CTO</li><li>훌륭한 솔루션/제품을 세상에 알리고 고객을 유치하는 데 자신있는 마케터/CMO</li><li>특정 분야만큼은 누구보다도 깊은 통찰력을 가지고 있는 섹터 전문가</li><li>그 외 넥스트 유니콘을 직접 만들고자 하는 모든 분들</li></ul><p><br></p><p>앤틀러는 창업을 고민하시는 분들께 최적의 가치를 제공하는 플랫폼입니다.</p><p><br></p><p>아이디어나 팀이 없으셔도 괜찮습니다.</p><ul><li>자기주도적이며 전문성과 잠재력을 갖춘 우수 예비창업자라면 누구나 지원하실 수 있습니다. 앤틀러 프로그램 내에서 공동창업자를 찾고 강력한 팀을 구축하여 임팩트가 큰 비즈니스 아이템을 찾고 효율적으로 검증하실 수 있습니다.</li></ul><p><br></p><p>창업에만 집중하실 수 있도록 실질적으로 지원합니다.</p><ul><li>앤틀러 프로그램 합격자 전원에게&nbsp;인당 300만 원의 창업 지원금을 지급합니다.</li><li>앤틀러 프로그램 Phase 1 (3개월 집중 스프린트)을 통과한 팀은&nbsp;최대 2억 원의 Pre-seed 투자를 받게 됩니다. 앤틀러는 약 10%의 지분만 취득하고, 90%는 창업팀이 보유합니다.</li><li>Pre-seed 투자를 받은 팀들은 Phase 2 (3개월) 졸업 후 데모데이를 통해 공개되고, 앤틀러 및 외부 VC로부터&nbsp;Seed 투자를 받게 됩니다.</li><li>각 분야 최고의 앤틀러 코리아 자문단이 여러분을 지원합니다.</li><li>성공한 선배 창업자들로 구성된 앤틀러 코리아 자문단의&nbsp;전담 코칭 및 지원이 제공됩니다. 창업 초기에서부터 유니콘으로의 성장 또는 성공적인 exit 을 경험하신 분들이 여러분의 창업 여정을 함께 해주십니다. (앤틀러 코리아 자문단: 안익진 Moloco CEO, 김창원 타파스미디어 CEO &amp; 카카오엔터테인먼트 GSO, 신재식 데일리호텔 CEO, 이복기 원티드랩 CEO, 신상훈 그린랩스 CEO, 배형욱 데브시스터즈 COO 등 다수)</li></ul><p><br></p><p>글로벌 시장 공략을 적극적으로 지원합니다.</p><ul><li>앤틀러 코리아의 투자를 받은 팀은 그 즉시 전세계에 있는 앤틀러 오피스 16개에 노출되며, 각 오피스의 파트너들은 여러분의 해외 진출을 적극적으로 돕는 체계가 구축 되어있습니다.</li><li>해외 진출을 꿈꾸신다면 앤틀러가 최적의 채널입니다.</li></ul><p><br></p><p>2022년 여름, 한국의 첫 앤틀러 프로그램 1기가 서울에서 시작됩니다</p><p><br></p><p>앤틀러는 창업자를 최우선으로 생각하며, 훌륭하고 열정 가득한 창업가들의 잠재력을 깨우고, 그들이 세상의 중요한 문제를 푸는 솔루션을 만드는 데 모든 노력을 집중할 수 있도록 돕습니다.</p><p><br></p><p>인생의 6개월만 투자하셔서 세계적으로 검증된 앤틀러의 컴퍼니빌딩 프로그램과 함께 넥스트 유니콘으로 성장하세요.</p><p><br></p><p><a target="_blank" rel="noopener noreferrer" href="https://www.antler.co/ko-kr/korea">https://www.antler.co/ko-kr/korea</a> 를 통해 지원하실 수 있습니다.</p><p>(조기 마감될 수 있으므로 최대한 빠른 시일 내 지원해주시길 바랍니다.)</p><p><br></p><p>앤틀러 코리아 프로그램에 대한 자세한 사항은 다음 링크를 통해 확인하실 수 있습니다. <a target="_blank" rel="noopener noreferrer" href="https://bit.ly/3sNHgXR">https://bit.ly/3sNHgXR</a></p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[✍️ 주니어 PMO를 위해 린하게 분석한 문제 발견과 검증 (Compact Ver.) (Disquiet ─ 메이커로그)]]></title>
             <link>https://ITCORD.github.io/product/all.xml</link>
             <guid>https://ITCORD.github.io/product/all.xml</guid>
-            <pubDate>Wed, 20 Apr 2022 20:25:02 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 21:20:05 GMT</pubDate>
             <content:encoded><![CDATA[<p>✅ ‘우리의 자원은 한정되어 있으니 모든 것을 다 관리하고 측정할 수 없다’라는 레슨런을 주는 '린 분석'을 읽으며 팀의 한정된 리소스를 효율적으로 쓰고, 핵심 지표에만 초점을 맞추어 프로덕트를 관리하기로 마음먹었습니다.</p><p><br></p><p>✅ 여기서 핵심 지표를 선정하는 것은 ‘사업 혹은 서비스가 어느 단계까지 성장했는지’에 따라 다를 수 있는데요.</p><p><br></p><p>✅&nbsp;'린 분석'에 따르면, 사업 혹은 서비스의 성숙도는 다음의 단계들로&nbsp;구분할 수 있습니다.</p><p>1. 공감 : 문제를 해결해주는 대신 돈을 낼 만큼 고객은 문제 해결이 절실한가</p><p>2. 흡인력 : 우리 프로덕트는 꾸준히 팔릴 정도로 시장 적합성이 있는가</p><p>3. 바이럴 : 기존 고객의 입소문을 통해 신규 고객이 늘어날 수 있는가</p><p>4. 매출 : 사업 수익을 어떻게 극대화할 것인가</p><p>5. 확장 : 향후 시장의 파이를 어떻게 넓힐 것인가</p><p><br></p><p>✅ 공감~바이럴 단계와 관련 있는 'Product Market Fit'은</p><p>(i) PMF를 찾았다는 것을 확인할 수 있는 기준이 모호하다는 점,</p><p>(ii) PMF는 못 찾았지만 어쨌거나 생존이 가능한 상태가 있을 수 있다는 점,</p><p>(iii) PMF는 찾았지만 거기에서 더 성장하지 못하는 경우가 있을 수 있다는 점 등의</p><p>한계가 있습니다.</p><p><br></p><p>✅&nbsp;그래서 'GTM FIT GUIDE'에서는 '쓰는 사람만 쓰는 작은 서비스'가 아닌 '세상을 바꿀 수 있는 서비스'로 성장하기 위해서 PMF의 대안으로서 'GTM(Go to Market) Fit'을 강조하고 있습니다.&nbsp;</p><p><br></p><p>✅ 개인적으로 시장 확장시에도 결국 '시장을 이루는 고객'을 찾는 것은 항상 중요하기에,&nbsp;</p><p>PMF를 찾는 것은 여전히 유효하다는 생각이 들었습니다.</p><p><br></p><p>✅ PMF의 3가지 증거에 따르면, B2B SaaS 라면 적용가능한 다음의 PMF 프레임워크도 있습니다.</p><p>✔️회사들이 돈을 내는가?</p><p>✔️회사들이 돈을 내고 사용하는가?</p><p>✔️회사들이 돈을 내고 사용하면서 지인들에게 (우리 소프트웨어를) 소개도 하는가?</p><p>결국 여기서 '회사'를 '고객'으로 바꾼다면 린 분석의 5단계와도 얼추 비슷하며</p><p>B2C에서도 사용가능한 프레임워크가 될 것이라 생각합니다.</p><p><br></p><p>⏩ 전문은 하단의 브런치에서 보실 수 있습니다.</p><p><a target="_blank" rel="noopener noreferrer" href="https://brunch.co.kr/@amtopm/2">https://brunch.co.kr/@amtopm/2</a></p>]]></content:encoded>
         </item>
         <item>
