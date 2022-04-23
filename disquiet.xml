@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-04-23T05:20:50.485Z</updated>
+    <updated>2022-04-23T06:27:49.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[PM Wiki]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-04-23T05:20:23.653Z</updated>
+        <updated>2022-04-23T06:27:19.496Z</updated>
         <content type="html"><![CDATA[PM에게 도움이 될 아티클들을 모아둔 공간입니다.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[STEAD]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-04-23T05:20:23.653Z</updated>
+        <updated>2022-04-23T06:27:19.497Z</updated>
         <content type="html"><![CDATA[채용을 더 쉽고 간편하게, 채용협업툴 스테드]]></content>
     </entry>
 </feed>

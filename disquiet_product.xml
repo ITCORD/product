@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=product</id>
     <title>Disquiet ─ 프로덕트</title>
-    <updated>2022-04-23T05:20:50.487Z</updated>
+    <updated>2022-04-23T06:27:49.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[PM Wiki]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-04-23T05:20:30.958Z</updated>
+        <updated>2022-04-23T06:27:26.133Z</updated>
         <content type="html"><![CDATA[PM에게 도움이 될 아티클들을 모아둔 공간입니다.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[STEAD]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-04-23T05:20:30.958Z</updated>
+        <updated>2022-04-23T06:27:26.135Z</updated>
         <content type="html"><![CDATA[채용을 더 쉽고 간편하게, 채용협업툴 스테드]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[그리팅]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-04-23T05:20:30.958Z</updated>
+        <updated>2022-04-23T06:27:26.137Z</updated>
         <content type="html"><![CDATA[그리팅 - 쉽고 편한 채용 솔루션]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프밍]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-04-23T05:20:30.959Z</updated>
+        <updated>2022-04-23T06:27:26.137Z</updated>
         <content type="html"><![CDATA[정보의 바다에서 헤엄치는 개발자들을 위한 그리고 훌륭한 컨텐츠들을 위한 허들없는 무대]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Korean FE Article]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-04-23T05:20:30.959Z</updated>
+        <updated>2022-04-23T06:27:26.138Z</updated>
         <content type="html"><![CDATA[한글로 작성된 프론트엔드 아티클을 공유합니다.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ssda app]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-04-23T05:20:30.959Z</updated>
+        <updated>2022-04-23T06:27:26.139Z</updated>
         <content type="html"><![CDATA[내일의 J.K. 롤링을 꿈꾸는 당신에게, 웹소설 편집기 SSDA]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나나공]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-04-23T05:20:30.961Z</updated>
+        <updated>2022-04-23T06:27:26.140Z</updated>
         <content type="html"><![CDATA[나나공은 '나보다 나무늘보가 공부 열심히 한다'의 줄임말로 얄미운 나무늘보와 대결하는 완강 목표 앱입니다]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[앙팡허그.  아빠손 복대]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-04-23T05:20:30.961Z</updated>
+        <updated>2022-04-23T06:27:26.141Z</updated>
         <content type="html"><![CDATA[태아를 위한 복대, 임산부에게는 더 편안한 복대]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[메타버스 스터디와 인공지능 사이드 프로젝트]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-04-23T05:20:30.962Z</updated>
+        <updated>2022-04-23T06:27:26.142Z</updated>
         <content type="html"><![CDATA[메타버스와 인공지능에 대해 공부하고 창업공모전이나 사이드프로젝트를 같이 하는 모임입니다]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Graha]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-04-23T05:20:30.963Z</updated>
+        <updated>2022-04-23T06:27:26.143Z</updated>
         <content type="html"><![CDATA[웹 메이커를 위한 가장 빠른 피드백 툴]]></content>
     </entry>
 </feed>
