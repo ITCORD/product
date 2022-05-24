@@ -14,7 +14,7 @@ url = "https://disquiet.io/?sort=recent&type=all"
 entrySelector = "div[class*='clickable']"
 titleSelector = "div.card-header div.card-title"
 linkSelector = "*"
-contentSelector = "div.sc-chCrNI dULKrW"
+contentSelector = "div.sc-chCrNI.dULKrW"
 waitUntil = "networkidle"
 
 [disquiet_product]
@@ -23,7 +23,7 @@ url = "https://disquiet.io/?sort=recent&type=product"
 entrySelector = "div[class*='clickable']"
 titleSelector = "div.card-title"
 linkSelector = "*"
-contentSelector = "div.sc-chCrNI dULKrW"
+contentSelector = "div.sc-chCrNI.dULKrW"
 waitUntil = "networkidle"
 
 [disquiet_makerlog]
