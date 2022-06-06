@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2022-06-06T14:19:14.680Z</updated>
+    <updated>2022-06-06T15:25:13.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -67,26 +67,5 @@
         <link href="https://news.hada.io/topic?id=6427"/>
         <updated>2022-04-23T08:26:53.765Z</updated>
         <content type="html"><![CDATA[(github.com/realtimetech-solution)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: P2P Remote Desktop - Open Source - alternative to TeamViewer - AnyDesk ...]]></title>
-        <id>https://news.hada.io/topic?id=6136</id>
-        <link href="https://news.hada.io/topic?id=6136"/>
-        <updated>2022-03-13T17:21:18.182Z</updated>
-        <content type="html"><![CDATA[(github.com/miroslavpejic85)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: MiroTalk - SFU - Open-Source - Simple, Secure, Scalable, Fast WebRTC Up to 4k]]></title>
-        <id>https://news.hada.io/topic?id=6135</id>
-        <link href="https://news.hada.io/topic?id=6135"/>
-        <updated>2022-03-13T16:31:25.393Z</updated>
-        <content type="html"><![CDATA[(github.com/miroslavpejic85)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: MiroTalk - P2P - Open-Source - Simple, Secure, Fast WebRTC Up to 4k and 60fps]]></title>
-        <id>https://news.hada.io/topic?id=6134</id>
-        <link href="https://news.hada.io/topic?id=6134"/>
-        <updated>2022-03-13T16:31:25.394Z</updated>
-        <content type="html"><![CDATA[(github.com/miroslavpejic85)]]></content>
     </entry>
 </feed>
