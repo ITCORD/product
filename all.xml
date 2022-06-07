@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 23:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 01:56:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,6 +147,13 @@
             <guid>https://wwit.design/2022/01/23/tada/</guid>
             <pubDate>Sat, 28 May 2022 21:20:45 GMT</pubDate>
             <content:encoded><![CDATA[mobility]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: 스톡옵션 계산기 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6694</link>
+            <guid>https://news.hada.io/topic?id=6694</guid>
+            <pubDate>Tue, 07 Jun 2022 01:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[(stockoption.page.link)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: Q.Link | Hide your link behind a simple quiz (GeekNews Show)]]></title>
