@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 11:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 12:44:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,6 +147,13 @@
             <guid>https://wwit.design/2022/01/23/tada/</guid>
             <pubDate>Tue, 14 Jun 2022 16:36:17 GMT</pubDate>
             <content:encoded><![CDATA[mobility]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: WRP - 웹뷰와 모바일 네이티브 통신을 위한 Protobuf 서비스 프로토콜 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6761</link>
+            <guid>https://news.hada.io/topic?id=6761</guid>
+            <pubDate>Wed, 15 Jun 2022 12:44:31 GMT</pubDate>
+            <content:encoded><![CDATA[(twitter.com/hrmm_flow)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: Test API - Simple API that is (maybe) useful for testing (GeekNews Show)]]></title>
