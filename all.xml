@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 11:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 12:44:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메일고고 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/nkKmp3eau0dGNhpFuKus</link>
+            <guid>https://the-hit.co/services/nkKmp3eau0dGNhpFuKus</guid>
+            <pubDate>Thu, 16 Jun 2022 12:43:43 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 뉴스레터를 에디터가 모아 추천하는 서비스]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[맞춤분양 (THE HIT)]]></title>
             <link>https://the-hit.co/services/7xSs6fMMf0fmH6syuc5d</link>
@@ -104,13 +111,6 @@
             <guid>https://the-hit.co/services/YUiMnzSEESWiCwAMY0EP</guid>
             <pubDate>Mon, 31 Jan 2022 11:18:30 GMT</pubDate>
             <content:encoded><![CDATA[B2B 비즈니스 소싱 플랫폼]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TMM (THE HIT)]]></title>
-            <link>https://the-hit.co/services/gkW8wqqXiSfEI0WmkVrF</link>
-            <guid>https://the-hit.co/services/gkW8wqqXiSfEI0WmkVrF</guid>
-            <pubDate>Mon, 31 Jan 2022 11:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[휠체어 이용자의 이동권 개선을 위한 어플리케이션]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[트로스트 (WWIT)]]></title>
