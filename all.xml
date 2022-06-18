@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 23:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 02:04:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,6 +147,13 @@
             <guid>https://wwit.design/2022/01/23/tada/</guid>
             <pubDate>Tue, 14 Jun 2022 16:36:17 GMT</pubDate>
             <content:encoded><![CDATA[mobility]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: Notion으로 만든 중고맥북 판매 중계 서비스 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6781</link>
+            <guid>https://news.hada.io/topic?id=6781</guid>
+            <pubDate>Sat, 18 Jun 2022 02:04:04 GMT</pubDate>
+            <content:encoded><![CDATA[(applepie.pro)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: WRP - 웹뷰와 모바일 네이티브 통신을 위한 Protobuf 서비스 프로토콜 (GeekNews Show)]]></title>
