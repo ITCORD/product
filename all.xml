@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 06:30:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 07:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -117,7 +117,7 @@
             <link>https://wwit.design/2022/05/28/trost/</link>
             <guid>https://wwit.design/2022/05/28/trost/</guid>
             <pubDate>Wed, 22 Jun 2022 19:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
+            <content:encoded><![CDATA[life]]></content:encoded>
             <enclosure url="https://wwit.design/images/posts/trost/00_onboarding/trost_00_splash.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
@@ -125,28 +125,28 @@
             <link>https://wwit.design/2022/04/02/imin/</link>
             <guid>https://wwit.design/2022/04/02/imin/</guid>
             <pubDate>Wed, 22 Jun 2022 19:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[금융]]></content:encoded>
+            <content:encoded><![CDATA[finance]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[텍스처 texture (WWIT)]]></title>
             <link>https://wwit.design/2022/03/20/texture/</link>
             <guid>https://wwit.design/2022/03/20/texture/</guid>
             <pubDate>Wed, 22 Jun 2022 19:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
+            <content:encoded><![CDATA[life]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[런드리고 (WWIT)]]></title>
             <link>https://wwit.design/2022/02/07/laundrygo/</link>
             <guid>https://wwit.design/2022/02/07/laundrygo/</guid>
             <pubDate>Wed, 22 Jun 2022 19:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
+            <content:encoded><![CDATA[life]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[타다 TADA (WWIT)]]></title>
             <link>https://wwit.design/2022/01/23/tada/</link>
             <guid>https://wwit.design/2022/01/23/tada/</guid>
             <pubDate>Wed, 22 Jun 2022 19:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[모빌리티]]></content:encoded>
+            <content:encoded><![CDATA[mobility]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: Notion으로 만든 중고맥북 판매 중개 서비스 (GeekNews Show)]]></title>
