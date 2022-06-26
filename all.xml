@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 14:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 15:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -117,7 +117,7 @@
             <link>https://wwit.design/2022/05/28/trost/</link>
             <guid>https://wwit.design/2022/05/28/trost/</guid>
             <pubDate>Wed, 22 Jun 2022 19:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[life]]></content:encoded>
+            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
             <enclosure url="https://wwit.design/images/posts/trost/00_onboarding/trost_00_splash.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
@@ -125,28 +125,28 @@
             <link>https://wwit.design/2022/04/02/imin/</link>
             <guid>https://wwit.design/2022/04/02/imin/</guid>
             <pubDate>Wed, 22 Jun 2022 19:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[finance]]></content:encoded>
+            <content:encoded><![CDATA[금융]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[텍스처 texture (WWIT)]]></title>
             <link>https://wwit.design/2022/03/20/texture/</link>
             <guid>https://wwit.design/2022/03/20/texture/</guid>
             <pubDate>Wed, 22 Jun 2022 19:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[life]]></content:encoded>
+            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[런드리고 (WWIT)]]></title>
             <link>https://wwit.design/2022/02/07/laundrygo/</link>
             <guid>https://wwit.design/2022/02/07/laundrygo/</guid>
             <pubDate>Wed, 22 Jun 2022 19:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[life]]></content:encoded>
+            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[타다 TADA (WWIT)]]></title>
             <link>https://wwit.design/2022/01/23/tada/</link>
             <guid>https://wwit.design/2022/01/23/tada/</guid>
             <pubDate>Wed, 22 Jun 2022 19:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[mobility]]></content:encoded>
+            <content:encoded><![CDATA[모빌리티]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: 사이드프로젝트/창업 팀빌딩 플랫폼 (GeekNews Show)]]></title>
@@ -224,13 +224,6 @@
             <guid>https://news.hada.io/topic?id=6394</guid>
             <pubDate>Mon, 18 Apr 2022 09:23:10 GMT</pubDate>
             <content:encoded><![CDATA[(nomadcoders.oopy.io)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show GN: elbird - 한글 형태소 분석기인 kiwi의 R wrapping package (github.com) (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=6290</link>
-            <guid>https://news.hada.io/topic?id=6290</guid>
-            <pubDate>Sun, 03 Apr 2022 15:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[(github.com/mrchypark)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: 영어 단어 반복 학습에 최적화된 단어장을 만들어봤어요. (GeekNews Show)]]></title>
