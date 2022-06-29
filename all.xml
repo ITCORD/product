@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 14:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 15:53:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,13 +212,6 @@
             <content:encoded><![CDATA[(q-link.minung.dev)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show GN: Pbkit - Deno로 만든 Protobuf 툴킷 (컴파일러, 패키지 매니저, VSCode 확장, 크롬 확장) (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=6316</link>
-            <guid>https://news.hada.io/topic?id=6316</guid>
-            <pubDate>Wed, 06 Apr 2022 07:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[(pbkit.dev)]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Show GN: 틸노트 : 데일리 기반으로 TIL (Today I Learned) 를 기록하고 관리할 수 있는 클라우드 노트 (GeekNews Show)]]></title>
             <link>https://news.hada.io/topic?id=6333</link>
             <guid>https://news.hada.io/topic?id=6333</guid>
@@ -238,13 +231,6 @@
             <guid>https://news.hada.io/topic?id=6394</guid>
             <pubDate>Mon, 18 Apr 2022 09:23:10 GMT</pubDate>
             <content:encoded><![CDATA[(nomadcoders.oopy.io)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show GN: 영어 단어 반복 학습에 최적화된 단어장을 만들어봤어요. (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=6315</link>
-            <guid>https://news.hada.io/topic?id=6315</guid>
-            <pubDate>Wed, 06 Apr 2022 06:27:06 GMT</pubDate>
-            <content:encoded><![CDATA[(linktr.ee)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: 자바 객체 JSON/바이너리 직렬화 라이브러리 (GeekNews Show)]]></title>
