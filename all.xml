@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 06:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 07:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,18 +156,18 @@
             <content:encoded><![CDATA[(applepie.pro)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show GN: 모두를 위한 소셜 링크 사이트 (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=6927</link>
-            <guid>https://news.hada.io/topic?id=6927</guid>
-            <pubDate>Thu, 07 Jul 2022 02:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[(linktag.org)]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Show GN: 트위터 연동 자유시장 (GeekNews Show)]]></title>
             <link>https://news.hada.io/topic?id=6901</link>
             <guid>https://news.hada.io/topic?id=6901</guid>
             <pubDate>Mon, 04 Jul 2022 23:22:35 GMT</pubDate>
             <content:encoded><![CDATA[(applepie.pro)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: 모두를 위한 소셜 링크 사이트 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6927</link>
+            <guid>https://news.hada.io/topic?id=6927</guid>
+            <pubDate>Thu, 07 Jul 2022 02:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[(linktag.org)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: ApplePie Pro 2.0 - Notion MVP였는데 토이 프로젝트가 아니라 진심 100% (GeekNews Show)]]></title>
