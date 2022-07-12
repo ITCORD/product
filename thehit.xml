@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://the-hit.co/</id>
     <title>THE HIT</title>
-    <updated>2022-07-12T05:40:43.790Z</updated>
+    <updated>2022-07-12T06:30:12.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://the-hit.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리뭐먹지]]></title>
+        <id>https://the-hit.co/services/dE3kUJadPm4ML3P1IVmr</id>
+        <link href="https://the-hit.co/services/dE3kUJadPm4ML3P1IVmr"/>
+        <updated>2022-07-12T06:29:37.528Z</updated>
+        <content type="html"><![CDATA[미니게임으로 취향분석하고 혼자/여럿이 먹을 메뉴 추천]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Devign(디바인)]]></title>
         <id>https://the-hit.co/services/fbsUBNoNNLXBaSmxkii3</id>
@@ -102,12 +109,5 @@
         <link href="https://the-hit.co/services/YQu57ye2qQmBW51oaZGP"/>
         <updated>2022-01-31T11:18:30.408Z</updated>
         <content type="html"><![CDATA[비대면 생활 폐기물 처리 서비스 분리수GO]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alter Ego]]></title>
-        <id>https://the-hit.co/services/1MD0919hrIHpvawQ1RLd</id>
-        <link href="https://the-hit.co/services/1MD0919hrIHpvawQ1RLd"/>
-        <updated>2022-01-31T11:18:30.419Z</updated>
-        <content type="html"><![CDATA[나만의 가상 자아 만들기 시뮬레이터]]></content>
     </entry>
 </feed>
