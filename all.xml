@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 12:44:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 13:47:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,6 +147,13 @@
             <guid>https://wwit.design/2022/01/23/tada/</guid>
             <pubDate>Tue, 12 Jul 2022 06:30:05 GMT</pubDate>
             <content:encoded><![CDATA[모빌리티]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: epyt: 1KB 타자 게임 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6967</link>
+            <guid>https://news.hada.io/topic?id=6967</guid>
+            <pubDate>Wed, 13 Jul 2022 13:47:23 GMT</pubDate>
+            <content:encoded><![CDATA[(js1024.fun)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: 트위터 연동 자유시장 (GeekNews Show)]]></title>
