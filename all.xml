@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 02:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 04:03:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -149,17 +149,17 @@
             <content:encoded><![CDATA[모빌리티]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show GN: 당신의 트위터 감정사전 <beta> (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=6941</link>
-            <guid>https://news.hada.io/topic?id=6941</guid>
-            <pubDate>Sat, 09 Jul 2022 04:30:35 GMT</pubDate>
-            <content:encoded><![CDATA[(applepie.pro)]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Show GN: 트위터 연동 자유시장 (GeekNews Show)]]></title>
             <link>https://news.hada.io/topic?id=6901</link>
             <guid>https://news.hada.io/topic?id=6901</guid>
             <pubDate>Mon, 04 Jul 2022 23:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[(applepie.pro)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: 당신의 트위터 감정사전 <beta> (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6941</link>
+            <guid>https://news.hada.io/topic?id=6941</guid>
+            <pubDate>Sat, 09 Jul 2022 04:30:35 GMT</pubDate>
             <content:encoded><![CDATA[(applepie.pro)]]></content:encoded>
         </item>
         <item>
