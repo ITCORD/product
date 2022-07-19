@@ -2,42 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wwit.design/</id>
     <title>WWIT</title>
-    <updated>2022-07-19T09:25:55.531Z</updated>
+    <updated>2022-07-19T10:27:50.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://wwit.design/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[모니모]]></title>
-        <id>https://wwit.design/2022/07/07/monimo/</id>
-        <link href="https://wwit.design/2022/07/07/monimo/"/>
-        <updated>2022-07-19T07:22:02.369Z</updated>
-        <content type="html"><![CDATA[금융]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트로스트]]></title>
-        <id>https://wwit.design/2022/05/28/trost/</id>
-        <link href="https://wwit.design/2022/05/28/trost/"/>
-        <updated>2022-07-19T07:22:02.402Z</updated>
-        <content type="html"><![CDATA[라이프스타일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아임인 imin]]></title>
-        <id>https://wwit.design/2022/04/02/imin/</id>
-        <link href="https://wwit.design/2022/04/02/imin/"/>
-        <updated>2022-07-19T07:22:02.405Z</updated>
-        <content type="html"><![CDATA[금융]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[텍스처 texture]]></title>
-        <id>https://wwit.design/2022/03/20/texture/</id>
-        <link href="https://wwit.design/2022/03/20/texture/"/>
-        <updated>2022-07-19T07:22:02.410Z</updated>
-        <content type="html"><![CDATA[라이프스타일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[런드리고]]></title>
-        <id>https://wwit.design/2022/02/07/laundrygo/</id>
-        <link href="https://wwit.design/2022/02/07/laundrygo/"/>
-        <updated>2022-07-19T07:22:02.413Z</updated>
-        <content type="html"><![CDATA[라이프스타일]]></content>
-    </entry>
 </feed>
