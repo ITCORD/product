@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://the-hit.co/</id>
     <title>THE HIT</title>
-    <updated>2022-07-21T07:22:35.536Z</updated>
+    <updated>2022-07-21T08:29:21.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://the-hit.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[맞춤분양]]></title>
+        <id>https://the-hit.co/services/F3E0McqD41Kso6ufOtP4</id>
+        <link href="https://the-hit.co/services/F3E0McqD41Kso6ufOtP4"/>
+        <updated>2022-07-21T08:28:40.780Z</updated>
+        <content type="html"><![CDATA[개인맞춤 분양매물 필터링 서비스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리뭐먹지]]></title>
         <id>https://the-hit.co/services/dE3kUJadPm4ML3P1IVmr</id>
@@ -102,12 +109,5 @@
         <link href="https://the-hit.co/services/gLJR6pGViegALy9WZiN6"/>
         <updated>2022-01-31T11:18:30.408Z</updated>
         <content type="html"><![CDATA[커플 전용 위치기반 증강현실 SNS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[분리수GO]]></title>
-        <id>https://the-hit.co/services/YQu57ye2qQmBW51oaZGP</id>
-        <link href="https://the-hit.co/services/YQu57ye2qQmBW51oaZGP"/>
-        <updated>2022-01-31T11:18:30.408Z</updated>
-        <content type="html"><![CDATA[비대면 생활 폐기물 처리 서비스 분리수GO]]></content>
     </entry>
 </feed>
