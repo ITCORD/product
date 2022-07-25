@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://the-hit.co/</id>
     <title>THE HIT</title>
-    <updated>2022-07-24T23:23:04.175Z</updated>
+    <updated>2022-07-25T02:11:12.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://the-hit.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[복부인]]></title>
+        <id>https://the-hit.co/services/aIavMixoM9tf5pUWwEuS</id>
+        <link href="https://the-hit.co/services/aIavMixoM9tf5pUWwEuS"/>
+        <updated>2022-07-25T02:10:31.204Z</updated>
+        <content type="html"><![CDATA[부동산 통합 자산관리및 임대관리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[맞춤분양]]></title>
         <id>https://the-hit.co/services/F3E0McqD41Kso6ufOtP4</id>
@@ -102,12 +109,5 @@
         <link href="https://the-hit.co/services/LU82ZGLg3oRDm3dv1nwK"/>
         <updated>2022-01-31T11:18:30.407Z</updated>
         <content type="html"><![CDATA[국내 최대 기업정보 플랫폼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨링(See-ring)]]></title>
-        <id>https://the-hit.co/services/gLJR6pGViegALy9WZiN6</id>
-        <link href="https://the-hit.co/services/gLJR6pGViegALy9WZiN6"/>
-        <updated>2022-01-31T11:18:30.408Z</updated>
-        <content type="html"><![CDATA[커플 전용 위치기반 증강현실 SNS]]></content>
     </entry>
 </feed>

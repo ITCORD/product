@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 23:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 02:11:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[복부인 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/aIavMixoM9tf5pUWwEuS</link>
+            <guid>https://the-hit.co/services/aIavMixoM9tf5pUWwEuS</guid>
+            <pubDate>Mon, 25 Jul 2022 02:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[부동산 통합 자산관리및 임대관리]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[맞춤분양 (THE HIT)]]></title>
             <link>https://the-hit.co/services/F3E0McqD41Kso6ufOtP4</link>
@@ -104,13 +111,6 @@
             <guid>https://the-hit.co/services/LU82ZGLg3oRDm3dv1nwK</guid>
             <pubDate>Mon, 31 Jan 2022 11:18:30 GMT</pubDate>
             <content:encoded><![CDATA[국내 최대 기업정보 플랫폼]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[씨링(See-ring) (THE HIT)]]></title>
-            <link>https://the-hit.co/services/gLJR6pGViegALy9WZiN6</link>
-            <guid>https://the-hit.co/services/gLJR6pGViegALy9WZiN6</guid>
-            <pubDate>Mon, 31 Jan 2022 11:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[커플 전용 위치기반 증강현실 SNS]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[모니모 (WWIT)]]></title>
