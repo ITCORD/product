@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://the-hit.co/</id>
     <title>THE HIT</title>
-    <updated>2022-07-26T09:28:29.710Z</updated>
+    <updated>2022-07-26T10:29:00.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://the-hit.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ValueSearch]]></title>
+        <id>https://the-hit.co/services/3Kk2rwUwxAqoKN1M37x0</id>
+        <link href="https://the-hit.co/services/3Kk2rwUwxAqoKN1M37x0"/>
+        <updated>2022-07-26T10:28:22.668Z</updated>
+        <content type="html"><![CDATA[AI 기반 비즈니스 데이터 분석 플랫폼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[복부인]]></title>
         <id>https://the-hit.co/services/aIavMixoM9tf5pUWwEuS</id>
@@ -102,12 +109,5 @@
         <link href="https://the-hit.co/services/Jg40jPusAZdj04ioOvsZ"/>
         <updated>2022-01-31T11:18:30.407Z</updated>
         <content type="html"><![CDATA[문서에서 바로 개발. Develop-on-Doc.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CompanySearch]]></title>
-        <id>https://the-hit.co/services/LU82ZGLg3oRDm3dv1nwK</id>
-        <link href="https://the-hit.co/services/LU82ZGLg3oRDm3dv1nwK"/>
-        <updated>2022-01-31T11:18:30.407Z</updated>
-        <content type="html"><![CDATA[국내 최대 기업정보 플랫폼]]></content>
     </entry>
 </feed>
