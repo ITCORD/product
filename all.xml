@@ -1,231 +1,271 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ITCORD.github.io/product/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-08-10T20:24:59.409Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[ValueSearch (THE HIT)]]></title>
-        <id>https://the-hit.co/services/3Kk2rwUwxAqoKN1M37x0</id>
-        <link href="https://the-hit.co/services/3Kk2rwUwxAqoKN1M37x0"/>
-        <updated>2022-07-26T10:28:22.668Z</updated>
-        <content type="html"><![CDATA[AI 기반 비즈니스 데이터 분석 플랫폼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[복부인 (THE HIT)]]></title>
-        <id>https://the-hit.co/services/aIavMixoM9tf5pUWwEuS</id>
-        <link href="https://the-hit.co/services/aIavMixoM9tf5pUWwEuS"/>
-        <updated>2022-07-25T02:10:31.204Z</updated>
-        <content type="html"><![CDATA[부동산 통합 자산관리및 임대관리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맞춤분양 (THE HIT)]]></title>
-        <id>https://the-hit.co/services/F3E0McqD41Kso6ufOtP4</id>
-        <link href="https://the-hit.co/services/F3E0McqD41Kso6ufOtP4"/>
-        <updated>2022-07-21T08:28:40.780Z</updated>
-        <content type="html"><![CDATA[개인맞춤 분양매물 필터링 서비스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리뭐먹지 (THE HIT)]]></title>
-        <id>https://the-hit.co/services/dE3kUJadPm4ML3P1IVmr</id>
-        <link href="https://the-hit.co/services/dE3kUJadPm4ML3P1IVmr"/>
-        <updated>2022-07-12T06:29:37.528Z</updated>
-        <content type="html"><![CDATA[미니게임으로 취향분석하고 혼자/여럿이 먹을 메뉴 추천]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devign(디바인) (THE HIT)]]></title>
-        <id>https://the-hit.co/services/fbsUBNoNNLXBaSmxkii3</id>
-        <link href="https://the-hit.co/services/fbsUBNoNNLXBaSmxkii3"/>
-        <updated>2022-06-17T07:20:51.206Z</updated>
-        <content type="html"><![CDATA[visual AI 기술을 적용한 이슈 리포팅 툴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메일고고 (THE HIT)]]></title>
-        <id>https://the-hit.co/services/nkKmp3eau0dGNhpFuKus</id>
-        <link href="https://the-hit.co/services/nkKmp3eau0dGNhpFuKus"/>
-        <updated>2022-06-16T12:43:43.237Z</updated>
-        <content type="html"><![CDATA[다양한 뉴스레터를 에디터가 모아 추천하는 서비스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맞춤분양 (THE HIT)]]></title>
-        <id>https://the-hit.co/services/7xSs6fMMf0fmH6syuc5d</id>
-        <link href="https://the-hit.co/services/7xSs6fMMf0fmH6syuc5d"/>
-        <updated>2022-05-31T07:23:40.198Z</updated>
-        <content type="html"><![CDATA[개인맞춤 주택분양정보 제공 애플리케이션]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mAsh (THE HIT)]]></title>
-        <id>https://the-hit.co/services/CJyu9n9FkH3Q7HHCIuEq</id>
-        <link href="https://the-hit.co/services/CJyu9n9FkH3Q7HHCIuEq"/>
-        <updated>2022-03-31T09:23:11.482Z</updated>
-        <content type="html"><![CDATA[오프라인의 구글 애널리틱스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매치드 (THE HIT)]]></title>
-        <id>https://the-hit.co/services/DRg7MKYIKVwVXIMV5HRv</id>
-        <link href="https://the-hit.co/services/DRg7MKYIKVwVXIMV5HRv"/>
-        <updated>2022-03-18T09:47:18.954Z</updated>
-        <content type="html"><![CDATA[결재자 기반 B2B 영업 매칭 서비스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Liner (THE HIT)]]></title>
-        <id>https://the-hit.co/services/XwjGpMYa6HaReO95zh3l</id>
-        <link href="https://the-hit.co/services/XwjGpMYa6HaReO95zh3l"/>
-        <updated>2022-02-17T10:22:49.262Z</updated>
-        <content type="html"><![CDATA[검색 툴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버스스로 (THE HIT)]]></title>
-        <id>https://the-hit.co/services/MI0gZTeXaY2DjW3zPi6X</id>
-        <link href="https://the-hit.co/services/MI0gZTeXaY2DjW3zPi6X"/>
-        <updated>2022-02-05T14:16:16.146Z</updated>
-        <content type="html"><![CDATA[시각장애인을 위한 버스탑승 원스톱 솔루션]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[닷집 (THE HIT)]]></title>
-        <id>https://the-hit.co/services/3ZvuTJoySbUvBmcRdcfl</id>
-        <link href="https://the-hit.co/services/3ZvuTJoySbUvBmcRdcfl"/>
-        <updated>2022-01-31T11:18:30.403Z</updated>
-        <content type="html"><![CDATA[민영/공영 청약정보를 모아보고 관심 청약 메일링 서비스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIO (디오) (THE HIT)]]></title>
-        <id>https://the-hit.co/services/QzmYxEahu17N6VYddmzq</id>
-        <link href="https://the-hit.co/services/QzmYxEahu17N6VYddmzq"/>
-        <updated>2022-01-31T11:18:30.404Z</updated>
-        <content type="html"><![CDATA[빅테크 출신 개발자,디자이너를 리모트/파트타임으로 채용]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[커피하우스 (THE HIT)]]></title>
-        <id>https://the-hit.co/services/MOEzfoZ3lCNd07UHiXb8</id>
-        <link href="https://the-hit.co/services/MOEzfoZ3lCNd07UHiXb8"/>
-        <updated>2022-01-31T11:18:30.405Z</updated>
-        <content type="html"><![CDATA[당신의 투자에 영감을 주는 주식 SNS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Outcode (THE HIT)]]></title>
-        <id>https://the-hit.co/services/Jg40jPusAZdj04ioOvsZ</id>
-        <link href="https://the-hit.co/services/Jg40jPusAZdj04ioOvsZ"/>
-        <updated>2022-01-31T11:18:30.407Z</updated>
-        <content type="html"><![CDATA[문서에서 바로 개발. Develop-on-Doc.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Disquiet ─ 전체)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2022-08-10T20:24:33.745Z</updated>
-        <content type="html"><![CDATA[<div class="sc-kwWFPY kAektU"><svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="sc-gEzdPt eGGhqN"><path d="M14.959 12.0393C15.3281 11.8284 15.3193 11.2922 14.959 11.0813L9.89648 8.09302C9.50977 7.87329 9 8.05786 9 8.48853V14.6233C9 15.054 9.4834 15.2649 9.89648 15.0188L14.959 12.0393Z"></path></svg><div class="sidebar-heading">Topics</div></div><div class="sc-duIxxy iZEEiV"><div class="sc-kRGEVP NjIGh"><button class="sc-cNujqI kXcKqZ active">🌕 전체</button><button class="sc-cNujqI kXcKqZ">📡 중개 플랫폼</button><button class="sc-cNujqI kXcKqZ">📷 라이프스타일</button><button class="sc-cNujqI kXcKqZ">💰 금융</button><button class="sc-cNujqI kXcKqZ">👫 소셜</button><button class="sc-cNujqI kXcKqZ">🎙 미디어</button><button class="sc-cNujqI kXcKqZ">✏️ 교육</button><button class="sc-cNujqI kXcKqZ">🚲 생산성</button><button class="sc-cNujqI kXcKqZ">🔗 블록체인</button><button class="sc-cNujqI kXcKqZ">💻 노코드</button><button class="sc-cNujqI kXcKqZ">🤖 인공지능</button><button class="sc-cNujqI kXcKqZ">🏘 커뮤니티</button><button class="sc-cNujqI kXcKqZ">📊 분석툴</button><button class="sc-cNujqI kXcKqZ">🎨 디자인</button><button class="sc-cNujqI kXcKqZ">🧑‍💻 개발툴</button><button class="sc-cNujqI kXcKqZ">🔮 마케팅툴</button><button class="sc-cNujqI kXcKqZ">🎮 게임</button><button class="sc-cNujqI kXcKqZ">💳 이커머스</button><button class="sc-cNujqI kXcKqZ">🏃 헬스케어</button><button class="sc-cNujqI kXcKqZ">🧬 바이오</button><button class="sc-cNujqI kXcKqZ">👓 메타버스</button><button class="sc-cNujqI kXcKqZ">💸 세일즈</button></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Disquiet ─ 프로덕트)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2022-08-10T20:24:40.547Z</updated>
-        <content type="html"><![CDATA[<div class="sc-kwWFPY kAektU"><svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="sc-gEzdPt eGGhqN"><path d="M14.959 12.0393C15.3281 11.8284 15.3193 11.2922 14.959 11.0813L9.89648 8.09302C9.50977 7.87329 9 8.05786 9 8.48853V14.6233C9 15.054 9.4834 15.2649 9.89648 15.0188L14.959 12.0393Z"></path></svg><div class="sidebar-heading">Topics</div></div><div class="sc-duIxxy iZEEiV"><div class="sc-kRGEVP NjIGh"><button class="sc-cNujqI kXcKqZ active">🌕 전체</button><button class="sc-cNujqI kXcKqZ">📡 중개 플랫폼</button><button class="sc-cNujqI kXcKqZ">📷 라이프스타일</button><button class="sc-cNujqI kXcKqZ">💰 금융</button><button class="sc-cNujqI kXcKqZ">👫 소셜</button><button class="sc-cNujqI kXcKqZ">🎙 미디어</button><button class="sc-cNujqI kXcKqZ">✏️ 교육</button><button class="sc-cNujqI kXcKqZ">🚲 생산성</button><button class="sc-cNujqI kXcKqZ">🔗 블록체인</button><button class="sc-cNujqI kXcKqZ">💻 노코드</button><button class="sc-cNujqI kXcKqZ">🤖 인공지능</button><button class="sc-cNujqI kXcKqZ">🏘 커뮤니티</button><button class="sc-cNujqI kXcKqZ">📊 분석툴</button><button class="sc-cNujqI kXcKqZ">🎨 디자인</button><button class="sc-cNujqI kXcKqZ">🧑‍💻 개발툴</button><button class="sc-cNujqI kXcKqZ">🔮 마케팅툴</button><button class="sc-cNujqI kXcKqZ">🎮 게임</button><button class="sc-cNujqI kXcKqZ">💳 이커머스</button><button class="sc-cNujqI kXcKqZ">🏃 헬스케어</button><button class="sc-cNujqI kXcKqZ">🧬 바이오</button><button class="sc-cNujqI kXcKqZ">👓 메타버스</button><button class="sc-cNujqI kXcKqZ">💸 세일즈</button></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Disquiet ─ 메이커로그)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2022-08-10T20:24:49.100Z</updated>
-        <content type="html"><![CDATA[<div class="sc-kwWFPY kAektU"><svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="sc-gEzdPt eGGhqN"><path d="M14.959 12.0393C15.3281 11.8284 15.3193 11.2922 14.959 11.0813L9.89648 8.09302C9.50977 7.87329 9 8.05786 9 8.48853V14.6233C9 15.054 9.4834 15.2649 9.89648 15.0188L14.959 12.0393Z"></path></svg><div class="sidebar-heading">Topics</div></div><div class="sc-duIxxy iZEEiV"><div class="sc-kRGEVP NjIGh"><button class="sc-cNujqI kXcKqZ active">🌕 전체</button><button class="sc-cNujqI kXcKqZ">📡 중개 플랫폼</button><button class="sc-cNujqI kXcKqZ">📷 라이프스타일</button><button class="sc-cNujqI kXcKqZ">💰 금융</button><button class="sc-cNujqI kXcKqZ">👫 소셜</button><button class="sc-cNujqI kXcKqZ">🎙 미디어</button><button class="sc-cNujqI kXcKqZ">✏️ 교육</button><button class="sc-cNujqI kXcKqZ">🚲 생산성</button><button class="sc-cNujqI kXcKqZ">🔗 블록체인</button><button class="sc-cNujqI kXcKqZ">💻 노코드</button><button class="sc-cNujqI kXcKqZ">🤖 인공지능</button><button class="sc-cNujqI kXcKqZ">🏘 커뮤니티</button><button class="sc-cNujqI kXcKqZ">📊 분석툴</button><button class="sc-cNujqI kXcKqZ">🎨 디자인</button><button class="sc-cNujqI kXcKqZ">🧑‍💻 개발툴</button><button class="sc-cNujqI kXcKqZ">🔮 마케팅툴</button><button class="sc-cNujqI kXcKqZ">🎮 게임</button><button class="sc-cNujqI kXcKqZ">💳 이커머스</button><button class="sc-cNujqI kXcKqZ">🏃 헬스케어</button><button class="sc-cNujqI kXcKqZ">🧬 바이오</button><button class="sc-cNujqI kXcKqZ">👓 메타버스</button><button class="sc-cNujqI kXcKqZ">💸 세일즈</button></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 10만 전자: 쿠팡에서 10만원 넘는 전자제품 가격을 추적합니다. (GeekNews Show)]]></title>
-        <id>https://news.hada.io/topic?id=7142</id>
-        <link href="https://news.hada.io/topic?id=7142"/>
-        <updated>2022-08-08T12:47:27.505Z</updated>
-        <content type="html"><![CDATA[(junja10.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Chollian Wallpaper : 실시간 위성 사진 배경화면 앱 (GeekNews Show)]]></title>
-        <id>https://news.hada.io/topic?id=7040</id>
-        <link href="https://news.hada.io/topic?id=7040"/>
-        <updated>2022-07-25T10:27:45.608Z</updated>
-        <content type="html"><![CDATA[(github.com/pjessesco)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: epyt: 1KB 타자 게임 (GeekNews Show)]]></title>
-        <id>https://news.hada.io/topic?id=6967</id>
-        <link href="https://news.hada.io/topic?id=6967"/>
-        <updated>2022-07-13T13:47:23.519Z</updated>
-        <content type="html"><![CDATA[(js1024.fun)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 사이드프로젝트/창업 팀빌딩 플랫폼 (GeekNews Show)]]></title>
-        <id>https://news.hada.io/topic?id=6835</id>
-        <link href="https://news.hada.io/topic?id=6835"/>
-        <updated>2022-06-24T11:20:16.785Z</updated>
-        <content type="html"><![CDATA[(disquiet.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: ApplePie Pro 2.0 - Notion MVP였는데 토이 프로젝트가 아니라 진심 100% (GeekNews Show)]]></title>
-        <id>https://news.hada.io/topic?id=6866</id>
-        <link href="https://news.hada.io/topic?id=6866"/>
-        <updated>2022-06-29T04:07:05.266Z</updated>
-        <content type="html"><![CDATA[(applepie.pro)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 트위터 연동 자유시장 (GeekNews Show)]]></title>
-        <id>https://news.hada.io/topic?id=6901</id>
-        <link href="https://news.hada.io/topic?id=6901"/>
-        <updated>2022-07-04T23:22:35.042Z</updated>
-        <content type="html"><![CDATA[(applepie.pro)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Notion으로 만든 중고맥북 판매 중개 서비스 (GeekNews Show)]]></title>
-        <id>https://news.hada.io/topic?id=6781</id>
-        <link href="https://news.hada.io/topic?id=6781"/>
-        <updated>2022-06-18T02:04:04.063Z</updated>
-        <content type="html"><![CDATA[(applepie.pro)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: WRP - 웹뷰와 모바일 네이티브 통신을 위한 Protobuf 서비스 프로토콜 (GeekNews Show)]]></title>
-        <id>https://news.hada.io/topic?id=6761</id>
-        <link href="https://news.hada.io/topic?id=6761"/>
-        <updated>2022-06-15T12:44:31.688Z</updated>
-        <content type="html"><![CDATA[(twitter.com/hrmm_flow)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 블록체인 개발자를 위한 온라인 저지 사이트 (GeekNews Show)]]></title>
-        <id>https://news.hada.io/topic?id=6852</id>
-        <link href="https://news.hada.io/topic?id=6852"/>
-        <updated>2022-06-27T16:35:54.135Z</updated>
-        <content type="html"><![CDATA[(app.web3oj.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 스톡옵션 계산기 (GeekNews Show)]]></title>
-        <id>https://news.hada.io/topic?id=6694</id>
-        <link href="https://news.hada.io/topic?id=6694"/>
-        <updated>2022-06-07T01:56:00.810Z</updated>
-        <content type="html"><![CDATA[(stockoption.page.link)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Test API - Simple API that is (maybe) useful for testing (GeekNews Show)]]></title>
-        <id>https://news.hada.io/topic?id=6759</id>
-        <link href="https://news.hada.io/topic?id=6759"/>
-        <updated>2022-06-15T06:29:06.068Z</updated>
-        <content type="html"><![CDATA[(json.media)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 모두를 위한 소셜 링크 사이트 (GeekNews Show)]]></title>
-        <id>https://news.hada.io/topic?id=6927</id>
-        <link href="https://news.hada.io/topic?id=6927"/>
-        <updated>2022-07-07T02:22:12.265Z</updated>
-        <content type="html"><![CDATA[(linktag.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Q.Link | Hide your link behind a simple quiz (GeekNews Show)]]></title>
-        <id>https://news.hada.io/topic?id=6651</id>
-        <link href="https://news.hada.io/topic?id=6651"/>
-        <updated>2022-05-31T05:28:29.708Z</updated>
-        <content type="html"><![CDATA[(q-link.minung.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 당신의 트위터 감정사전 <beta> (GeekNews Show)]]></title>
-        <id>https://news.hada.io/topic?id=6941</id>
-        <link href="https://news.hada.io/topic?id=6941"/>
-        <updated>2022-07-09T04:30:35.091Z</updated>
-        <content type="html"><![CDATA[(applepie.pro)]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 10 Aug 2022 21:20:36 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ValueSearch (THE HIT)]]></title>
+            <link>https://the-hit.co/services/3Kk2rwUwxAqoKN1M37x0</link>
+            <guid>https://the-hit.co/services/3Kk2rwUwxAqoKN1M37x0</guid>
+            <pubDate>Tue, 26 Jul 2022 10:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[AI 기반 비즈니스 데이터 분석 플랫폼]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[복부인 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/aIavMixoM9tf5pUWwEuS</link>
+            <guid>https://the-hit.co/services/aIavMixoM9tf5pUWwEuS</guid>
+            <pubDate>Mon, 25 Jul 2022 02:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[부동산 통합 자산관리및 임대관리]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[맞춤분양 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/F3E0McqD41Kso6ufOtP4</link>
+            <guid>https://the-hit.co/services/F3E0McqD41Kso6ufOtP4</guid>
+            <pubDate>Thu, 21 Jul 2022 08:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[개인맞춤 분양매물 필터링 서비스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우리뭐먹지 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/dE3kUJadPm4ML3P1IVmr</link>
+            <guid>https://the-hit.co/services/dE3kUJadPm4ML3P1IVmr</guid>
+            <pubDate>Tue, 12 Jul 2022 06:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[미니게임으로 취향분석하고 혼자/여럿이 먹을 메뉴 추천]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Devign(디바인) (THE HIT)]]></title>
+            <link>https://the-hit.co/services/fbsUBNoNNLXBaSmxkii3</link>
+            <guid>https://the-hit.co/services/fbsUBNoNNLXBaSmxkii3</guid>
+            <pubDate>Fri, 17 Jun 2022 07:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[visual AI 기술을 적용한 이슈 리포팅 툴]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[메일고고 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/nkKmp3eau0dGNhpFuKus</link>
+            <guid>https://the-hit.co/services/nkKmp3eau0dGNhpFuKus</guid>
+            <pubDate>Thu, 16 Jun 2022 12:43:43 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 뉴스레터를 에디터가 모아 추천하는 서비스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[맞춤분양 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/7xSs6fMMf0fmH6syuc5d</link>
+            <guid>https://the-hit.co/services/7xSs6fMMf0fmH6syuc5d</guid>
+            <pubDate>Tue, 31 May 2022 07:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[개인맞춤 주택분양정보 제공 애플리케이션]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[mAsh (THE HIT)]]></title>
+            <link>https://the-hit.co/services/CJyu9n9FkH3Q7HHCIuEq</link>
+            <guid>https://the-hit.co/services/CJyu9n9FkH3Q7HHCIuEq</guid>
+            <pubDate>Thu, 31 Mar 2022 09:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[오프라인의 구글 애널리틱스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[매치드 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/DRg7MKYIKVwVXIMV5HRv</link>
+            <guid>https://the-hit.co/services/DRg7MKYIKVwVXIMV5HRv</guid>
+            <pubDate>Fri, 18 Mar 2022 09:47:18 GMT</pubDate>
+            <content:encoded><![CDATA[결재자 기반 B2B 영업 매칭 서비스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[3 Liner (THE HIT)]]></title>
+            <link>https://the-hit.co/services/XwjGpMYa6HaReO95zh3l</link>
+            <guid>https://the-hit.co/services/XwjGpMYa6HaReO95zh3l</guid>
+            <pubDate>Thu, 17 Feb 2022 10:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[검색 툴]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[버스스로 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/MI0gZTeXaY2DjW3zPi6X</link>
+            <guid>https://the-hit.co/services/MI0gZTeXaY2DjW3zPi6X</guid>
+            <pubDate>Sat, 05 Feb 2022 14:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[시각장애인을 위한 버스탑승 원스톱 솔루션]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[닷집 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/3ZvuTJoySbUvBmcRdcfl</link>
+            <guid>https://the-hit.co/services/3ZvuTJoySbUvBmcRdcfl</guid>
+            <pubDate>Mon, 31 Jan 2022 11:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[민영/공영 청약정보를 모아보고 관심 청약 메일링 서비스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[DIO (디오) (THE HIT)]]></title>
+            <link>https://the-hit.co/services/QzmYxEahu17N6VYddmzq</link>
+            <guid>https://the-hit.co/services/QzmYxEahu17N6VYddmzq</guid>
+            <pubDate>Mon, 31 Jan 2022 11:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[빅테크 출신 개발자,디자이너를 리모트/파트타임으로 채용]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[커피하우스 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/MOEzfoZ3lCNd07UHiXb8</link>
+            <guid>https://the-hit.co/services/MOEzfoZ3lCNd07UHiXb8</guid>
+            <pubDate>Mon, 31 Jan 2022 11:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[당신의 투자에 영감을 주는 주식 SNS]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Outcode (THE HIT)]]></title>
+            <link>https://the-hit.co/services/Jg40jPusAZdj04ioOvsZ</link>
+            <guid>https://the-hit.co/services/Jg40jPusAZdj04ioOvsZ</guid>
+            <pubDate>Mon, 31 Jan 2022 11:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[문서에서 바로 개발. Develop-on-Doc.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (Disquiet ─ 전체)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Wed, 10 Aug 2022 21:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="sc-kwWFPY kAektU"><svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="sc-gEzdPt eGGhqN"><path d="M14.959 12.0393C15.3281 11.8284 15.3193 11.2922 14.959 11.0813L9.89648 8.09302C9.50977 7.87329 9 8.05786 9 8.48853V14.6233C9 15.054 9.4834 15.2649 9.89648 15.0188L14.959 12.0393Z"></path></svg><div class="sidebar-heading">Topics</div></div><div class="sc-duIxxy iZEEiV"><div class="sc-kRGEVP NjIGh"><button class="sc-cNujqI kXcKqZ active">🌕 전체</button><button class="sc-cNujqI kXcKqZ">📡 중개 플랫폼</button><button class="sc-cNujqI kXcKqZ">📷 라이프스타일</button><button class="sc-cNujqI kXcKqZ">💰 금융</button><button class="sc-cNujqI kXcKqZ">👫 소셜</button><button class="sc-cNujqI kXcKqZ">🎙 미디어</button><button class="sc-cNujqI kXcKqZ">✏️ 교육</button><button class="sc-cNujqI kXcKqZ">🚲 생산성</button><button class="sc-cNujqI kXcKqZ">🔗 블록체인</button><button class="sc-cNujqI kXcKqZ">💻 노코드</button><button class="sc-cNujqI kXcKqZ">🤖 인공지능</button><button class="sc-cNujqI kXcKqZ">🏘 커뮤니티</button><button class="sc-cNujqI kXcKqZ">📊 분석툴</button><button class="sc-cNujqI kXcKqZ">🎨 디자인</button><button class="sc-cNujqI kXcKqZ">🧑‍💻 개발툴</button><button class="sc-cNujqI kXcKqZ">🔮 마케팅툴</button><button class="sc-cNujqI kXcKqZ">🎮 게임</button><button class="sc-cNujqI kXcKqZ">💳 이커머스</button><button class="sc-cNujqI kXcKqZ">🏃 헬스케어</button><button class="sc-cNujqI kXcKqZ">🧬 바이오</button><button class="sc-cNujqI kXcKqZ">👓 메타버스</button><button class="sc-cNujqI kXcKqZ">💸 세일즈</button></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (Disquiet ─ 프로덕트)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Wed, 10 Aug 2022 21:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="sc-kwWFPY kAektU"><svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="sc-gEzdPt eGGhqN"><path d="M14.959 12.0393C15.3281 11.8284 15.3193 11.2922 14.959 11.0813L9.89648 8.09302C9.50977 7.87329 9 8.05786 9 8.48853V14.6233C9 15.054 9.4834 15.2649 9.89648 15.0188L14.959 12.0393Z"></path></svg><div class="sidebar-heading">Topics</div></div><div class="sc-duIxxy iZEEiV"><div class="sc-kRGEVP NjIGh"><button class="sc-cNujqI kXcKqZ active">🌕 전체</button><button class="sc-cNujqI kXcKqZ">📡 중개 플랫폼</button><button class="sc-cNujqI kXcKqZ">📷 라이프스타일</button><button class="sc-cNujqI kXcKqZ">💰 금융</button><button class="sc-cNujqI kXcKqZ">👫 소셜</button><button class="sc-cNujqI kXcKqZ">🎙 미디어</button><button class="sc-cNujqI kXcKqZ">✏️ 교육</button><button class="sc-cNujqI kXcKqZ">🚲 생산성</button><button class="sc-cNujqI kXcKqZ">🔗 블록체인</button><button class="sc-cNujqI kXcKqZ">💻 노코드</button><button class="sc-cNujqI kXcKqZ">🤖 인공지능</button><button class="sc-cNujqI kXcKqZ">🏘 커뮤니티</button><button class="sc-cNujqI kXcKqZ">📊 분석툴</button><button class="sc-cNujqI kXcKqZ">🎨 디자인</button><button class="sc-cNujqI kXcKqZ">🧑‍💻 개발툴</button><button class="sc-cNujqI kXcKqZ">🔮 마케팅툴</button><button class="sc-cNujqI kXcKqZ">🎮 게임</button><button class="sc-cNujqI kXcKqZ">💳 이커머스</button><button class="sc-cNujqI kXcKqZ">🏃 헬스케어</button><button class="sc-cNujqI kXcKqZ">🧬 바이오</button><button class="sc-cNujqI kXcKqZ">👓 메타버스</button><button class="sc-cNujqI kXcKqZ">💸 세일즈</button></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (Disquiet ─ 메이커로그)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Wed, 10 Aug 2022 21:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="sc-kwWFPY kAektU"><svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="sc-gEzdPt eGGhqN"><path d="M14.959 12.0393C15.3281 11.8284 15.3193 11.2922 14.959 11.0813L9.89648 8.09302C9.50977 7.87329 9 8.05786 9 8.48853V14.6233C9 15.054 9.4834 15.2649 9.89648 15.0188L14.959 12.0393Z"></path></svg><div class="sidebar-heading">Topics</div></div><div class="sc-duIxxy iZEEiV"><div class="sc-kRGEVP NjIGh"><button class="sc-cNujqI kXcKqZ active">🌕 전체</button><button class="sc-cNujqI kXcKqZ">📡 중개 플랫폼</button><button class="sc-cNujqI kXcKqZ">📷 라이프스타일</button><button class="sc-cNujqI kXcKqZ">💰 금융</button><button class="sc-cNujqI kXcKqZ">👫 소셜</button><button class="sc-cNujqI kXcKqZ">🎙 미디어</button><button class="sc-cNujqI kXcKqZ">✏️ 교육</button><button class="sc-cNujqI kXcKqZ">🚲 생산성</button><button class="sc-cNujqI kXcKqZ">🔗 블록체인</button><button class="sc-cNujqI kXcKqZ">💻 노코드</button><button class="sc-cNujqI kXcKqZ">🤖 인공지능</button><button class="sc-cNujqI kXcKqZ">🏘 커뮤니티</button><button class="sc-cNujqI kXcKqZ">📊 분석툴</button><button class="sc-cNujqI kXcKqZ">🎨 디자인</button><button class="sc-cNujqI kXcKqZ">🧑‍💻 개발툴</button><button class="sc-cNujqI kXcKqZ">🔮 마케팅툴</button><button class="sc-cNujqI kXcKqZ">🎮 게임</button><button class="sc-cNujqI kXcKqZ">💳 이커머스</button><button class="sc-cNujqI kXcKqZ">🏃 헬스케어</button><button class="sc-cNujqI kXcKqZ">🧬 바이오</button><button class="sc-cNujqI kXcKqZ">👓 메타버스</button><button class="sc-cNujqI kXcKqZ">💸 세일즈</button></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LG ThinQ (WWIT)]]></title>
+            <link>https://wwit.design/2022/07/31/lgthinq/</link>
+            <guid>https://wwit.design/2022/07/31/lgthinq/</guid>
+            <pubDate>Wed, 10 Aug 2022 21:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
+            <enclosure url="https://wwit.design/images/posts/lgthinq/lgthinq_splash.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[모니모 (WWIT)]]></title>
+            <link>https://wwit.design/2022/07/07/monimo/</link>
+            <guid>https://wwit.design/2022/07/07/monimo/</guid>
+            <pubDate>Wed, 10 Aug 2022 21:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[금융]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트로스트 (WWIT)]]></title>
+            <link>https://wwit.design/2022/05/28/trost/</link>
+            <guid>https://wwit.design/2022/05/28/trost/</guid>
+            <pubDate>Wed, 10 Aug 2022 21:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아임인 imin (WWIT)]]></title>
+            <link>https://wwit.design/2022/04/02/imin/</link>
+            <guid>https://wwit.design/2022/04/02/imin/</guid>
+            <pubDate>Wed, 10 Aug 2022 21:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[금융]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[텍스처 texture (WWIT)]]></title>
+            <link>https://wwit.design/2022/03/20/texture/</link>
+            <guid>https://wwit.design/2022/03/20/texture/</guid>
+            <pubDate>Wed, 10 Aug 2022 21:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: 10만 전자: 쿠팡에서 10만원 넘는 전자제품 가격을 추적합니다. (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=7142</link>
+            <guid>https://news.hada.io/topic?id=7142</guid>
+            <pubDate>Mon, 08 Aug 2022 12:47:27 GMT</pubDate>
+            <content:encoded><![CDATA[(junja10.com)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: Chollian Wallpaper : 실시간 위성 사진 배경화면 앱 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=7040</link>
+            <guid>https://news.hada.io/topic?id=7040</guid>
+            <pubDate>Mon, 25 Jul 2022 10:27:45 GMT</pubDate>
+            <content:encoded><![CDATA[(github.com/pjessesco)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: epyt: 1KB 타자 게임 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6967</link>
+            <guid>https://news.hada.io/topic?id=6967</guid>
+            <pubDate>Wed, 13 Jul 2022 13:47:23 GMT</pubDate>
+            <content:encoded><![CDATA[(js1024.fun)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: 사이드프로젝트/창업 팀빌딩 플랫폼 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6835</link>
+            <guid>https://news.hada.io/topic?id=6835</guid>
+            <pubDate>Fri, 24 Jun 2022 11:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[(disquiet.io)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: ApplePie Pro 2.0 - Notion MVP였는데 토이 프로젝트가 아니라 진심 100% (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6866</link>
+            <guid>https://news.hada.io/topic?id=6866</guid>
+            <pubDate>Wed, 29 Jun 2022 04:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[(applepie.pro)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: 트위터 연동 자유시장 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6901</link>
+            <guid>https://news.hada.io/topic?id=6901</guid>
+            <pubDate>Mon, 04 Jul 2022 23:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[(applepie.pro)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: Notion으로 만든 중고맥북 판매 중개 서비스 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6781</link>
+            <guid>https://news.hada.io/topic?id=6781</guid>
+            <pubDate>Sat, 18 Jun 2022 02:04:04 GMT</pubDate>
+            <content:encoded><![CDATA[(applepie.pro)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: WRP - 웹뷰와 모바일 네이티브 통신을 위한 Protobuf 서비스 프로토콜 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6761</link>
+            <guid>https://news.hada.io/topic?id=6761</guid>
+            <pubDate>Wed, 15 Jun 2022 12:44:31 GMT</pubDate>
+            <content:encoded><![CDATA[(twitter.com/hrmm_flow)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: 블록체인 개발자를 위한 온라인 저지 사이트 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6852</link>
+            <guid>https://news.hada.io/topic?id=6852</guid>
+            <pubDate>Mon, 27 Jun 2022 16:35:54 GMT</pubDate>
+            <content:encoded><![CDATA[(app.web3oj.com)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: 스톡옵션 계산기 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6694</link>
+            <guid>https://news.hada.io/topic?id=6694</guid>
+            <pubDate>Tue, 07 Jun 2022 01:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[(stockoption.page.link)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: Test API - Simple API that is (maybe) useful for testing (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6759</link>
+            <guid>https://news.hada.io/topic?id=6759</guid>
+            <pubDate>Wed, 15 Jun 2022 06:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[(json.media)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: 모두를 위한 소셜 링크 사이트 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6927</link>
+            <guid>https://news.hada.io/topic?id=6927</guid>
+            <pubDate>Thu, 07 Jul 2022 02:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[(linktag.org)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: Q.Link | Hide your link behind a simple quiz (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6651</link>
+            <guid>https://news.hada.io/topic?id=6651</guid>
+            <pubDate>Tue, 31 May 2022 05:28:29 GMT</pubDate>
+            <content:encoded><![CDATA[(q-link.minung.dev)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: 당신의 트위터 감정사전 <beta> (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6941</link>
+            <guid>https://news.hada.io/topic?id=6941</guid>
+            <pubDate>Sat, 09 Jul 2022 04:30:35 GMT</pubDate>
+            <content:encoded><![CDATA[(applepie.pro)]]></content:encoded>
+        </item>
+    </channel>
+</rss>
