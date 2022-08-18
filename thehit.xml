@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://the-hit.co/</id>
     <title>THE HIT</title>
-    <updated>2022-08-18T05:38:28.044Z</updated>
+    <updated>2022-08-18T06:30:09.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://the-hit.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[슬러시]]></title>
+        <id>https://the-hit.co/services/95AurNxUnnS4cttWLp9Q</id>
+        <link href="https://the-hit.co/services/95AurNxUnnS4cttWLp9Q"/>
+        <updated>2022-08-18T06:29:27.638Z</updated>
+        <content type="html"><![CDATA[힙한 개발자들의 네트워킹 서비스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ValueSearch]]></title>
         <id>https://the-hit.co/services/3Kk2rwUwxAqoKN1M37x0</id>
@@ -102,12 +109,5 @@
         <link href="https://the-hit.co/services/MOEzfoZ3lCNd07UHiXb8"/>
         <updated>2022-01-31T11:18:30.405Z</updated>
         <content type="html"><![CDATA[당신의 투자에 영감을 주는 주식 SNS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Outcode]]></title>
-        <id>https://the-hit.co/services/Jg40jPusAZdj04ioOvsZ</id>
-        <link href="https://the-hit.co/services/Jg40jPusAZdj04ioOvsZ"/>
-        <updated>2022-01-31T11:18:30.407Z</updated>
-        <content type="html"><![CDATA[문서에서 바로 개발. Develop-on-Doc.]]></content>
     </entry>
 </feed>
