@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/product/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-16T14:32:59.983Z</updated>
+    <updated>2022-09-16T15:27:25.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[슬러시 (THE HIT)]]></title>
@@ -110,41 +110,6 @@
         <content type="html"><![CDATA[당신의 투자에 영감을 주는 주식 SNS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LG ThinQ (WWIT)]]></title>
-        <id>https://wwit.design/2022/07/31/lgthinq/</id>
-        <link href="https://wwit.design/2022/07/31/lgthinq/"/>
-        <updated>2022-09-16T13:56:31.951Z</updated>
-        <content type="html"><![CDATA[라이프스타일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모니모 (WWIT)]]></title>
-        <id>https://wwit.design/2022/07/07/monimo/</id>
-        <link href="https://wwit.design/2022/07/07/monimo/"/>
-        <updated>2022-09-16T13:56:31.957Z</updated>
-        <content type="html"><![CDATA[금융]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트로스트 (WWIT)]]></title>
-        <id>https://wwit.design/2022/05/28/trost/</id>
-        <link href="https://wwit.design/2022/05/28/trost/"/>
-        <updated>2022-09-16T13:56:31.958Z</updated>
-        <content type="html"><![CDATA[라이프스타일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아임인 imin (WWIT)]]></title>
-        <id>https://wwit.design/2022/04/02/imin/</id>
-        <link href="https://wwit.design/2022/04/02/imin/"/>
-        <updated>2022-09-16T13:56:31.961Z</updated>
-        <content type="html"><![CDATA[금융]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[텍스처 texture (WWIT)]]></title>
-        <id>https://wwit.design/2022/03/20/texture/</id>
-        <link href="https://wwit.design/2022/03/20/texture/"/>
-        <updated>2022-09-16T13:56:31.963Z</updated>
-        <content type="html"><![CDATA[라이프스타일]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: J40: JPEG XL 디코더 (GeekNews Show)]]></title>
         <id>https://news.hada.io/topic?id=7389</id>
         <link href="https://news.hada.io/topic?id=7389"/>
@@ -192,13 +157,6 @@
         <link href="https://news.hada.io/topic?id=7040"/>
         <updated>2022-07-25T10:27:45.608Z</updated>
         <content type="html"><![CDATA[(github.com/pjessesco)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 사이드프로젝트/창업 팀빌딩 플랫폼 (GeekNews Show)]]></title>
-        <id>https://news.hada.io/topic?id=6835</id>
-        <link href="https://news.hada.io/topic?id=6835"/>
-        <updated>2022-06-24T11:20:16.785Z</updated>
-        <content type="html"><![CDATA[(disquiet.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: ApplePie Pro 2.0 - Notion MVP였는데 토이 프로젝트가 아니라 진심 100% (GeekNews Show)]]></title>
