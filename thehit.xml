@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://the-hit.co/</id>
     <title>THE HIT</title>
-    <updated>2022-11-15T04:31:51.447Z</updated>
+    <updated>2022-11-15T05:21:26.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://the-hit.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[센드타임]]></title>
+        <id>https://the-hit.co/services/CS5cN5wJqafPkzeNUHfr</id>
+        <link href="https://the-hit.co/services/CS5cN5wJqafPkzeNUHfr"/>
+        <updated>2022-11-15T05:20:33.297Z</updated>
+        <content type="html"><![CDATA[B2B 비즈니스 미팅 스케줄링에는 sendtime!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[슬러시]]></title>
         <id>https://the-hit.co/services/95AurNxUnnS4cttWLp9Q</id>
@@ -102,12 +109,5 @@
         <link href="https://the-hit.co/services/QzmYxEahu17N6VYddmzq"/>
         <updated>2022-01-31T11:18:30.404Z</updated>
         <content type="html"><![CDATA[빅테크 출신 개발자,디자이너를 리모트/파트타임으로 채용]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[커피하우스]]></title>
-        <id>https://the-hit.co/services/MOEzfoZ3lCNd07UHiXb8</id>
-        <link href="https://the-hit.co/services/MOEzfoZ3lCNd07UHiXb8"/>
-        <updated>2022-01-31T11:18:30.405Z</updated>
-        <content type="html"><![CDATA[당신의 투자에 영감을 주는 주식 SNS]]></content>
     </entry>
 </feed>
