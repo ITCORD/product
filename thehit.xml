@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://the-hit.co/</id>
     <title>THE HIT</title>
-    <updated>2022-12-15T11:17:36.639Z</updated>
+    <updated>2022-12-15T12:39:13.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://the-hit.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[merging]]></title>
+        <id>https://the-hit.co/services/DDbPEnQteaupVICXu8rl</id>
+        <link href="https://the-hit.co/services/DDbPEnQteaupVICXu8rl"/>
+        <updated>2022-12-15T12:38:17.454Z</updated>
+        <content type="html"><![CDATA[커밋으로 하나되는 개발자 놀이터]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[센드타임]]></title>
         <id>https://the-hit.co/services/CS5cN5wJqafPkzeNUHfr</id>
@@ -102,12 +109,5 @@
         <link href="https://the-hit.co/services/3ZvuTJoySbUvBmcRdcfl"/>
         <updated>2022-01-31T11:18:30.403Z</updated>
         <content type="html"><![CDATA[민영/공영 청약정보를 모아보고 관심 청약 메일링 서비스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIO (디오)]]></title>
-        <id>https://the-hit.co/services/QzmYxEahu17N6VYddmzq</id>
-        <link href="https://the-hit.co/services/QzmYxEahu17N6VYddmzq"/>
-        <updated>2022-01-31T11:18:30.404Z</updated>
-        <content type="html"><![CDATA[빅테크 출신 개발자,디자이너를 리모트/파트타임으로 채용]]></content>
     </entry>
 </feed>
