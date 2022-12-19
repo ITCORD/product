@@ -4,16 +4,23 @@
         <title>WWIT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 07:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 08:26:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[필라이즈]]></title>
+            <link>https://wwit.design/2022/12/18/pillyze/</link>
+            <guid>https://wwit.design/2022/12/18/pillyze/</guid>
+            <pubDate>Mon, 19 Dec 2022 08:26:17 GMT</pubDate>
+            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
+            <enclosure url="https://wwit.design/images/posts/pillyze/00_onboarding/pillyze_00_splash.webp" length="0" type="image/webp"/>
+        </item>
         <item>
             <title><![CDATA[신한플레이]]></title>
             <link>https://wwit.design/2022/10/29/shinhanplay/</link>
             <guid>https://wwit.design/2022/10/29/shinhanplay/</guid>
             <pubDate>Mon, 19 Dec 2022 06:24:49 GMT</pubDate>
             <content:encoded><![CDATA[금융]]></content:encoded>
-            <enclosure url="https://wwit.design/images/posts/shinhanplay/shinhanplay_splash.webp" length="0" type="image/webp"/>
         </item>
         <item>
             <title><![CDATA[LG ThinQ]]></title>
@@ -35,13 +42,6 @@
             <guid>https://wwit.design/2022/05/28/trost/</guid>
             <pubDate>Mon, 19 Dec 2022 06:24:49 GMT</pubDate>
             <content:encoded><![CDATA[라이프스타일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아임인 imin]]></title>
-            <link>https://wwit.design/2022/04/02/imin/</link>
-            <guid>https://wwit.design/2022/04/02/imin/</guid>
-            <pubDate>Mon, 19 Dec 2022 06:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[금융]]></content:encoded>
         </item>
     </channel>
 </rss>
