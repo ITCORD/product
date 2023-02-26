@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/product/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-26T13:25:41.903Z</updated>
+    <updated>2023-02-26T14:18:13.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[일일일(ONEONEONE) (THE HIT)]]></title>
@@ -108,40 +108,5 @@
         <link href="https://the-hit.co/services/MI0gZTeXaY2DjW3zPi6X"/>
         <updated>2022-02-05T14:16:16.146Z</updated>
         <content type="html"><![CDATA[시각장애인을 위한 버스탑승 원스톱 솔루션]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[필라이즈 (WWIT)]]></title>
-        <id>https://wwit.design/2022/12/18/pillyze/</id>
-        <link href="https://wwit.design/2022/12/18/pillyze/"/>
-        <updated>2023-02-26T13:25:36.505Z</updated>
-        <content type="html"><![CDATA[라이프스타일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신한플레이 (WWIT)]]></title>
-        <id>https://wwit.design/2022/10/29/shinhanplay/</id>
-        <link href="https://wwit.design/2022/10/29/shinhanplay/"/>
-        <updated>2023-02-26T13:25:36.508Z</updated>
-        <content type="html"><![CDATA[금융]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG ThinQ (WWIT)]]></title>
-        <id>https://wwit.design/2022/07/31/lgthinq/</id>
-        <link href="https://wwit.design/2022/07/31/lgthinq/"/>
-        <updated>2023-02-26T13:25:36.516Z</updated>
-        <content type="html"><![CDATA[라이프스타일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모니모 (WWIT)]]></title>
-        <id>https://wwit.design/2022/07/07/monimo/</id>
-        <link href="https://wwit.design/2022/07/07/monimo/"/>
-        <updated>2023-02-26T13:25:36.518Z</updated>
-        <content type="html"><![CDATA[금융]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트로스트 (WWIT)]]></title>
-        <id>https://wwit.design/2022/05/28/trost/</id>
-        <link href="https://wwit.design/2022/05/28/trost/"/>
-        <updated>2023-02-26T13:25:36.521Z</updated>
-        <content type="html"><![CDATA[라이프스타일]]></content>
     </entry>
 </feed>
