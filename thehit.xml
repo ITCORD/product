@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://the-hit.co/</id>
     <title>THE HIT</title>
-    <updated>2023-03-01T05:20:31.384Z</updated>
+    <updated>2023-03-01T06:28:39.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://the-hit.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MOCO]]></title>
+        <id>https://the-hit.co/services/HHO7zI4iEPQsaIzlWmfL</id>
+        <link href="https://the-hit.co/services/HHO7zI4iEPQsaIzlWmfL"/>
+        <updated>2023-03-01T06:27:57.130Z</updated>
+        <content type="html"><![CDATA[모각코 모임 플랫폼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일일일(ONEONEONE)]]></title>
         <id>https://the-hit.co/services/1uLQ6i5VqNV6ilOVuVzf</id>
@@ -102,12 +109,5 @@
         <link href="https://the-hit.co/services/XwjGpMYa6HaReO95zh3l"/>
         <updated>2022-02-17T10:22:49.262Z</updated>
         <content type="html"><![CDATA[검색 툴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버스스로]]></title>
-        <id>https://the-hit.co/services/MI0gZTeXaY2DjW3zPi6X</id>
-        <link href="https://the-hit.co/services/MI0gZTeXaY2DjW3zPi6X"/>
-        <updated>2022-02-05T14:16:16.146Z</updated>
-        <content type="html"><![CDATA[시각장애인을 위한 버스탑승 원스톱 솔루션]]></content>
     </entry>
 </feed>
