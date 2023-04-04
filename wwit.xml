@@ -4,16 +4,23 @@
         <title>WWIT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 15:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 16:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헤이딜러]]></title>
+            <link>https://wwit.design/2023/04/04/heydealer/</link>
+            <guid>https://wwit.design/2023/04/04/heydealer/</guid>
+            <pubDate>Tue, 04 Apr 2023 16:27:04 GMT</pubDate>
+            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
+            <enclosure url="https://wwit.design/images/posts/heydealer/00_splash/heydealer_splash_01.webp" length="0" type="image/webp"/>
+        </item>
         <item>
             <title><![CDATA[필라이즈]]></title>
             <link>https://wwit.design/2022/12/18/pillyze/</link>
             <guid>https://wwit.design/2022/12/18/pillyze/</guid>
             <pubDate>Tue, 04 Apr 2023 12:35:26 GMT</pubDate>
             <content:encoded><![CDATA[라이프스타일]]></content:encoded>
-            <enclosure url="https://wwit.design/images/posts/pillyze/00_onboarding/pillyze_00_splash.webp" length="0" type="image/webp"/>
         </item>
         <item>
             <title><![CDATA[신한플레이]]></title>
@@ -35,13 +42,6 @@
             <guid>https://wwit.design/2022/07/07/monimo/</guid>
             <pubDate>Tue, 04 Apr 2023 12:35:26 GMT</pubDate>
             <content:encoded><![CDATA[금융]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[트로스트]]></title>
-            <link>https://wwit.design/2022/05/28/trost/</link>
-            <guid>https://wwit.design/2022/05/28/trost/</guid>
-            <pubDate>Tue, 04 Apr 2023 12:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
         </item>
     </channel>
 </rss>
