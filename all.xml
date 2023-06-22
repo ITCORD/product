@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 11:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 12:40:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -116,7 +116,7 @@
             <title><![CDATA[헤이딜러 (WWIT)]]></title>
             <link>https://wwit.design/2023/04/04/heydealer/</link>
             <guid>https://wwit.design/2023/04/04/heydealer/</guid>
-            <pubDate>Thu, 22 Jun 2023 11:16:29 GMT</pubDate>
+            <pubDate>Thu, 22 Jun 2023 12:40:45 GMT</pubDate>
             <content:encoded><![CDATA[라이프스타일]]></content:encoded>
             <enclosure url="https://wwit.design/images/posts/heydealer/00_splash/heydealer_splash_01.webp" length="0" type="image/webp"/>
         </item>
@@ -124,28 +124,28 @@
             <title><![CDATA[필라이즈 (WWIT)]]></title>
             <link>https://wwit.design/2022/12/18/pillyze/</link>
             <guid>https://wwit.design/2022/12/18/pillyze/</guid>
-            <pubDate>Thu, 22 Jun 2023 11:16:29 GMT</pubDate>
+            <pubDate>Thu, 22 Jun 2023 12:40:45 GMT</pubDate>
             <content:encoded><![CDATA[라이프스타일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[신한플레이 (WWIT)]]></title>
             <link>https://wwit.design/2022/10/29/shinhanplay/</link>
             <guid>https://wwit.design/2022/10/29/shinhanplay/</guid>
-            <pubDate>Thu, 22 Jun 2023 11:16:29 GMT</pubDate>
+            <pubDate>Thu, 22 Jun 2023 12:40:45 GMT</pubDate>
             <content:encoded><![CDATA[금융]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[LG ThinQ (WWIT)]]></title>
             <link>https://wwit.design/2022/07/31/lgthinq/</link>
             <guid>https://wwit.design/2022/07/31/lgthinq/</guid>
-            <pubDate>Thu, 22 Jun 2023 11:16:29 GMT</pubDate>
+            <pubDate>Thu, 22 Jun 2023 12:40:45 GMT</pubDate>
             <content:encoded><![CDATA[라이프스타일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[모니모 (WWIT)]]></title>
             <link>https://wwit.design/2022/07/07/monimo/</link>
             <guid>https://wwit.design/2022/07/07/monimo/</guid>
-            <pubDate>Thu, 22 Jun 2023 11:16:29 GMT</pubDate>
+            <pubDate>Thu, 22 Jun 2023 12:40:45 GMT</pubDate>
             <content:encoded><![CDATA[금융]]></content:encoded>
         </item>
     </channel>
