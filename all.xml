@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/product/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-23T17:15:21.132Z</updated>
+    <updated>2023-07-23T18:21:36.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Codefolio (THE HIT)]]></title>
@@ -108,40 +108,5 @@
         <link href="https://the-hit.co/services/DRg7MKYIKVwVXIMV5HRv"/>
         <updated>2022-03-18T09:47:18.954Z</updated>
         <content type="html"><![CDATA[결재자 기반 B2B 영업 매칭 서비스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헤이딜러 (WWIT)]]></title>
-        <id>https://wwit.design/2023/04/04/heydealer/</id>
-        <link href="https://wwit.design/2023/04/04/heydealer/"/>
-        <updated>2023-07-23T13:19:39.748Z</updated>
-        <content type="html"><![CDATA[라이프스타일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[필라이즈 (WWIT)]]></title>
-        <id>https://wwit.design/2022/12/18/pillyze/</id>
-        <link href="https://wwit.design/2022/12/18/pillyze/"/>
-        <updated>2023-07-23T13:19:39.748Z</updated>
-        <content type="html"><![CDATA[라이프스타일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신한플레이 (WWIT)]]></title>
-        <id>https://wwit.design/2022/10/29/shinhanplay/</id>
-        <link href="https://wwit.design/2022/10/29/shinhanplay/"/>
-        <updated>2023-07-23T13:19:39.752Z</updated>
-        <content type="html"><![CDATA[금융]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG ThinQ (WWIT)]]></title>
-        <id>https://wwit.design/2022/07/31/lgthinq/</id>
-        <link href="https://wwit.design/2022/07/31/lgthinq/"/>
-        <updated>2023-07-23T13:19:39.758Z</updated>
-        <content type="html"><![CDATA[라이프스타일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모니모 (WWIT)]]></title>
-        <id>https://wwit.design/2022/07/07/monimo/</id>
-        <link href="https://wwit.design/2022/07/07/monimo/"/>
-        <updated>2023-07-23T13:19:39.762Z</updated>
-        <content type="html"><![CDATA[금융]]></content>
     </entry>
 </feed>
