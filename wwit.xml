@@ -2,7 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wwit.design/</id>
     <title>WWIT</title>
-    <updated>2023-10-04T09:19:30.838Z</updated>
+    <updated>2023-10-04T10:19:30.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://wwit.design/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[닷슬래시대시]]></title>
+        <id>https://wwit.design/2023/09/30/dotslashdash/</id>
+        <link href="https://wwit.design/2023/09/30/dotslashdash/"/>
+        <updated>2023-10-04T10:19:24.489Z</updated>
+        <content type="html"><![CDATA[라이프스타일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[플랜핏]]></title>
+        <id>https://wwit.design/2023/07/24/planfit/</id>
+        <link href="https://wwit.design/2023/07/24/planfit/"/>
+        <updated>2023-10-04T10:19:24.492Z</updated>
+        <content type="html"><![CDATA[라이프스타일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헤이딜러]]></title>
+        <id>https://wwit.design/2023/04/04/heydealer/</id>
+        <link href="https://wwit.design/2023/04/04/heydealer/"/>
+        <updated>2023-10-04T10:19:24.496Z</updated>
+        <content type="html"><![CDATA[라이프스타일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[필라이즈]]></title>
+        <id>https://wwit.design/2022/12/18/pillyze/</id>
+        <link href="https://wwit.design/2022/12/18/pillyze/"/>
+        <updated>2023-10-04T10:19:24.507Z</updated>
+        <content type="html"><![CDATA[라이프스타일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신한플레이]]></title>
+        <id>https://wwit.design/2022/10/29/shinhanplay/</id>
+        <link href="https://wwit.design/2022/10/29/shinhanplay/"/>
+        <updated>2023-10-04T10:19:24.512Z</updated>
+        <content type="html"><![CDATA[금융]]></content>
+    </entry>
 </feed>
