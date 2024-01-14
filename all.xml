@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Jan 2024 13:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 14:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,12 +113,19 @@
             <content:encoded><![CDATA[결재자 기반 B2B 영업 매칭 서비스]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[치지직 CHZZK (WWIT)]]></title>
+            <link>https://wwit.design/2024/01/13/chzzk/</link>
+            <guid>https://wwit.design/2024/01/13/chzzk/</guid>
+            <pubDate>Sun, 14 Jan 2024 14:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[엔터테인먼트]]></content:encoded>
+            <enclosure url="https://wwit.design/images/posts/chzzk/00_onboarding/01_splash/chzzk_splash.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
             <title><![CDATA[닷슬래시대시 (WWIT)]]></title>
             <link>https://wwit.design/2023/09/30/dotslashdash/</link>
             <guid>https://wwit.design/2023/09/30/dotslashdash/</guid>
             <pubDate>Wed, 15 Nov 2023 17:18:41 GMT</pubDate>
             <content:encoded><![CDATA[라이프스타일]]></content:encoded>
-            <enclosure url="https://wwit.design/images/posts/dotslashdash/00_splash/dotslashdash_splash.webp" length="0" type="image/webp"/>
         </item>
         <item>
             <title><![CDATA[플랜핏 (WWIT)]]></title>
@@ -140,13 +147,6 @@
             <guid>https://wwit.design/2022/12/18/pillyze/</guid>
             <pubDate>Wed, 15 Nov 2023 17:18:41 GMT</pubDate>
             <content:encoded><![CDATA[라이프스타일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신한플레이 (WWIT)]]></title>
-            <link>https://wwit.design/2022/10/29/shinhanplay/</link>
-            <guid>https://wwit.design/2022/10/29/shinhanplay/</guid>
-            <pubDate>Wed, 15 Nov 2023 17:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[금융]]></content:encoded>
         </item>
     </channel>
 </rss>
