@@ -1,43 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://wwit.design/</id>
-    <title>WWIT</title>
-    <updated>2024-02-19T08:24:25.868Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://wwit.design/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[치지직 CHZZK]]></title>
-        <id>https://wwit.design/2024/01/13/chzzk/</id>
-        <link href="https://wwit.design/2024/01/13/chzzk/"/>
-        <updated>2024-01-14T14:16:04.734Z</updated>
-        <content type="html"><![CDATA[엔터테인먼트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[닷슬래시대시]]></title>
-        <id>https://wwit.design/2023/09/30/dotslashdash/</id>
-        <link href="https://wwit.design/2023/09/30/dotslashdash/"/>
-        <updated>2024-01-08T17:16:55.890Z</updated>
-        <content type="html"><![CDATA[라이프스타일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플랜핏]]></title>
-        <id>https://wwit.design/2023/07/24/planfit/</id>
-        <link href="https://wwit.design/2023/07/24/planfit/"/>
-        <updated>2024-01-08T17:16:55.892Z</updated>
-        <content type="html"><![CDATA[라이프스타일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헤이딜러]]></title>
-        <id>https://wwit.design/2023/04/04/heydealer/</id>
-        <link href="https://wwit.design/2023/04/04/heydealer/"/>
-        <updated>2024-01-08T17:16:55.894Z</updated>
-        <content type="html"><![CDATA[라이프스타일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[필라이즈]]></title>
-        <id>https://wwit.design/2022/12/18/pillyze/</id>
-        <link href="https://wwit.design/2022/12/18/pillyze/"/>
-        <updated>2024-01-08T17:16:55.896Z</updated>
-        <content type="html"><![CDATA[라이프스타일]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>WWIT</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 19 Feb 2024 09:18:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[치지직 CHZZK]]></title>
+            <link>https://wwit.design/2024/01/13/chzzk/</link>
+            <guid>https://wwit.design/2024/01/13/chzzk/</guid>
+            <pubDate>Sun, 14 Jan 2024 14:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[엔터테인먼트]]></content:encoded>
+            <enclosure url="https://wwit.design/images/posts/chzzk/00_onboarding/01_splash/chzzk_splash.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[닷슬래시대시]]></title>
+            <link>https://wwit.design/2023/09/30/dotslashdash/</link>
+            <guid>https://wwit.design/2023/09/30/dotslashdash/</guid>
+            <pubDate>Mon, 08 Jan 2024 17:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[플랜핏]]></title>
+            <link>https://wwit.design/2023/07/24/planfit/</link>
+            <guid>https://wwit.design/2023/07/24/planfit/</guid>
+            <pubDate>Mon, 08 Jan 2024 17:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[헤이딜러]]></title>
+            <link>https://wwit.design/2023/04/04/heydealer/</link>
+            <guid>https://wwit.design/2023/04/04/heydealer/</guid>
+            <pubDate>Mon, 08 Jan 2024 17:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[필라이즈]]></title>
+            <link>https://wwit.design/2022/12/18/pillyze/</link>
+            <guid>https://wwit.design/2022/12/18/pillyze/</guid>
+            <pubDate>Mon, 08 Jan 2024 17:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
+        </item>
+    </channel>
+</rss>
