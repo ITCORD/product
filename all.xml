@@ -1,152 +1,147 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Combined feed</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 07:17:47 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Codefolio (THE HIT)]]></title>
-            <link>https://the-hit.co/services/IyDJg7t9XxoKAeSHJloW</link>
-            <guid>https://the-hit.co/services/IyDJg7t9XxoKAeSHJloW</guid>
-            <pubDate>Mon, 06 Mar 2023 07:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[부트캠프 수강생들이 작업한 프로젝트 공유 서비스입니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MOCO (THE HIT)]]></title>
-            <link>https://the-hit.co/services/HHO7zI4iEPQsaIzlWmfL</link>
-            <guid>https://the-hit.co/services/HHO7zI4iEPQsaIzlWmfL</guid>
-            <pubDate>Wed, 01 Mar 2023 06:27:57 GMT</pubDate>
-            <content:encoded><![CDATA[모각코 모임 플랫폼]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일일일(ONEONEONE) (THE HIT)]]></title>
-            <link>https://the-hit.co/services/1uLQ6i5VqNV6ilOVuVzf</link>
-            <guid>https://the-hit.co/services/1uLQ6i5VqNV6ilOVuVzf</guid>
-            <pubDate>Wed, 22 Feb 2023 07:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[국내외 업계 주요 정보를 놓치지 않게 도와주는 서비스]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[merging (THE HIT)]]></title>
-            <link>https://the-hit.co/services/DDbPEnQteaupVICXu8rl</link>
-            <guid>https://the-hit.co/services/DDbPEnQteaupVICXu8rl</guid>
-            <pubDate>Thu, 15 Dec 2022 12:38:17 GMT</pubDate>
-            <content:encoded><![CDATA[커밋으로 하나되는 개발자 놀이터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[센드타임 (THE HIT)]]></title>
-            <link>https://the-hit.co/services/CS5cN5wJqafPkzeNUHfr</link>
-            <guid>https://the-hit.co/services/CS5cN5wJqafPkzeNUHfr</guid>
-            <pubDate>Tue, 15 Nov 2022 05:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[B2B 비즈니스 미팅 스케줄링에는 sendtime!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[슬러시 (THE HIT)]]></title>
-            <link>https://the-hit.co/services/95AurNxUnnS4cttWLp9Q</link>
-            <guid>https://the-hit.co/services/95AurNxUnnS4cttWLp9Q</guid>
-            <pubDate>Thu, 18 Aug 2022 06:29:27 GMT</pubDate>
-            <content:encoded><![CDATA[힙한 개발자들의 네트워킹 서비스]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ValueSearch (THE HIT)]]></title>
-            <link>https://the-hit.co/services/3Kk2rwUwxAqoKN1M37x0</link>
-            <guid>https://the-hit.co/services/3Kk2rwUwxAqoKN1M37x0</guid>
-            <pubDate>Tue, 26 Jul 2022 10:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[AI 기반 비즈니스 데이터 분석 플랫폼]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[복부인 (THE HIT)]]></title>
-            <link>https://the-hit.co/services/aIavMixoM9tf5pUWwEuS</link>
-            <guid>https://the-hit.co/services/aIavMixoM9tf5pUWwEuS</guid>
-            <pubDate>Mon, 25 Jul 2022 02:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[부동산 통합 자산관리및 임대관리]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[맞춤분양 (THE HIT)]]></title>
-            <link>https://the-hit.co/services/F3E0McqD41Kso6ufOtP4</link>
-            <guid>https://the-hit.co/services/F3E0McqD41Kso6ufOtP4</guid>
-            <pubDate>Thu, 21 Jul 2022 08:28:40 GMT</pubDate>
-            <content:encoded><![CDATA[개인맞춤 분양매물 필터링 서비스]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우리뭐먹지 (THE HIT)]]></title>
-            <link>https://the-hit.co/services/dE3kUJadPm4ML3P1IVmr</link>
-            <guid>https://the-hit.co/services/dE3kUJadPm4ML3P1IVmr</guid>
-            <pubDate>Tue, 12 Jul 2022 06:29:37 GMT</pubDate>
-            <content:encoded><![CDATA[미니게임으로 취향분석하고 혼자/여럿이 먹을 메뉴 추천]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Devign(디바인) (THE HIT)]]></title>
-            <link>https://the-hit.co/services/fbsUBNoNNLXBaSmxkii3</link>
-            <guid>https://the-hit.co/services/fbsUBNoNNLXBaSmxkii3</guid>
-            <pubDate>Fri, 17 Jun 2022 07:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[visual AI 기술을 적용한 이슈 리포팅 툴]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[메일고고 (THE HIT)]]></title>
-            <link>https://the-hit.co/services/nkKmp3eau0dGNhpFuKus</link>
-            <guid>https://the-hit.co/services/nkKmp3eau0dGNhpFuKus</guid>
-            <pubDate>Thu, 16 Jun 2022 12:43:43 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 뉴스레터를 에디터가 모아 추천하는 서비스]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[맞춤분양 (THE HIT)]]></title>
-            <link>https://the-hit.co/services/7xSs6fMMf0fmH6syuc5d</link>
-            <guid>https://the-hit.co/services/7xSs6fMMf0fmH6syuc5d</guid>
-            <pubDate>Tue, 31 May 2022 07:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[개인맞춤 주택분양정보 제공 애플리케이션]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[mAsh (THE HIT)]]></title>
-            <link>https://the-hit.co/services/CJyu9n9FkH3Q7HHCIuEq</link>
-            <guid>https://the-hit.co/services/CJyu9n9FkH3Q7HHCIuEq</guid>
-            <pubDate>Thu, 31 Mar 2022 09:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[오프라인의 구글 애널리틱스]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[매치드 (THE HIT)]]></title>
-            <link>https://the-hit.co/services/DRg7MKYIKVwVXIMV5HRv</link>
-            <guid>https://the-hit.co/services/DRg7MKYIKVwVXIMV5HRv</guid>
-            <pubDate>Fri, 18 Mar 2022 09:47:18 GMT</pubDate>
-            <content:encoded><![CDATA[결재자 기반 B2B 영업 매칭 서비스]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[치지직 CHZZK (WWIT)]]></title>
-            <link>https://wwit.design/2024/01/13/chzzk/</link>
-            <guid>https://wwit.design/2024/01/13/chzzk/</guid>
-            <pubDate>Sun, 14 Jan 2024 14:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[엔터테인먼트]]></content:encoded>
-            <enclosure url="https://wwit.design/images/posts/chzzk/00_onboarding/01_splash/chzzk_splash.webp" length="0" type="image/webp"/>
-        </item>
-        <item>
-            <title><![CDATA[닷슬래시대시 (WWIT)]]></title>
-            <link>https://wwit.design/2023/09/30/dotslashdash/</link>
-            <guid>https://wwit.design/2023/09/30/dotslashdash/</guid>
-            <pubDate>Wed, 15 Nov 2023 17:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[플랜핏 (WWIT)]]></title>
-            <link>https://wwit.design/2023/07/24/planfit/</link>
-            <guid>https://wwit.design/2023/07/24/planfit/</guid>
-            <pubDate>Wed, 15 Nov 2023 17:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[헤이딜러 (WWIT)]]></title>
-            <link>https://wwit.design/2023/04/04/heydealer/</link>
-            <guid>https://wwit.design/2023/04/04/heydealer/</guid>
-            <pubDate>Wed, 15 Nov 2023 17:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[필라이즈 (WWIT)]]></title>
-            <link>https://wwit.design/2022/12/18/pillyze/</link>
-            <guid>https://wwit.design/2022/12/18/pillyze/</guid>
-            <pubDate>Wed, 15 Nov 2023 17:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ITCORD.github.io/product/all.xml</id>
+    <title>Combined feed</title>
+    <updated>2024-02-19T08:24:25.859Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Codefolio (THE HIT)]]></title>
+        <id>https://the-hit.co/services/IyDJg7t9XxoKAeSHJloW</id>
+        <link href="https://the-hit.co/services/IyDJg7t9XxoKAeSHJloW"/>
+        <updated>2023-03-06T07:19:20.214Z</updated>
+        <content type="html"><![CDATA[부트캠프 수강생들이 작업한 프로젝트 공유 서비스입니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MOCO (THE HIT)]]></title>
+        <id>https://the-hit.co/services/HHO7zI4iEPQsaIzlWmfL</id>
+        <link href="https://the-hit.co/services/HHO7zI4iEPQsaIzlWmfL"/>
+        <updated>2023-03-01T06:27:57.130Z</updated>
+        <content type="html"><![CDATA[모각코 모임 플랫폼]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일일일(ONEONEONE) (THE HIT)]]></title>
+        <id>https://the-hit.co/services/1uLQ6i5VqNV6ilOVuVzf</id>
+        <link href="https://the-hit.co/services/1uLQ6i5VqNV6ilOVuVzf"/>
+        <updated>2023-02-22T07:19:08.834Z</updated>
+        <content type="html"><![CDATA[국내외 업계 주요 정보를 놓치지 않게 도와주는 서비스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[merging (THE HIT)]]></title>
+        <id>https://the-hit.co/services/DDbPEnQteaupVICXu8rl</id>
+        <link href="https://the-hit.co/services/DDbPEnQteaupVICXu8rl"/>
+        <updated>2022-12-15T12:38:17.454Z</updated>
+        <content type="html"><![CDATA[커밋으로 하나되는 개발자 놀이터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[센드타임 (THE HIT)]]></title>
+        <id>https://the-hit.co/services/CS5cN5wJqafPkzeNUHfr</id>
+        <link href="https://the-hit.co/services/CS5cN5wJqafPkzeNUHfr"/>
+        <updated>2022-11-15T05:20:33.297Z</updated>
+        <content type="html"><![CDATA[B2B 비즈니스 미팅 스케줄링에는 sendtime!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슬러시 (THE HIT)]]></title>
+        <id>https://the-hit.co/services/95AurNxUnnS4cttWLp9Q</id>
+        <link href="https://the-hit.co/services/95AurNxUnnS4cttWLp9Q"/>
+        <updated>2022-08-18T06:29:27.638Z</updated>
+        <content type="html"><![CDATA[힙한 개발자들의 네트워킹 서비스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ValueSearch (THE HIT)]]></title>
+        <id>https://the-hit.co/services/3Kk2rwUwxAqoKN1M37x0</id>
+        <link href="https://the-hit.co/services/3Kk2rwUwxAqoKN1M37x0"/>
+        <updated>2022-07-26T10:28:22.668Z</updated>
+        <content type="html"><![CDATA[AI 기반 비즈니스 데이터 분석 플랫폼]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[복부인 (THE HIT)]]></title>
+        <id>https://the-hit.co/services/aIavMixoM9tf5pUWwEuS</id>
+        <link href="https://the-hit.co/services/aIavMixoM9tf5pUWwEuS"/>
+        <updated>2022-07-25T02:10:31.204Z</updated>
+        <content type="html"><![CDATA[부동산 통합 자산관리및 임대관리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맞춤분양 (THE HIT)]]></title>
+        <id>https://the-hit.co/services/F3E0McqD41Kso6ufOtP4</id>
+        <link href="https://the-hit.co/services/F3E0McqD41Kso6ufOtP4"/>
+        <updated>2022-07-21T08:28:40.780Z</updated>
+        <content type="html"><![CDATA[개인맞춤 분양매물 필터링 서비스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리뭐먹지 (THE HIT)]]></title>
+        <id>https://the-hit.co/services/dE3kUJadPm4ML3P1IVmr</id>
+        <link href="https://the-hit.co/services/dE3kUJadPm4ML3P1IVmr"/>
+        <updated>2022-07-12T06:29:37.528Z</updated>
+        <content type="html"><![CDATA[미니게임으로 취향분석하고 혼자/여럿이 먹을 메뉴 추천]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devign(디바인) (THE HIT)]]></title>
+        <id>https://the-hit.co/services/fbsUBNoNNLXBaSmxkii3</id>
+        <link href="https://the-hit.co/services/fbsUBNoNNLXBaSmxkii3"/>
+        <updated>2022-06-17T07:20:51.206Z</updated>
+        <content type="html"><![CDATA[visual AI 기술을 적용한 이슈 리포팅 툴]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메일고고 (THE HIT)]]></title>
+        <id>https://the-hit.co/services/nkKmp3eau0dGNhpFuKus</id>
+        <link href="https://the-hit.co/services/nkKmp3eau0dGNhpFuKus"/>
+        <updated>2022-06-16T12:43:43.237Z</updated>
+        <content type="html"><![CDATA[다양한 뉴스레터를 에디터가 모아 추천하는 서비스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맞춤분양 (THE HIT)]]></title>
+        <id>https://the-hit.co/services/7xSs6fMMf0fmH6syuc5d</id>
+        <link href="https://the-hit.co/services/7xSs6fMMf0fmH6syuc5d"/>
+        <updated>2022-05-31T07:23:40.198Z</updated>
+        <content type="html"><![CDATA[개인맞춤 주택분양정보 제공 애플리케이션]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mAsh (THE HIT)]]></title>
+        <id>https://the-hit.co/services/CJyu9n9FkH3Q7HHCIuEq</id>
+        <link href="https://the-hit.co/services/CJyu9n9FkH3Q7HHCIuEq"/>
+        <updated>2022-03-31T09:23:11.482Z</updated>
+        <content type="html"><![CDATA[오프라인의 구글 애널리틱스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매치드 (THE HIT)]]></title>
+        <id>https://the-hit.co/services/DRg7MKYIKVwVXIMV5HRv</id>
+        <link href="https://the-hit.co/services/DRg7MKYIKVwVXIMV5HRv"/>
+        <updated>2022-03-18T09:47:18.954Z</updated>
+        <content type="html"><![CDATA[결재자 기반 B2B 영업 매칭 서비스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[치지직 CHZZK (WWIT)]]></title>
+        <id>https://wwit.design/2024/01/13/chzzk/</id>
+        <link href="https://wwit.design/2024/01/13/chzzk/"/>
+        <updated>2024-01-14T14:16:04.734Z</updated>
+        <content type="html"><![CDATA[엔터테인먼트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[닷슬래시대시 (WWIT)]]></title>
+        <id>https://wwit.design/2023/09/30/dotslashdash/</id>
+        <link href="https://wwit.design/2023/09/30/dotslashdash/"/>
+        <updated>2023-11-15T17:18:41.241Z</updated>
+        <content type="html"><![CDATA[라이프스타일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[플랜핏 (WWIT)]]></title>
+        <id>https://wwit.design/2023/07/24/planfit/</id>
+        <link href="https://wwit.design/2023/07/24/planfit/"/>
+        <updated>2023-11-15T17:18:41.242Z</updated>
+        <content type="html"><![CDATA[라이프스타일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헤이딜러 (WWIT)]]></title>
+        <id>https://wwit.design/2023/04/04/heydealer/</id>
+        <link href="https://wwit.design/2023/04/04/heydealer/"/>
+        <updated>2023-11-15T17:18:41.244Z</updated>
+        <content type="html"><![CDATA[라이프스타일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[필라이즈 (WWIT)]]></title>
+        <id>https://wwit.design/2022/12/18/pillyze/</id>
+        <link href="https://wwit.design/2022/12/18/pillyze/"/>
+        <updated>2023-11-15T17:18:41.246Z</updated>
+        <content type="html"><![CDATA[라이프스타일]]></content>
+    </entry>
+</feed>
