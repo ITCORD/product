@@ -1,47 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Combined feed</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 07:18:37 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[치지직 CHZZK (WWIT)]]></title>
-            <link>https://wwit.design/2024/01/13/chzzk/</link>
-            <guid>https://wwit.design/2024/01/13/chzzk/</guid>
-            <pubDate>Sun, 07 Apr 2024 12:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[엔터테인먼트]]></content:encoded>
-            <enclosure url="https://wwit.design/images/posts/chzzk/00_onboarding/01_splash/chzzk_splash.webp" length="0" type="image/webp"/>
-        </item>
-        <item>
-            <title><![CDATA[닷슬래시대시 (WWIT)]]></title>
-            <link>https://wwit.design/2023/09/30/dotslashdash/</link>
-            <guid>https://wwit.design/2023/09/30/dotslashdash/</guid>
-            <pubDate>Sun, 07 Apr 2024 12:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[플랜핏 (WWIT)]]></title>
-            <link>https://wwit.design/2023/07/24/planfit/</link>
-            <guid>https://wwit.design/2023/07/24/planfit/</guid>
-            <pubDate>Sun, 07 Apr 2024 12:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[헤이딜러 (WWIT)]]></title>
-            <link>https://wwit.design/2023/04/04/heydealer/</link>
-            <guid>https://wwit.design/2023/04/04/heydealer/</guid>
-            <pubDate>Sun, 07 Apr 2024 12:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[필라이즈 (WWIT)]]></title>
-            <link>https://wwit.design/2022/12/18/pillyze/</link>
-            <guid>https://wwit.design/2022/12/18/pillyze/</guid>
-            <pubDate>Sun, 07 Apr 2024 12:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ITCORD.github.io/product/all.xml</id>
+    <title>Combined feed</title>
+    <updated>2024-06-27T08:24:20.136Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[치지직 CHZZK (WWIT)]]></title>
+        <id>https://wwit.design/2024/01/13/chzzk/</id>
+        <link href="https://wwit.design/2024/01/13/chzzk/"/>
+        <updated>2024-04-07T12:29:58.899Z</updated>
+        <content type="html"><![CDATA[엔터테인먼트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[닷슬래시대시 (WWIT)]]></title>
+        <id>https://wwit.design/2023/09/30/dotslashdash/</id>
+        <link href="https://wwit.design/2023/09/30/dotslashdash/"/>
+        <updated>2024-04-07T12:29:58.900Z</updated>
+        <content type="html"><![CDATA[라이프스타일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[플랜핏 (WWIT)]]></title>
+        <id>https://wwit.design/2023/07/24/planfit/</id>
+        <link href="https://wwit.design/2023/07/24/planfit/"/>
+        <updated>2024-04-07T12:29:58.902Z</updated>
+        <content type="html"><![CDATA[라이프스타일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헤이딜러 (WWIT)]]></title>
+        <id>https://wwit.design/2023/04/04/heydealer/</id>
+        <link href="https://wwit.design/2023/04/04/heydealer/"/>
+        <updated>2024-04-07T12:29:58.906Z</updated>
+        <content type="html"><![CDATA[라이프스타일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[필라이즈 (WWIT)]]></title>
+        <id>https://wwit.design/2022/12/18/pillyze/</id>
+        <link href="https://wwit.design/2022/12/18/pillyze/"/>
+        <updated>2024-04-07T12:29:58.906Z</updated>
+        <content type="html"><![CDATA[라이프스타일]]></content>
+    </entry>
+</feed>
