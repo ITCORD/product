@@ -4,16 +4,23 @@
         <title>WWIT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Oct 2024 15:27:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 16:30:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼쩜삼]]></title>
+            <link>https://wwit.design/2024/09/18/3o3/</link>
+            <guid>https://wwit.design/2024/09/18/3o3/</guid>
+            <pubDate>Wed, 30 Oct 2024 16:30:41 GMT</pubDate>
+            <content:encoded><![CDATA[금융]]></content:encoded>
+            <enclosure url="https://wwit.design/images/posts/3o3/00_onboarding/01_splash/3o3_splash.webp" length="0" type="image/webp"/>
+        </item>
         <item>
             <title><![CDATA[헤이문 heymoon]]></title>
             <link>https://wwit.design/2024/09/16/heymoon/</link>
             <guid>https://wwit.design/2024/09/16/heymoon/</guid>
             <pubDate>Tue, 17 Sep 2024 06:29:34 GMT</pubDate>
             <content:encoded><![CDATA[라이프스타일]]></content:encoded>
-            <enclosure url="https://wwit.design/images/posts/heymoon/00_onboarding/heymoon_00_splash.webp" length="0" type="image/webp"/>
         </item>
         <item>
             <title><![CDATA[치지직 CHZZK]]></title>
@@ -33,13 +40,6 @@
             <title><![CDATA[플랜핏]]></title>
             <link>https://wwit.design/2023/07/24/planfit/</link>
             <guid>https://wwit.design/2023/07/24/planfit/</guid>
-            <pubDate>Sun, 07 Apr 2024 13:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[헤이딜러]]></title>
-            <link>https://wwit.design/2023/04/04/heydealer/</link>
-            <guid>https://wwit.design/2023/04/04/heydealer/</guid>
             <pubDate>Sun, 07 Apr 2024 13:21:14 GMT</pubDate>
             <content:encoded><![CDATA[라이프스타일]]></content:encoded>
         </item>
