@@ -4,16 +4,23 @@
         <title>WWIT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Dec 2024 15:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Dec 2024 16:27:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뤼튼]]></title>
+            <link>https://wwit.design/2024/12/24/wrtn/</link>
+            <guid>https://wwit.design/2024/12/24/wrtn/</guid>
+            <pubDate>Wed, 25 Dec 2024 16:27:05 GMT</pubDate>
+            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
+            <enclosure url="https://wwit.design/images/posts/wrtn/00_onboarding/wrtn_00_splash.webp" length="0" type="image/webp"/>
+        </item>
         <item>
             <title><![CDATA[삼쩜삼]]></title>
             <link>https://wwit.design/2024/11/03/3o3/</link>
             <guid>https://wwit.design/2024/11/03/3o3/</guid>
             <pubDate>Sun, 03 Nov 2024 15:23:18 GMT</pubDate>
             <content:encoded><![CDATA[금융]]></content:encoded>
-            <enclosure url="https://wwit.design/images/posts/3o3/00_onboarding/3o3_00_splash.webp" length="0" type="image/webp"/>
         </item>
         <item>
             <title><![CDATA[치지직 CHZZK]]></title>
@@ -34,13 +41,6 @@
             <link>https://wwit.design/2023/07/24/planfit/</link>
             <guid>https://wwit.design/2023/07/24/planfit/</guid>
             <pubDate>Sun, 07 Apr 2024 13:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[라이프스타일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[헤이딜러]]></title>
-            <link>https://wwit.design/2023/04/04/heydealer/</link>
-            <guid>https://wwit.design/2023/04/04/heydealer/</guid>
-            <pubDate>Tue, 12 Nov 2024 15:26:16 GMT</pubDate>
             <content:encoded><![CDATA[라이프스타일]]></content:encoded>
         </item>
     </channel>
