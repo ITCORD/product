@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wwit.design/</id>
     <title>WWIT</title>
-    <updated>2025-02-17T10:28:36.644Z</updated>
+    <updated>2025-02-17T11:23:05.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://wwit.design/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://wwit.design/</id>
         <link href="https://wwit.design/"/>
-        <updated>2025-02-17T10:28:31.435Z</updated>
+        <updated>2025-02-17T11:22:59.446Z</updated>
         <content type="html"><![CDATA[<a href="/2025/02/15/npay/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
-            <img src="/images/posts/npay/npay_logo.webp" class="js-fadein applogo" alt="네이버페이 - 자산, 혜택, 현장결제">
+            <img src="/images/posts/npay/npay_logo.webp" class="js-fadein applogo is-inview full-visible" alt="네이버페이 - 자산, 혜택, 현장결제">
             <div style="display:flex; flex-direction:column;">
               <div class="c-post-card__title">
                 네이버페이 - 자산, 혜택, 현장결제
@@ -89,11 +89,11 @@
         <title type="html"><![CDATA[1]]></title>
         <id>https://wwit.design/</id>
         <link href="https://wwit.design/"/>
-        <updated>2025-02-17T10:28:31.438Z</updated>
+        <updated>2025-02-17T11:22:59.446Z</updated>
         <content type="html"><![CDATA[<a href="/2024/12/24/wrtn/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
-            <img src="/images/posts/wrtn/wrtn_logo.webp" class="js-fadein applogo" alt="뤼튼">
+            <img src="/images/posts/wrtn/wrtn_logo.webp" class="js-fadein applogo is-inview full-visible" alt="뤼튼">
             <div style="display:flex; flex-direction:column;">
               <div class="c-post-card__title">
                 뤼튼
@@ -169,7 +169,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://wwit.design/</id>
         <link href="https://wwit.design/"/>
-        <updated>2025-02-17T10:28:31.446Z</updated>
+        <updated>2025-02-17T11:22:59.448Z</updated>
         <content type="html"><![CDATA[<a href="/2024/11/03/3o3/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
@@ -249,7 +249,7 @@
         <title type="html"><![CDATA[3]]></title>
         <id>https://wwit.design/</id>
         <link href="https://wwit.design/"/>
-        <updated>2025-02-17T10:28:31.447Z</updated>
+        <updated>2025-02-17T11:22:59.453Z</updated>
         <content type="html"><![CDATA[<a href="/2024/01/13/chzzk/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
@@ -329,7 +329,7 @@
         <title type="html"><![CDATA[4]]></title>
         <id>https://wwit.design/</id>
         <link href="https://wwit.design/"/>
-        <updated>2025-02-17T10:28:31.448Z</updated>
+        <updated>2025-02-17T11:22:59.454Z</updated>
         <content type="html"><![CDATA[<a href="/2023/09/30/dotslashdash/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
@@ -409,7 +409,7 @@
         <title type="html"><![CDATA[5]]></title>
         <id>https://wwit.design/</id>
         <link href="https://wwit.design/"/>
-        <updated>2025-02-17T10:28:31.449Z</updated>
+        <updated>2025-02-17T11:22:59.457Z</updated>
         <content type="html"><![CDATA[<a href="/2023/07/24/planfit/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
@@ -489,7 +489,7 @@
         <title type="html"><![CDATA[6]]></title>
         <id>https://wwit.design/</id>
         <link href="https://wwit.design/"/>
-        <updated>2025-02-17T10:28:31.451Z</updated>
+        <updated>2025-02-17T11:22:59.457Z</updated>
         <content type="html"><![CDATA[<a href="/2023/04/04/heydealer/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
@@ -569,7 +569,7 @@
         <title type="html"><![CDATA[7]]></title>
         <id>https://wwit.design/</id>
         <link href="https://wwit.design/"/>
-        <updated>2025-02-17T10:28:31.452Z</updated>
+        <updated>2025-02-17T11:22:59.457Z</updated>
         <content type="html"><![CDATA[<a href="/2022/12/18/pillyze/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
@@ -649,7 +649,7 @@
         <title type="html"><![CDATA[8]]></title>
         <id>https://wwit.design/</id>
         <link href="https://wwit.design/"/>
-        <updated>2025-02-17T10:28:31.453Z</updated>
+        <updated>2025-02-17T11:22:59.460Z</updated>
         <content type="html"><![CDATA[<a href="/2022/10/29/shinhanplay/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
@@ -729,7 +729,7 @@
         <title type="html"><![CDATA[9]]></title>
         <id>https://wwit.design/</id>
         <link href="https://wwit.design/"/>
-        <updated>2025-02-17T10:28:31.454Z</updated>
+        <updated>2025-02-17T11:22:59.461Z</updated>
         <content type="html"><![CDATA[<a href="/2022/07/31/lgthinq/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
