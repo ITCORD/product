@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ITCORD.github.io/product/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2025-02-17T01:46:37.192Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-02-17T01:46:31.614Z</updated>
-        <content type="html"><![CDATA[<a href="/2025/02/15/npay/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 17 Feb 2025 04:27:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[undefined (WWIT)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Mon, 17 Feb 2025 04:27:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2025/02/15/npay/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
-            <img src="/images/posts/npay/npay_logo.webp" class="js-fadein applogo" alt="네이버페이 - 자산, 혜택, 현장결제">
+            <img src="/images/posts/npay/npay_logo.webp" class="js-fadein applogo is-inview full-visible" alt="네이버페이 - 자산, 혜택, 현장결제">
             <div style="display:flex; flex-direction:column;">
               <div class="c-post-card__title">
                 네이버페이 - 자산, 혜택, 현장결제
@@ -47,15 +50,15 @@
         </a><a href="/2025/02/15/npay/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
 
           <div class="thumbnail-wrapper">
-            <img src="/images/posts/npay/00_onboarding/npay_00_splash.webp" class="c-post-card__image js-fadein longimg" alt="네이버페이 - 자산, 혜택, 현장결제">
+            <img src="/images/posts/npay/00_onboarding/npay_00_splash.webp" class="c-post-card__image js-fadein longimg is-inview" alt="네이버페이 - 자산, 혜택, 현장결제">
           </div>
 
           <div class="thumbnail-wrapper">
-            <img src="/images/posts/npay/01_payment/01_onsite/npay_onsite_02.webp" class="c-post-card__image js-fadein longimg" alt="네이버페이 - 자산, 혜택, 현장결제">
+            <img src="/images/posts/npay/01_payment/01_onsite/npay_onsite_02.webp" class="c-post-card__image js-fadein longimg is-inview" alt="네이버페이 - 자산, 혜택, 현장결제">
           </div>
 
           <div class="thumbnail-wrapper">
-            <img src="/images/posts/npay/02_asset/01_home/npay_asset_01.webp" class="c-post-card__image js-fadein longimg" alt="네이버페이 - 자산, 혜택, 현장결제">
+            <img src="/images/posts/npay/02_asset/01_home/npay_asset_01.webp" class="c-post-card__image js-fadein longimg is-inview" alt="네이버페이 - 자산, 혜택, 현장결제">
           </div>
 
           <!-- 
@@ -82,17 +85,18 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-02-17T01:46:31.615Z</updated>
-        <content type="html"><![CDATA[<a href="/2024/12/24/wrtn/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+            <enclosure url="https://wwit.design/images/posts/npay/00_onboarding/npay_00_splash.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (WWIT)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Mon, 17 Feb 2025 04:27:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2024/12/24/wrtn/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
-            <img src="/images/posts/wrtn/wrtn_logo.webp" class="js-fadein applogo" alt="뤼튼">
+            <img src="/images/posts/wrtn/wrtn_logo.webp" class="js-fadein applogo is-inview full-visible" alt="뤼튼">
             <div style="display:flex; flex-direction:column;">
               <div class="c-post-card__title">
                 뤼튼
@@ -127,15 +131,15 @@
         </a><a href="/2024/12/24/wrtn/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
 
           <div class="thumbnail-wrapper">
-            <img src="/images/posts/wrtn/00_onboarding/wrtn_00_splash.webp" class="c-post-card__image js-fadein longimg" alt="뤼튼">
+            <img src="/images/posts/wrtn/00_onboarding/wrtn_00_splash.webp" class="c-post-card__image js-fadein longimg is-inview" alt="뤼튼">
           </div>
 
           <div class="thumbnail-wrapper">
-            <img src="/images/posts/wrtn/00_onboarding/wrtn_onboarding_01.webp" class="c-post-card__image js-fadein longimg" alt="뤼튼">
+            <img src="/images/posts/wrtn/00_onboarding/wrtn_onboarding_01.webp" class="c-post-card__image js-fadein longimg is-inview" alt="뤼튼">
           </div>
 
           <div class="thumbnail-wrapper">
-            <img src="/images/posts/wrtn/01_aiwork/wrtn_aiwork_01.webp" class="c-post-card__image js-fadein longimg" alt="뤼튼">
+            <img src="/images/posts/wrtn/01_aiwork/wrtn_aiwork_01.webp" class="c-post-card__image js-fadein longimg is-inview" alt="뤼튼">
           </div>
 
           <!-- 
@@ -162,14 +166,15 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-02-17T01:46:31.619Z</updated>
-        <content type="html"><![CDATA[<a href="/2024/11/03/3o3/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+            <enclosure url="https://wwit.design/images/posts/wrtn/00_onboarding/wrtn_00_splash.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (WWIT)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Mon, 17 Feb 2025 04:27:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2024/11/03/3o3/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/3o3/3o3_logo.webp" class="js-fadein applogo" alt="삼쩜삼">
@@ -242,14 +247,14 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-02-17T01:46:31.630Z</updated>
-        <content type="html"><![CDATA[<a href="/2024/01/13/chzzk/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (WWIT)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Mon, 17 Feb 2025 04:27:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2024/01/13/chzzk/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/chzzk/chzzk_logo.webp" class="js-fadein applogo" alt="치지직 CHZZK">
@@ -322,14 +327,14 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-02-17T01:46:31.631Z</updated>
-        <content type="html"><![CDATA[<a href="/2023/09/30/dotslashdash/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (WWIT)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Mon, 17 Feb 2025 04:27:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2023/09/30/dotslashdash/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/dotslashdash/dotslashdash_logo.webp" class="js-fadein applogo" alt="닷슬래시대시">
@@ -402,14 +407,14 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-02-17T01:46:31.631Z</updated>
-        <content type="html"><![CDATA[<a href="/2023/07/24/planfit/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (WWIT)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Mon, 17 Feb 2025 04:27:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2023/07/24/planfit/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/planfit/planfit_logo.webp" class="js-fadein applogo" alt="플랜핏">
@@ -482,14 +487,14 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-02-17T01:46:31.633Z</updated>
-        <content type="html"><![CDATA[<a href="/2023/04/04/heydealer/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (WWIT)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Mon, 17 Feb 2025 04:27:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2023/04/04/heydealer/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/heydealer/heydealer_logo.webp" class="js-fadein applogo" alt="헤이딜러">
@@ -562,14 +567,14 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-02-17T01:46:31.634Z</updated>
-        <content type="html"><![CDATA[<a href="/2022/12/18/pillyze/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (WWIT)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Mon, 17 Feb 2025 04:27:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2022/12/18/pillyze/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/pillyze/pillyze_logo.webp" class="js-fadein applogo" alt="필라이즈">
@@ -642,14 +647,14 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-02-17T01:46:31.634Z</updated>
-        <content type="html"><![CDATA[<a href="/2022/10/29/shinhanplay/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (WWIT)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Mon, 17 Feb 2025 04:27:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2022/10/29/shinhanplay/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/shinhanplay/shinhanplay_logo.webp" class="js-fadein applogo" alt="신한플레이">
@@ -722,14 +727,14 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-02-17T01:46:31.638Z</updated>
-        <content type="html"><![CDATA[<a href="/2022/07/31/lgthinq/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (WWIT)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Mon, 17 Feb 2025 04:27:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2022/07/31/lgthinq/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/lgthinq/lgthinq_logo.PNG" class="js-fadein applogo" alt="LG ThinQ">
@@ -802,806 +807,7 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-02-17T01:46:31.682Z</updated>
-        <content type="html"><![CDATA[<a href="/2022/07/07/monimo/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-      <div class="c-post-card__content ">
-        <div class="c-post-card__media">
-            <img src="/images/posts/monimo/monimo_logo.PNG" class="js-fadein applogo" alt="모니모">
-            <div style="display:flex; flex-direction:column;">
-              <div class="c-post-card__title">
-                모니모
-              </div>
-
-              <div class="c-post-card__tags">
-                
-                금융
-                
-              </div>
-            </div>
-        </div>
-      </div>
-
-      <!-- <div class='c-post-card__meta'>
-        <time class='c-post-card__date' datetime="2022-07-07T12:00:00+00:00" title="07 Jul 2022">07 Jul 2022</time>
-
-        <div class='c-post-card__tags'>
-          
-          Samsung Card
-          
-        </div> 
-        <div class='c-post-card__tags'>
-          
-          <a href='/tag/finance'>금융</a>
-          
-        </div>
-      </div> -->
-
-      
-      </a><div class="c-post-card__media"><a href="/2022/07/07/monimo/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-        </a><a href="/2022/07/07/monimo/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/monimo/monimo_splash.PNG" class="c-post-card__image js-fadein longimg" alt="모니모">
-          </div>
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/monimo/monimo_home.PNG" class="c-post-card__image js-fadein longimg" alt="모니모">
-          </div>
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/monimo/monimo_jelly_01.PNG" class="c-post-card__image js-fadein longimg" alt="모니모">
-          </div>
-
-          <!-- 
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/monimo/monimo_home.PNG' class='c-post-card__image js-fadein longimg' alt='모니모'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/monimo/monimo_jelly_01.PNG' class='c-post-card__image js-fadein longimg' alt='모니모'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/monimo/monimo_transfer_06.PNG' class='c-post-card__image js-fadein longimg' alt='모니모'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/monimo/monimo_my_lifeins_detail.PNG' class='c-post-card__image js-fadein longimg' alt='모니모'>
-            </div> -->
-        </a>
-      </div>
-      
-
-      
-
-
-      <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-02-17T01:46:31.690Z</updated>
-        <content type="html"><![CDATA[<a href="/2022/05/28/trost/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-      <div class="c-post-card__content ">
-        <div class="c-post-card__media">
-            <img src="/images/posts/trost/trost_logo.PNG" class="js-fadein applogo" alt="트로스트">
-            <div style="display:flex; flex-direction:column;">
-              <div class="c-post-card__title">
-                트로스트
-              </div>
-
-              <div class="c-post-card__tags">
-                
-                라이프스타일
-                
-              </div>
-            </div>
-        </div>
-      </div>
-
-      <!-- <div class='c-post-card__meta'>
-        <time class='c-post-card__date' datetime="2022-05-28T12:00:00+00:00" title="28 May 2022">28 May 2022</time>
-
-        <div class='c-post-card__tags'>
-          
-          Humart Company
-          
-        </div> 
-        <div class='c-post-card__tags'>
-          
-          <a href='/tag/life'>라이프스타일</a>
-          
-        </div>
-      </div> -->
-
-      
-      </a><div class="c-post-card__media"><a href="/2022/05/28/trost/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-        </a><a href="/2022/05/28/trost/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/trost/00_onboarding/trost_00_splash.PNG" class="c-post-card__image js-fadein longimg" alt="트로스트">
-          </div>
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/trost/01_home/00_home/trost_home.PNG" class="c-post-card__image js-fadein longimg" alt="트로스트">
-          </div>
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/trost/01_home/02_emotion/trost_emotion_01.PNG" class="c-post-card__image js-fadein longimg" alt="트로스트">
-          </div>
-
-          <!-- 
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/trost/01_home/00_home/trost_home.PNG' class='c-post-card__image js-fadein longimg' alt='트로스트'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/trost/01_home/02_emotion/trost_emotion_01.PNG' class='c-post-card__image js-fadein longimg' alt='트로스트'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/trost/01_home/04_counsel/trost_counsel_01.PNG' class='c-post-card__image js-fadein longimg' alt='트로스트'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/trost/02_today/trost_today_01.PNG' class='c-post-card__image js-fadein longimg' alt='트로스트'>
-            </div> -->
-        </a>
-      </div>
-      
-
-      
-
-
-      <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-02-17T01:46:31.691Z</updated>
-        <content type="html"><![CDATA[<a href="/2022/04/02/imin/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-      <div class="c-post-card__content ">
-        <div class="c-post-card__media">
-            <img src="/images/posts/imin/imin_logo.PNG" class="js-fadein applogo" alt="아임인 imin">
-            <div style="display:flex; flex-direction:column;">
-              <div class="c-post-card__title">
-                아임인 imin
-              </div>
-
-              <div class="c-post-card__tags">
-                
-                금융
-                
-              </div>
-            </div>
-        </div>
-      </div>
-
-      <!-- <div class='c-post-card__meta'>
-        <time class='c-post-card__date' datetime="2022-04-02T12:00:00+00:00" title="02 Apr 2022">02 Apr 2022</time>
-
-        <div class='c-post-card__tags'>
-          
-          TWAVE
-          
-        </div> 
-        <div class='c-post-card__tags'>
-          
-          <a href='/tag/finance'>금융</a>
-          
-        </div>
-      </div> -->
-
-      
-      </a><div class="c-post-card__media"><a href="/2022/04/02/imin/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-        </a><a href="/2022/04/02/imin/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/imin/imin_splash.PNG" class="c-post-card__image js-fadein longimg" alt="아임인 imin">
-          </div>
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/imin/imin_home_01.PNG" class="c-post-card__image js-fadein longimg" alt="아임인 imin">
-          </div>
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/imin/imin_stage_01.PNG" class="c-post-card__image js-fadein longimg" alt="아임인 imin">
-          </div>
-
-          <!-- 
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/imin/imin_home_01.PNG' class='c-post-card__image js-fadein longimg' alt='아임인 imin'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/imin/imin_stage_01.PNG' class='c-post-card__image js-fadein longimg' alt='아임인 imin'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/imin/imin_profile_01.PNG' class='c-post-card__image js-fadein longimg' alt='아임인 imin'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/imin/imin_join_08.PNG' class='c-post-card__image js-fadein longimg' alt='아임인 imin'>
-            </div> -->
-        </a>
-      </div>
-      
-
-      
-
-
-      <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-02-17T01:46:31.693Z</updated>
-        <content type="html"><![CDATA[<a href="/2022/03/20/texture/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-      <div class="c-post-card__content ">
-        <div class="c-post-card__media">
-            <img src="/images/posts/texture/texture_logo.PNG" class="js-fadein applogo" alt="텍스처 texture">
-            <div style="display:flex; flex-direction:column;">
-              <div class="c-post-card__title">
-                텍스처 texture
-              </div>
-
-              <div class="c-post-card__tags">
-                
-                라이프스타일
-                
-              </div>
-            </div>
-        </div>
-      </div>
-
-      <!-- <div class='c-post-card__meta'>
-        <time class='c-post-card__date' datetime="2022-03-20T12:00:00+00:00" title="20 Mar 2022">20 Mar 2022</time>
-
-        <div class='c-post-card__tags'>
-          
-          Bold Period Inc.
-          
-        </div> 
-        <div class='c-post-card__tags'>
-          
-          <a href='/tag/life'>라이프스타일</a>
-          
-        </div>
-      </div> -->
-
-      
-      </a><div class="c-post-card__media"><a href="/2022/03/20/texture/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-        </a><a href="/2022/03/20/texture/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/texture/texture_splash.PNG" class="c-post-card__image js-fadein longimg" alt="텍스처 texture">
-          </div>
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/texture/texture_feed_02.PNG" class="c-post-card__image js-fadein longimg" alt="텍스처 texture">
-          </div>
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/texture/texture_search_01.PNG" class="c-post-card__image js-fadein longimg" alt="텍스처 texture">
-          </div>
-
-          <!-- 
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/texture/texture_feed_02.PNG' class='c-post-card__image js-fadein longimg' alt='텍스처 texture'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/texture/texture_search_01.PNG' class='c-post-card__image js-fadein longimg' alt='텍스처 texture'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/texture/texture_sentence_01.PNG' class='c-post-card__image js-fadein longimg' alt='텍스처 texture'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/texture/texture_scrapbook_01.PNG' class='c-post-card__image js-fadein longimg' alt='텍스처 texture'>
-            </div> -->
-        </a>
-      </div>
-      
-
-      
-
-
-      <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-02-17T01:46:31.694Z</updated>
-        <content type="html"><![CDATA[<a href="/2022/02/07/laundrygo/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-      <div class="c-post-card__content ">
-        <div class="c-post-card__media">
-            <img src="/images/posts/laundrygo/laundrygo_logo.webp" class="js-fadein applogo" alt="런드리고">
-            <div style="display:flex; flex-direction:column;">
-              <div class="c-post-card__title">
-                런드리고
-              </div>
-
-              <div class="c-post-card__tags">
-                
-                라이프스타일
-                
-              </div>
-            </div>
-        </div>
-      </div>
-
-      <!-- <div class='c-post-card__meta'>
-        <time class='c-post-card__date' datetime="2022-02-07T12:00:00+00:00" title="07 Feb 2022">07 Feb 2022</time>
-
-        <div class='c-post-card__tags'>
-          
-          Lifegoeson Company Corp.
-          
-        </div> 
-        <div class='c-post-card__tags'>
-          
-          <a href='/tag/life'>라이프스타일</a>
-          
-        </div>
-      </div> -->
-
-      
-      </a><div class="c-post-card__media"><a href="/2022/02/07/laundrygo/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-        </a><a href="/2022/02/07/laundrygo/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/laundrygo/laundrygo_splash.webp" class="c-post-card__image js-fadein longimg" alt="런드리고">
-          </div>
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/laundrygo/laundrygo_home_01.webp" class="c-post-card__image js-fadein longimg" alt="런드리고">
-          </div>
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/laundrygo/laundrygo_apply_01.webp" class="c-post-card__image js-fadein longimg" alt="런드리고">
-          </div>
-
-          <!-- 
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/laundrygo/laundrygo_home_01.webp' class='c-post-card__image js-fadein longimg' alt='런드리고'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/laundrygo/laundrygo_apply_01.webp' class='c-post-card__image js-fadein longimg' alt='런드리고'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/laundrygo/laundrygo_history_04.webp' class='c-post-card__image js-fadein longimg' alt='런드리고'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/laundrygo/laundrygo_mypage_01.webp' class='c-post-card__image js-fadein longimg' alt='런드리고'>
-            </div> -->
-        </a>
-      </div>
-      
-
-      
-
-
-      <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-02-17T01:46:31.695Z</updated>
-        <content type="html"><![CDATA[<a href="/2022/01/23/tada/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-      <div class="c-post-card__content ">
-        <div class="c-post-card__media">
-            <img src="/images/posts/tada/tada_logo.webp" class="js-fadein applogo" alt="타다 TADA">
-            <div style="display:flex; flex-direction:column;">
-              <div class="c-post-card__title">
-                타다 TADA
-              </div>
-
-              <div class="c-post-card__tags">
-                
-                모빌리티
-                
-              </div>
-            </div>
-        </div>
-      </div>
-
-      <!-- <div class='c-post-card__meta'>
-        <time class='c-post-card__date' datetime="2022-01-23T12:00:00+00:00" title="23 Jan 2022">23 Jan 2022</time>
-
-        <div class='c-post-card__tags'>
-          
-          VCNC
-          
-        </div> 
-        <div class='c-post-card__tags'>
-          
-          <a href='/tag/mobility'>모빌리티</a>
-          
-        </div>
-      </div> -->
-
-      
-      </a><div class="c-post-card__media"><a href="/2022/01/23/tada/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-        </a><a href="/2022/01/23/tada/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/tada/tada_splash.webp" class="c-post-card__image js-fadein longimg" alt="타다 TADA">
-          </div>
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/tada/tada_home_01.webp" class="c-post-card__image js-fadein longimg" alt="타다 TADA">
-          </div>
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/tada/tada_ride_01.webp" class="c-post-card__image js-fadein longimg" alt="타다 TADA">
-          </div>
-
-          <!-- 
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/tada/tada_home_01.webp' class='c-post-card__image js-fadein longimg' alt='타다 TADA'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/tada/tada_ride_01.webp' class='c-post-card__image js-fadein longimg' alt='타다 TADA'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/tada/tada_ride_05.webp' class='c-post-card__image js-fadein longimg' alt='타다 TADA'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/tada/tada_others_01.webp' class='c-post-card__image js-fadein longimg' alt='타다 TADA'>
-            </div> -->
-        </a>
-      </div>
-      
-
-      
-
-
-      <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-02-17T01:46:31.696Z</updated>
-        <content type="html"><![CDATA[<a href="/2021/09/16/kakaowebtoon/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-      <div class="c-post-card__content ">
-        <div class="c-post-card__media">
-            <img src="/images/posts/kakaowebtoon/kakaowebtoon_logo.PNG" class="js-fadein applogo" alt="카카오웹툰">
-            <div style="display:flex; flex-direction:column;">
-              <div class="c-post-card__title">
-                카카오웹툰
-              </div>
-
-              <div class="c-post-card__tags">
-                
-                엔터테인먼트
-                
-              </div>
-            </div>
-        </div>
-      </div>
-
-      <!-- <div class='c-post-card__meta'>
-        <time class='c-post-card__date' datetime="2021-09-16T12:00:00+00:00" title="16 Sep 2021">16 Sep 2021</time>
-
-        <div class='c-post-card__tags'>
-          
-          Kakao Entertainment Corp.
-          
-        </div> 
-        <div class='c-post-card__tags'>
-          
-          <a href='/tag/entertainment'>엔터테인먼트</a>
-          
-        </div>
-      </div> -->
-
-      
-      </a><div class="c-post-card__media"><a href="/2021/09/16/kakaowebtoon/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-        </a><a href="/2021/09/16/kakaowebtoon/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/kakaowebtoon/kakaowebtoon_splash.PNG" class="c-post-card__image js-fadein longimg" alt="카카오웹툰">
-          </div>
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/kakaowebtoon/kakaowebtoon_home_01.PNG" class="c-post-card__image js-fadein longimg" alt="카카오웹툰">
-          </div>
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/kakaowebtoon/kakaowebtoon_home_14.PNG" class="c-post-card__image js-fadein longimg" alt="카카오웹툰">
-          </div>
-
-          <!-- 
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/kakaowebtoon/kakaowebtoon_home_01.PNG' class='c-post-card__image js-fadein longimg' alt='카카오웹툰'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/kakaowebtoon/kakaowebtoon_home_14.PNG' class='c-post-card__image js-fadein longimg' alt='카카오웹툰'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/kakaowebtoon/kakaowebtoon_view_01.PNG' class='c-post-card__image js-fadein longimg' alt='카카오웹툰'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/kakaowebtoon/kakaowebtoon_mypage_03.PNG' class='c-post-card__image js-fadein longimg' alt='카카오웹툰'>
-            </div> -->
-        </a>
-      </div>
-      
-
-      
-
-
-      <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-02-17T01:46:31.704Z</updated>
-        <content type="html"><![CDATA[<a href="/2021/07/27/coupang/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-      <div class="c-post-card__content ">
-        <div class="c-post-card__media">
-            <img src="/images/posts/coupang/coupang_logo.webp" class="js-fadein applogo" alt="쿠팡">
-            <div style="display:flex; flex-direction:column;">
-              <div class="c-post-card__title">
-                쿠팡
-              </div>
-
-              <div class="c-post-card__tags">
-                
-                커머스
-                
-              </div>
-            </div>
-        </div>
-      </div>
-
-      <!-- <div class='c-post-card__meta'>
-        <time class='c-post-card__date' datetime="2021-07-27T12:00:00+00:00" title="27 Jul 2021">27 Jul 2021</time>
-
-        <div class='c-post-card__tags'>
-          
-          coupang
-          
-        </div> 
-        <div class='c-post-card__tags'>
-          
-          <a href='/tag/commerce'>커머스</a>
-          
-        </div>
-      </div> -->
-
-      
-      </a><div class="c-post-card__media"><a href="/2021/07/27/coupang/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-        </a><a href="/2021/07/27/coupang/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/coupang/00_onboarding/coupang_00_splash.webp" class="c-post-card__image js-fadein longimg" alt="쿠팡">
-          </div>
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/coupang/01_home/coupang_home_01.webp" class="c-post-card__image js-fadein longimg" alt="쿠팡">
-          </div>
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/coupang/05_detail/coupang_detail_01.webp" class="c-post-card__image js-fadein longimg" alt="쿠팡">
-          </div>
-
-          <!-- 
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/coupang/01_home/coupang_home_01.webp' class='c-post-card__image js-fadein longimg' alt='쿠팡'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/coupang/05_detail/coupang_detail_01.webp' class='c-post-card__image js-fadein longimg' alt='쿠팡'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/coupang/09_mypage/coupang_mypage_orderlist_01.webp' class='c-post-card__image js-fadein longimg' alt='쿠팡'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/coupang/09_mypage/coupang_mypage_01.webp' class='c-post-card__image js-fadein longimg' alt='쿠팡'>
-            </div> -->
-        </a>
-      </div>
-      
-
-      
-
-
-      <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-02-17T01:46:31.706Z</updated>
-        <content type="html"><![CDATA[<a href="/2021/07/26/ruiiidtutor/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-      <div class="c-post-card__content ">
-        <div class="c-post-card__media">
-            <img src="/images/posts/ruiiidtutor/ruiiidtutor_logo.PNG" class="js-fadein applogo" alt="뤼이드 튜터">
-            <div style="display:flex; flex-direction:column;">
-              <div class="c-post-card__title">
-                뤼이드 튜터
-              </div>
-
-              <div class="c-post-card__tags">
-                
-                라이프스타일
-                
-              </div>
-            </div>
-        </div>
-      </div>
-
-      <!-- <div class='c-post-card__meta'>
-        <time class='c-post-card__date' datetime="2021-07-26T12:00:00+00:00" title="26 Jul 2021">26 Jul 2021</time>
-
-        <div class='c-post-card__tags'>
-          
-          Riiid
-          
-        </div> 
-        <div class='c-post-card__tags'>
-          
-          <a href='/tag/life'>라이프스타일</a>
-          
-        </div>
-      </div> -->
-
-      
-      </a><div class="c-post-card__media"><a href="/2021/07/26/ruiiidtutor/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-        </a><a href="/2021/07/26/ruiiidtutor/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/ruiiidtutor/ruiiidtutor_splash.PNG" class="c-post-card__image js-fadein longimg" alt="뤼이드 튜터">
-          </div>
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/ruiiidtutor/ruiiidtutor_signin_01.PNG" class="c-post-card__image js-fadein longimg" alt="뤼이드 튜터">
-          </div>
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/ruiiidtutor/ruiiidtutor_home_01.PNG" class="c-post-card__image js-fadein longimg" alt="뤼이드 튜터">
-          </div>
-
-          <!-- 
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/ruiiidtutor/ruiiidtutor_signin_01.PNG' class='c-post-card__image js-fadein longimg' alt='뤼이드 튜터'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/ruiiidtutor/ruiiidtutor_home_01.PNG' class='c-post-card__image js-fadein longimg' alt='뤼이드 튜터'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/ruiiidtutor/ruiiidtutor_analysis_01.PNG' class='c-post-card__image js-fadein longimg' alt='뤼이드 튜터'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/ruiiidtutor/ruiiidtutor_selective_01.PNG' class='c-post-card__image js-fadein longimg' alt='뤼이드 튜터'>
-            </div> -->
-        </a>
-      </div>
-      
-
-      
-
-
-      <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-02-17T01:46:31.706Z</updated>
-        <content type="html"><![CDATA[<a href="/2021/07/11/cardoc/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-      <div class="c-post-card__content ">
-        <div class="c-post-card__media">
-            <img src="/images/posts/cardoc/cardoc_logo.PNG" class="js-fadein applogo" alt="카닥">
-            <div style="display:flex; flex-direction:column;">
-              <div class="c-post-card__title">
-                카닥
-              </div>
-
-              <div class="c-post-card__tags">
-                
-                라이프스타일
-                
-              </div>
-            </div>
-        </div>
-      </div>
-
-      <!-- <div class='c-post-card__meta'>
-        <time class='c-post-card__date' datetime="2021-07-11T12:00:00+00:00" title="11 Jul 2021">11 Jul 2021</time>
-
-        <div class='c-post-card__tags'>
-          
-          Cardoc
-          
-        </div> 
-        <div class='c-post-card__tags'>
-          
-          <a href='/tag/life'>라이프스타일</a>
-          
-        </div>
-      </div> -->
-
-      
-      </a><div class="c-post-card__media"><a href="/2021/07/11/cardoc/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-        </a><a href="/2021/07/11/cardoc/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/cardoc/cardoc_splash.PNG" class="c-post-card__image js-fadein longimg" alt="카닥">
-          </div>
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/cardoc/cardoc_home_01.PNG" class="c-post-card__image js-fadein longimg" alt="카닥">
-          </div>
-
-          <div class="thumbnail-wrapper">
-            <img src="/images/posts/cardoc/cardoc_shopping_07.PNG" class="c-post-card__image js-fadein longimg" alt="카닥">
-          </div>
-
-          <!-- 
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/cardoc/cardoc_home_01.PNG' class='c-post-card__image js-fadein longimg' alt='카닥'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/cardoc/cardoc_shopping_07.PNG' class='c-post-card__image js-fadein longimg' alt='카닥'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/cardoc/cardoc_comm_11.PNG' class='c-post-card__image js-fadein longimg' alt='카닥'>
-            </div>
-
-            <div class="thumbnail-wrapper">
-              <img src='/images/posts/cardoc/cardoc_mypage_01.PNG' class='c-post-card__image js-fadein longimg' alt='카닥'>
-            </div> -->
-        </a>
-      </div>
-      
-
-      
-
-
-      <!-- 
-  -->]]></content>
-    </entry>
-</feed>
+  -->]]></content:encoded>
+        </item>
+    </channel>
+</rss>
