@@ -4,18 +4,18 @@
         <title>WWIT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Mar 2025 02:32:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Mar 2025 03:21:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[0]]></title>
             <link>https://wwit.design/</link>
             <guid>https://wwit.design/</guid>
-            <pubDate>Sat, 08 Mar 2025 02:32:22 GMT</pubDate>
+            <pubDate>Sat, 08 Mar 2025 03:21:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/2025/03/04/mmm/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
-            <img src="/images/posts/mmm/mmm_logo.webp" class="js-fadein applogo is-inview full-visible" alt="mmm 엠엠엠">
+            <img src="/images/posts/mmm/mmm_logo.webp" class="js-fadein applogo" alt="mmm 엠엠엠">
             <div style="display:flex; flex-direction:column;">
               <div class="c-post-card__title">
                 mmm 엠엠엠
@@ -50,15 +50,15 @@
         </a><a href="/2025/03/04/mmm/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
 
           <div class="thumbnail-wrapper">
-            <img src="/images/posts/mmm/00_onboarding/mmm_00_splash_01.webp" class="c-post-card__image js-fadein longimg is-inview" alt="mmm 엠엠엠">
+            <img src="/images/posts/mmm/00_onboarding/mmm_00_splash_01.webp" class="c-post-card__image js-fadein longimg" alt="mmm 엠엠엠">
           </div>
 
           <div class="thumbnail-wrapper">
-            <img src="/images/posts/mmm/00_onboarding/mmm_signup_12_onboarding.webp" class="c-post-card__image js-fadein longimg is-inview" alt="mmm 엠엠엠">
+            <img src="/images/posts/mmm/00_onboarding/mmm_signup_12_onboarding.webp" class="c-post-card__image js-fadein longimg" alt="mmm 엠엠엠">
           </div>
 
           <div class="thumbnail-wrapper">
-            <img src="/images/posts/mmm/01_add/mmm_add_04_input.webp" class="c-post-card__image js-fadein longimg is-inview" alt="mmm 엠엠엠">
+            <img src="/images/posts/mmm/01_add/mmm_add_04_input.webp" class="c-post-card__image js-fadein longimg" alt="mmm 엠엠엠">
           </div>
 
           <!-- 
@@ -92,11 +92,11 @@
             <title><![CDATA[1]]></title>
             <link>https://wwit.design/</link>
             <guid>https://wwit.design/</guid>
-            <pubDate>Sat, 08 Mar 2025 02:32:22 GMT</pubDate>
+            <pubDate>Sat, 08 Mar 2025 03:21:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/2025/02/15/npay/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
-            <img src="/images/posts/npay/npay_logo.webp" class="js-fadein applogo is-inview full-visible" alt="네이버페이 - 자산, 혜택, 현장결제">
+            <img src="/images/posts/npay/npay_logo.webp" class="js-fadein applogo" alt="네이버페이 - 자산, 혜택, 현장결제">
             <div style="display:flex; flex-direction:column;">
               <div class="c-post-card__title">
                 네이버페이 - 자산, 혜택, 현장결제
@@ -131,15 +131,15 @@
         </a><a href="/2025/02/15/npay/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
 
           <div class="thumbnail-wrapper">
-            <img src="/images/posts/npay/00_onboarding/npay_00_splash.webp" class="c-post-card__image js-fadein longimg is-inview" alt="네이버페이 - 자산, 혜택, 현장결제">
+            <img src="/images/posts/npay/00_onboarding/npay_00_splash.webp" class="c-post-card__image js-fadein longimg" alt="네이버페이 - 자산, 혜택, 현장결제">
           </div>
 
           <div class="thumbnail-wrapper">
-            <img src="/images/posts/npay/01_payment/01_onsite/npay_onsite_02.webp" class="c-post-card__image js-fadein longimg is-inview" alt="네이버페이 - 자산, 혜택, 현장결제">
+            <img src="/images/posts/npay/01_payment/01_onsite/npay_onsite_02.webp" class="c-post-card__image js-fadein longimg" alt="네이버페이 - 자산, 혜택, 현장결제">
           </div>
 
           <div class="thumbnail-wrapper">
-            <img src="/images/posts/npay/02_asset/01_home/npay_asset_01.webp" class="c-post-card__image js-fadein longimg is-inview" alt="네이버페이 - 자산, 혜택, 현장결제">
+            <img src="/images/posts/npay/02_asset/01_home/npay_asset_01.webp" class="c-post-card__image js-fadein longimg" alt="네이버페이 - 자산, 혜택, 현장결제">
           </div>
 
           <!-- 
@@ -173,7 +173,7 @@
             <title><![CDATA[2]]></title>
             <link>https://wwit.design/</link>
             <guid>https://wwit.design/</guid>
-            <pubDate>Sat, 08 Mar 2025 02:32:22 GMT</pubDate>
+            <pubDate>Sat, 08 Mar 2025 03:21:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/2024/12/24/wrtn/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
@@ -253,7 +253,7 @@
             <title><![CDATA[3]]></title>
             <link>https://wwit.design/</link>
             <guid>https://wwit.design/</guid>
-            <pubDate>Sat, 08 Mar 2025 02:32:22 GMT</pubDate>
+            <pubDate>Sat, 08 Mar 2025 03:21:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/2024/11/03/3o3/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
@@ -333,7 +333,7 @@
             <title><![CDATA[4]]></title>
             <link>https://wwit.design/</link>
             <guid>https://wwit.design/</guid>
-            <pubDate>Sat, 08 Mar 2025 02:32:22 GMT</pubDate>
+            <pubDate>Sat, 08 Mar 2025 03:21:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/2024/01/13/chzzk/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
@@ -413,7 +413,7 @@
             <title><![CDATA[5]]></title>
             <link>https://wwit.design/</link>
             <guid>https://wwit.design/</guid>
-            <pubDate>Sat, 08 Mar 2025 02:32:22 GMT</pubDate>
+            <pubDate>Sat, 08 Mar 2025 03:21:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/2023/09/30/dotslashdash/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
@@ -493,7 +493,7 @@
             <title><![CDATA[6]]></title>
             <link>https://wwit.design/</link>
             <guid>https://wwit.design/</guid>
-            <pubDate>Sat, 08 Mar 2025 02:32:22 GMT</pubDate>
+            <pubDate>Sat, 08 Mar 2025 03:21:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/2023/07/24/planfit/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
@@ -573,7 +573,7 @@
             <title><![CDATA[7]]></title>
             <link>https://wwit.design/</link>
             <guid>https://wwit.design/</guid>
-            <pubDate>Sat, 08 Mar 2025 02:32:22 GMT</pubDate>
+            <pubDate>Sat, 08 Mar 2025 03:21:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/2023/04/04/heydealer/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
@@ -653,7 +653,7 @@
             <title><![CDATA[8]]></title>
             <link>https://wwit.design/</link>
             <guid>https://wwit.design/</guid>
-            <pubDate>Sat, 08 Mar 2025 02:32:22 GMT</pubDate>
+            <pubDate>Sat, 08 Mar 2025 03:21:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/2022/12/18/pillyze/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
@@ -733,7 +733,7 @@
             <title><![CDATA[9]]></title>
             <link>https://wwit.design/</link>
             <guid>https://wwit.design/</guid>
-            <pubDate>Sat, 08 Mar 2025 02:32:22 GMT</pubDate>
+            <pubDate>Sat, 08 Mar 2025 03:21:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/2022/10/29/shinhanplay/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
