@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://wwit.design/</id>
-    <title>WWIT</title>
-    <updated>2025-03-13T09:25:33.545Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://wwit.design/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[0]]></title>
-        <id>https://wwit.design/</id>
-        <link href="https://wwit.design/"/>
-        <updated>2025-03-13T09:25:28.543Z</updated>
-        <content type="html"><![CDATA[<a href="/2025/03/04/mmm/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>WWIT</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 13 Mar 2025 10:26:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[0]]></title>
+            <link>https://wwit.design/</link>
+            <guid>https://wwit.design/</guid>
+            <pubDate>Thu, 13 Mar 2025 10:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2025/03/04/mmm/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/mmm/mmm_logo.webp" class="js-fadein applogo" alt="mmm 엠엠엠">
@@ -83,14 +85,15 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1]]></title>
-        <id>https://wwit.design/</id>
-        <link href="https://wwit.design/"/>
-        <updated>2025-03-13T09:25:28.544Z</updated>
-        <content type="html"><![CDATA[<a href="/2025/02/15/npay/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+            <enclosure url="https://wwit.design/images/posts/mmm/00_onboarding/mmm_00_splash_01.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[1]]></title>
+            <link>https://wwit.design/</link>
+            <guid>https://wwit.design/</guid>
+            <pubDate>Thu, 13 Mar 2025 10:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2025/02/15/npay/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/npay/npay_logo.webp" class="js-fadein applogo" alt="네이버페이 - 자산, 혜택, 현장결제">
@@ -163,14 +166,15 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2]]></title>
-        <id>https://wwit.design/</id>
-        <link href="https://wwit.design/"/>
-        <updated>2025-03-13T09:25:28.545Z</updated>
-        <content type="html"><![CDATA[<a href="/2024/12/24/wrtn/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+            <enclosure url="https://wwit.design/images/posts/npay/00_onboarding/npay_00_splash.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[2]]></title>
+            <link>https://wwit.design/</link>
+            <guid>https://wwit.design/</guid>
+            <pubDate>Thu, 13 Mar 2025 10:26:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2024/12/24/wrtn/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/wrtn/wrtn_logo.webp" class="js-fadein applogo" alt="뤼튼">
@@ -243,14 +247,14 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3]]></title>
-        <id>https://wwit.design/</id>
-        <link href="https://wwit.design/"/>
-        <updated>2025-03-13T09:25:28.550Z</updated>
-        <content type="html"><![CDATA[<a href="/2024/11/03/3o3/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[3]]></title>
+            <link>https://wwit.design/</link>
+            <guid>https://wwit.design/</guid>
+            <pubDate>Thu, 13 Mar 2025 10:26:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2024/11/03/3o3/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/3o3/3o3_logo.webp" class="js-fadein applogo" alt="삼쩜삼">
@@ -323,14 +327,14 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4]]></title>
-        <id>https://wwit.design/</id>
-        <link href="https://wwit.design/"/>
-        <updated>2025-03-13T09:25:28.551Z</updated>
-        <content type="html"><![CDATA[<a href="/2024/01/13/chzzk/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[4]]></title>
+            <link>https://wwit.design/</link>
+            <guid>https://wwit.design/</guid>
+            <pubDate>Thu, 13 Mar 2025 10:26:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2024/01/13/chzzk/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/chzzk/chzzk_logo.webp" class="js-fadein applogo" alt="치지직 CHZZK">
@@ -403,14 +407,14 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5]]></title>
-        <id>https://wwit.design/</id>
-        <link href="https://wwit.design/"/>
-        <updated>2025-03-13T09:25:28.553Z</updated>
-        <content type="html"><![CDATA[<a href="/2023/09/30/dotslashdash/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5]]></title>
+            <link>https://wwit.design/</link>
+            <guid>https://wwit.design/</guid>
+            <pubDate>Thu, 13 Mar 2025 10:26:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2023/09/30/dotslashdash/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/dotslashdash/dotslashdash_logo.webp" class="js-fadein applogo" alt="닷슬래시대시">
@@ -483,14 +487,14 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6]]></title>
-        <id>https://wwit.design/</id>
-        <link href="https://wwit.design/"/>
-        <updated>2025-03-13T09:25:28.555Z</updated>
-        <content type="html"><![CDATA[<a href="/2023/07/24/planfit/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6]]></title>
+            <link>https://wwit.design/</link>
+            <guid>https://wwit.design/</guid>
+            <pubDate>Thu, 13 Mar 2025 10:26:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2023/07/24/planfit/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/planfit/planfit_logo.webp" class="js-fadein applogo" alt="플랜핏">
@@ -563,14 +567,14 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7]]></title>
-        <id>https://wwit.design/</id>
-        <link href="https://wwit.design/"/>
-        <updated>2025-03-13T09:25:28.557Z</updated>
-        <content type="html"><![CDATA[<a href="/2023/04/04/heydealer/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[7]]></title>
+            <link>https://wwit.design/</link>
+            <guid>https://wwit.design/</guid>
+            <pubDate>Thu, 13 Mar 2025 10:26:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2023/04/04/heydealer/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/heydealer/heydealer_logo.webp" class="js-fadein applogo" alt="헤이딜러">
@@ -643,14 +647,14 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8]]></title>
-        <id>https://wwit.design/</id>
-        <link href="https://wwit.design/"/>
-        <updated>2025-03-13T09:25:28.559Z</updated>
-        <content type="html"><![CDATA[<a href="/2022/12/18/pillyze/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[8]]></title>
+            <link>https://wwit.design/</link>
+            <guid>https://wwit.design/</guid>
+            <pubDate>Thu, 13 Mar 2025 10:26:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2022/12/18/pillyze/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/pillyze/pillyze_logo.webp" class="js-fadein applogo" alt="필라이즈">
@@ -723,14 +727,14 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9]]></title>
-        <id>https://wwit.design/</id>
-        <link href="https://wwit.design/"/>
-        <updated>2025-03-13T09:25:28.561Z</updated>
-        <content type="html"><![CDATA[<a href="/2022/10/29/shinhanplay/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[9]]></title>
+            <link>https://wwit.design/</link>
+            <guid>https://wwit.design/</guid>
+            <pubDate>Thu, 13 Mar 2025 10:26:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2022/10/29/shinhanplay/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/shinhanplay/shinhanplay_logo.webp" class="js-fadein applogo" alt="신한플레이">
@@ -803,6 +807,7 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-</feed>
+  -->]]></content:encoded>
+        </item>
+    </channel>
+</rss>
