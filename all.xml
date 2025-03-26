@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ITCORD.github.io/product/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2025-03-26T18:33:54.143Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-03-26T18:33:49.030Z</updated>
-        <content type="html"><![CDATA[<a href="/2025/03/15/revolt/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 26 Mar 2025 19:21:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[undefined (WWIT)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Wed, 26 Mar 2025 19:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2025/03/15/revolt/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
-            <img src="/images/posts/revolt/revolt_logo.webp" class="js-fadein applogo" alt="revolt 리볼트">
+            <img src="/images/posts/revolt/revolt_logo.webp" class="js-fadein applogo is-inview full-visible" alt="revolt 리볼트">
             <div style="display:flex; flex-direction:column;">
               <div class="c-post-card__title">
                 revolt 리볼트
@@ -47,15 +50,15 @@
         </a><a href="/2025/03/15/revolt/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
 
           <div class="thumbnail-wrapper">
-            <img src="/images/posts/revolt/00_onboarding/revolt_00_splash.webp" class="c-post-card__image js-fadein longimg" alt="revolt 리볼트">
+            <img src="/images/posts/revolt/00_onboarding/revolt_00_splash.webp" class="c-post-card__image js-fadein longimg is-inview" alt="revolt 리볼트">
           </div>
 
           <div class="thumbnail-wrapper">
-            <img src="/images/posts/revolt/01_home/revolt_home_01.webp" class="c-post-card__image js-fadein longimg" alt="revolt 리볼트">
+            <img src="/images/posts/revolt/01_home/revolt_home_01.webp" class="c-post-card__image js-fadein longimg is-inview" alt="revolt 리볼트">
           </div>
 
           <div class="thumbnail-wrapper">
-            <img src="/images/posts/revolt/02_search/revolt_search_04.webp" class="c-post-card__image js-fadein longimg" alt="revolt 리볼트">
+            <img src="/images/posts/revolt/02_search/revolt_search_04.webp" class="c-post-card__image js-fadein longimg is-inview" alt="revolt 리볼트">
           </div>
 
           <!-- 
@@ -82,17 +85,18 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-03-26T18:33:49.031Z</updated>
-        <content type="html"><![CDATA[<a href="/2025/03/04/mmm/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+            <enclosure url="https://wwit.design/images/posts/revolt/00_onboarding/revolt_00_splash.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (WWIT)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Wed, 26 Mar 2025 19:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2025/03/04/mmm/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
-            <img src="/images/posts/mmm/mmm_logo.webp" class="js-fadein applogo" alt="mmm 엠엠엠">
+            <img src="/images/posts/mmm/mmm_logo.webp" class="js-fadein applogo is-inview full-visible" alt="mmm 엠엠엠">
             <div style="display:flex; flex-direction:column;">
               <div class="c-post-card__title">
                 mmm 엠엠엠
@@ -127,15 +131,15 @@
         </a><a href="/2025/03/04/mmm/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
 
           <div class="thumbnail-wrapper">
-            <img src="/images/posts/mmm/00_onboarding/mmm_00_splash_01.webp" class="c-post-card__image js-fadein longimg" alt="mmm 엠엠엠">
+            <img src="/images/posts/mmm/00_onboarding/mmm_00_splash_01.webp" class="c-post-card__image js-fadein longimg is-inview" alt="mmm 엠엠엠">
           </div>
 
           <div class="thumbnail-wrapper">
-            <img src="/images/posts/mmm/00_onboarding/mmm_signup_12_onboarding.webp" class="c-post-card__image js-fadein longimg" alt="mmm 엠엠엠">
+            <img src="/images/posts/mmm/00_onboarding/mmm_signup_12_onboarding.webp" class="c-post-card__image js-fadein longimg is-inview" alt="mmm 엠엠엠">
           </div>
 
           <div class="thumbnail-wrapper">
-            <img src="/images/posts/mmm/01_add/mmm_add_04_input.webp" class="c-post-card__image js-fadein longimg" alt="mmm 엠엠엠">
+            <img src="/images/posts/mmm/01_add/mmm_add_04_input.webp" class="c-post-card__image js-fadein longimg is-inview" alt="mmm 엠엠엠">
           </div>
 
           <!-- 
@@ -162,14 +166,15 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-03-26T18:33:49.043Z</updated>
-        <content type="html"><![CDATA[<a href="/2025/02/15/npay/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+            <enclosure url="https://wwit.design/images/posts/mmm/00_onboarding/mmm_00_splash_01.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (WWIT)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Wed, 26 Mar 2025 19:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2025/02/15/npay/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/npay/npay_logo.webp" class="js-fadein applogo" alt="네이버페이 - 자산, 혜택, 현장결제">
@@ -242,14 +247,14 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-03-26T18:33:49.047Z</updated>
-        <content type="html"><![CDATA[<a href="/2024/12/24/wrtn/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (WWIT)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Wed, 26 Mar 2025 19:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2024/12/24/wrtn/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/wrtn/wrtn_logo.webp" class="js-fadein applogo" alt="뤼튼">
@@ -322,14 +327,14 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-03-26T18:33:49.047Z</updated>
-        <content type="html"><![CDATA[<a href="/2024/11/03/3o3/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (WWIT)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Wed, 26 Mar 2025 19:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2024/11/03/3o3/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/3o3/3o3_logo.webp" class="js-fadein applogo" alt="삼쩜삼">
@@ -402,14 +407,14 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-03-26T18:33:49.047Z</updated>
-        <content type="html"><![CDATA[<a href="/2024/01/13/chzzk/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (WWIT)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Wed, 26 Mar 2025 19:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2024/01/13/chzzk/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/chzzk/chzzk_logo.webp" class="js-fadein applogo" alt="치지직 CHZZK">
@@ -482,14 +487,14 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-03-26T18:33:49.048Z</updated>
-        <content type="html"><![CDATA[<a href="/2023/09/30/dotslashdash/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (WWIT)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Wed, 26 Mar 2025 19:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2023/09/30/dotslashdash/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/dotslashdash/dotslashdash_logo.webp" class="js-fadein applogo" alt="닷슬래시대시">
@@ -562,14 +567,14 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-03-26T18:33:49.048Z</updated>
-        <content type="html"><![CDATA[<a href="/2023/07/24/planfit/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (WWIT)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Wed, 26 Mar 2025 19:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2023/07/24/planfit/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/planfit/planfit_logo.webp" class="js-fadein applogo" alt="플랜핏">
@@ -642,14 +647,14 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-03-26T18:33:49.048Z</updated>
-        <content type="html"><![CDATA[<a href="/2023/04/04/heydealer/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (WWIT)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Wed, 26 Mar 2025 19:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2023/04/04/heydealer/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/heydealer/heydealer_logo.webp" class="js-fadein applogo" alt="헤이딜러">
@@ -722,14 +727,14 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (WWIT)]]></title>
-        <id>https://ITCORD.github.io/product/all.xml</id>
-        <link href="https://ITCORD.github.io/product/all.xml"/>
-        <updated>2025-03-26T18:33:49.056Z</updated>
-        <content type="html"><![CDATA[<a href="/2022/12/18/pillyze/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
+  -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (WWIT)]]></title>
+            <link>https://ITCORD.github.io/product/all.xml</link>
+            <guid>https://ITCORD.github.io/product/all.xml</guid>
+            <pubDate>Wed, 26 Mar 2025 19:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/2022/12/18/pillyze/" class="c-post-card__image-link" aria-hidden="true" tabindex="-1" target="_blank">
       <div class="c-post-card__content ">
         <div class="c-post-card__media">
             <img src="/images/posts/pillyze/pillyze_logo.webp" class="js-fadein applogo" alt="필라이즈">
@@ -802,6 +807,7 @@
 
 
       <!-- 
-  -->]]></content>
-    </entry>
-</feed>
+  -->]]></content:encoded>
+        </item>
+    </channel>
+</rss>
